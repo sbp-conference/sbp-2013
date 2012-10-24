@@ -1,0 +1,93 @@
+<!DOCTYPE html> <html lang="en">
+    <head>
+
+        <title>SBP: Social Computing, Behavioral-Cultural Modeling and Prediction</title>
+
+        <!--link rel="stylesheet" type="text/css" href="css/sbp.css" -->
+        <link rel="stylesheet" type="text/css" href="css/main.css" >
+
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" >
+        <meta name="description" content="Social Computing, Behavioral-Cultural Modeling and Prediction">
+        <meta name="keywords" content="social computing, behavioral-cultural modeling, prediction">
+        <meta name="author" content="Nathan Bos">
+        <meta name="author" content="Katherine Chuang">
+
+        <!--[if IE]> <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]--> <!--[if lte IE 7]> <script src="js/IE8.js" type="text/javascript"></script><![endif]--> <!--[if lt IE 7]>
+
+        <link rel="stylesheet" type="text/css" media="all" href="css/ie6.css"/><![endif]--> 
+
+    </head>
+    <body id="index" class="home">
+        <!--#include virtual="banner.html" -->
+            
+        <aside id="featured" class="body"><article>
+        <hgroup>
+            <center>
+                <h2>Keynote Speakers</h2>
+                <!--h3>The 2013 International Conference on Social Computing, <br />
+                Behavioral-Cultural Modeling, & Prediction (SBP 2013)</h3-->
+
+        <p>
+        </p>
+        </center>
+        </hgroup>
+    </article></aside><!-- /#featured -->
+
+
+        <section id="content" class="body">  
+            <ol id="posts-list" class="hfeed">  
+                
+                <li>
+                    <article class="hentry">    
+                        <header> 
+                            <h2 class="entry-title">
+                                <a href="http://www.hpl.hp.com/research/idl/people/huberman/" rel="bookmark" title="POST TITLE">Bernardo Huberman</a></h2> 
+                                Hewlett-Packard Laboratories
+                        </header>  
+                        <div class="entry-content"> 
+                            <p>
+                                <img src="images/bernardo_huberman.jpg" style="float:right;margin-left:18px;"  id="keynotepage">
+                                <blockquote>Bernardo Huberman is a Senior HP Fellow and Director of the Social Computing Lab at Hewlett-Packard Laboratories. Trained as a physicist, Dr Huberman has made an impact in a wide variety of areas. In the field of information sciences, he predicted the existence of phase transitions in large scale distributed systems, and developed an economics approach to the solution of hard computational problems. Dr. Huberman is one of the creators of the field of ecology of computation, and editor of a book on the subject. He published the book: “The Laws of the Web: Patterns in the Ecology of Information”, with MIT Press in 2001.Presently, his work centers on the design of novel mechanisms for discovering and aggregating information in distributed systems as well as understanding the dynamics of information in large networks.
+                                <br><br></blockquote>
+                            </p>  
+                            <p>
+                                More information on his impressive breadth of work can be found in his <a href="http://www.hpl.hp.com/research/idl/people/huberman/" target=_BHuberman>HP bio</a></p>
+                        </div><!-- /.entry-content --> </article></li>  
+
+                         <li><article class="hentry">
+                            <header> 
+                            <h2 class="entry-title">
+                                <a href="http://www.bsos.umd.edu/psyc/gelfand/" rel="bookmark" title="POST TITLE">Michele Gelfand</a></h2> 
+                                University of Maryland
+                            </header> 
+                            <div class="entry-content"> 
+                            <p>
+                                <img src="images/michele_gelfand.jpg" style="float:right;margin-left:18px"  id="keynotepage"><blockquote>Michele J. Gelfand is Professor of Psychology and Distinguished University Scholar Teacher at the University of Maryland, College Park. She is an internationally known researcher in the study of cross-cultural psychology. Her work explores cultural influences on conflict, negotiation, justice, and revenge; workplace diversity and discrimination; and theory and methods in cross-cultural psychology. Her work has been published in prestigious outlets including Science, the Journal of Applied Psychology, the Journal of Personality and Social Psychology, Organizational Behavior and Human Decision Processes, Academy of Management Review, Academy of Management Journal, and the Annual Review of Psychology.<br><br></blockquote>
+                            </p> 
+                            <p>More information on her  current work can be found in her <a href="http://www.bsos.umd.edu/psyc/gelfand/" target=_MGelfand>University of Maryland bio</a></p>
+                        </div><!-- /.entry-content --></article></li>
+
+                        <li><article class="hentry"><header> 
+                            <h2 class="entry-title">
+                                <a href="http://www.psc.isr.umich.edu/people/profile/463/Myron_Gutmann" rel="bookmark" title="POST TITLE">Myron Gutmann</a></h2> 
+                                National Science Foundation 
+                            </header> 
+                            <div class="entry-content"> 
+                            <p><div style="float:right;margin-left:18px;"><img src="images/myron_gutman.jpg" id="keynotepage"></div><blockquote>Myron Gutmann heads the National Science Foundation's directorate for Social, Behavioral and Economic Sciences (SBE). The directorate supports research that builds fundamental knowledge of human behavior, interaction, social and economic systems, and organizations and institutions. Gutmann directs the University of Michigan's ICPSR, an international resource for survey  data, training, and research. Gutmann has a broad range of interests in interdisciplinary historical population studies, especially relating population to agricultural, the environment, and health. He also studies ways that digital materials can be properly preserved and shared, and how the confidentiality of research subjects can be protected when data about them is made available for secondary use. He is an expert on historical demography and the social, demographic and economic history of Europe and the Americas.<br><br></blockquote> </p> 
+
+                            <p>More information is available at <a href="http://www.psc.isr.umich.edu/people/profile/463/Myron_Gutmann" target=_MGutmann>University of Michigan bio</a></p>
+                        </div><!-- /.entry-content --></article></li> 
+
+
+                    </ol><!-- /#posts-list -->  
+                </section><!-- /#content -->
+
+
+                <!--#include virtual="menu.html" -->
+
+        <!--footer id="contentinfo">
+        <p>2012 <a href="http://sbp2013.org">SBP</a>.</p>
+        </footer><!-- /#contentinfo -->
+
+    </body>
+</html>

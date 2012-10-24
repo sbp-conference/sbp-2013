@@ -1,0 +1,74 @@
+<!DOCTYPE html> <html lang="en">
+    <head>
+
+        <title>SBP: Social Computing, Behavioral-Cultural Modeling and Prediction</title>
+
+        <!--link rel="stylesheet" type="text/css" href="css/sbp.css" -->
+        <link rel="stylesheet" type="text/css" href="css/main.css" >
+
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" >
+        <meta name="description" content="Social Computing, Behavioral-Cultural Modeling and Prediction">
+        <meta name="keywords" content="social computing, behavioral-cultural modeling, prediction">
+        <meta name="author" content="Nathan Bos">
+        <meta name="author" content="Katherine Chuang">
+
+        <!--[if IE]> <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]--> <!--[if lte IE 7]> <script src="js/IE8.js" type="text/javascript"></script><![endif]--> <!--[if lt IE 7]>
+
+        <link rel="stylesheet" type="text/css" media="all" href="css/ie6.css"/><![endif]--> 
+
+        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
+    </head>
+    <body id="index" class="home">
+        <!--#include virtual="banner.html" -->
+            
+        <aside id="featured" class="body"><article>
+        <hgroup>
+            <center>
+                <h2>Round Table</h2>
+            <br>
+                
+            <div>
+                Round Table dicussions TBD after author acceptance notice December 20.
+            </div>
+        </center>
+        </hgroup>
+        </article></aside><!-- /#featured -->
+
+ <section id="content" class="body">  
+            <ol id="posts-list" class="hfeed">  
+
+                 <li><article class="hentry">
+                    <header> 
+                    <h2 class="entry-title">
+                        <a href="https://www.facebook.com/pages/SBP-2013-Conference/120779624740819" rel="bookmark" title="POST TITLE">SBP2013 on Facebook</a></h2> 
+                    </header> 
+                    <div class="entry-content"> 
+                        <!-- Facebook Badge START --><a href="https://www.facebook.com/pages/SBP-2013-Conference/120779624740819" target="_TOP" style="font-family: &quot;lucida grande&quot;,tahoma,verdana,arial,sans-serif; font-size: 11px; font-variant: normal; font-style: normal; font-weight: normal; color: #3B5998; text-decoration: none;" title="SBP 2013 Conference">Visit SBP 2013 Conference on Facebook</a><br/>
+                        <a href="https://www.facebook.com/pages/SBP-2013-Conference/120779624740819" target="_TOP" title="SBP 2013 Conference"><img src="https://badge.facebook.com/badge/120779624740819.118.1811938854.png" style="border: 0px;" /></a><!-- Facebook Badge END -->
+                        <br /><br/>
+                    </div><!-- /.entry-content -->
+                </article></li>
+                
+                <li><article class="hentry"> 
+                    <header> 
+                    <h2 class="entry-title">
+                        <a href="https://twitter.com/search/realtime?q=sbp2013" rel="bookmark" title="POST TITLE">Latest Tweets about #SBP2013</a></h2> 
+                    </header> 
+                    <div id="tweetblock">
+                        <ul id="tweets"> </ul>
+                    </div>
+                </li> 
+            </ol><!-- /#posts-list -->  
+        </section><!-- /#content -->
+
+
+
+                <!--#include virtual="menu.html" -->
+
+        <!--footer id="contentinfo">
+        <p>2012 <a href="http://sbp2013.org">SBP</a>.</p>
+        </footer><!-- /#contentinfo -->
+
+        <script src="js/twitterstream.js"></script>
+    </body>
+</html>

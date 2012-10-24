@@ -1,0 +1,139 @@
+<!DOCTYPE html> <html lang="en">
+    <head>
+
+        <title>SBP: Social Computing, Behavioral-Cultural Modeling and Prediction</title>
+
+        <!--link rel="stylesheet" type="text/css" href="css/sbp.css" -->
+        <link rel="stylesheet" type="text/css" href="css/main.css" >
+
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" >
+        <meta name="description" content="Social Computing, Behavioral-Cultural Modeling and Prediction">
+        <meta name="keywords" content="social computing, behavioral-cultural modeling, prediction">
+        <meta name="author" content="Nathan Bos">
+        <meta name="author" content="Katherine Chuang">
+
+        <!--[if IE]> <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]--> <!--[if lte IE 7]> <script src="js/IE8.js" type="text/javascript"></script><![endif]--> <!--[if lt IE 7]>
+
+        <link rel="stylesheet" type="text/css" media="all" href="css/ie6.css"/><![endif]--> 
+
+    </head>
+    <body id="index" class="home">
+        <!--#include virtual="banner.html" -->
+
+        <aside id="featured" class="body"><article>
+        <hgroup>
+            <center><h2>Challenge Problem</h2></center>
+            <h3>Int'l Conference on Social Computing, Behavioral-Cultural Modeling, & Prediction</h3>
+            <div>SBP is offering a challenge problem for the second time in 2013. We organize this challenge to encourage researchers to combine the power of big data and the power of systems thinking in the field of social computing, behavioral-cultural modeling, and prediction. These datasets are brought to you by the MIT Human Dynamics Laboratory, with special thanks to professor Alex (Sandy) Pentland and his research team. </div>
+        </hgroup>
+
+        <address id="about" class="vcard body">
+            <span class="primary">
+                <strong>Problem Description</strong>
+                <span class="role"></span>
+            </span><!-- /.primary -->
+            
+            <span class="challenge">
+                <p>Cell phones afford a convenient platform to advance the understanding of social dynamics and influence, because of their pervasiveness, sensing capabilities, and computational power. Many applications have emerged in recent years in mobile health, mobile banking, location based services, media democracy, and social movements. With these new capabilities, we can potentially identify exact points and times of infection for diseases, determine who most influences us to gain weight or become healthier, know exactly how information flows among employees and how productivity is affected in our work spaces, and understand how rumors spread.
+                <p>There remain, however, significant challenges to making mobile phones the essential tool for conducting social science research and also support mobile commerce with a solid social science foundation. Perhaps the greatest challenge is the lack of data in the public domain. There is a need for data large and extensive enough to capture the disparate facets of human behavior and interactions. Another major challenge lies in the interdisciplinary nature of conducting social science research with mobile phones. Software engineers need to work collaboratively alongside social scientists and data miners in various fields.
+                <p>In an attempt to address these challenges, we have worked with the MIT Human Dynamics laboratory to release several mobile data sets in "Reality Commons" that contain the dynamics of several communities of about 100 people each. We invite researchers:
+                <UL type ="circle">
+                <li type=circle>To propose and submit their own applications of the data to demonstrate the scientific and business values of these data sets,
+                <li type=circle>To suggest how to meaningfully extend these experiments to larger populations, or
+                <li type=circle>To develop the math that fits agent-based models or systems dynamics models to larger populations.
+                The problem itself will be open-ended and encourage approaches from different disciplines, encompassing a range of applications using this data, including:
+                <li type=circle>Social network analysis
+                <li type=circle>Data visualization
+                <li type=circle>Simulation studies
+                <li type=circle>Predictive modeling
+                <li type=circle>Qualitative studies to supplement existing quantitative work
+                <li type=circle>Creative new applications of the data
+                </UL>
+            </span>
+        </address>
+
+        <address id="about" class="vcard body">
+            <span class="primary">
+                <strong>The DataSet</strong>
+                <span class="role"></span>
+            </span><!-- /.primary -->
+            
+            <span class="challenge">
+                <p><b>Data center dynamics:</b> The data contain the performance, behavior, and interpersonal interactions of participating employees at a Chicago-area data server configuration firm for one month. It is the first data set to contain the performance and dynamics of a real-world organization with a temporal resolution of a few seconds. The sensor data were collected by Daniel Olguin, Ben Waber, Tamie Kim, and Alex Pentland in 2007 using Sociometric Badges.
+                <p><b>Social Evolution in an undergraduate dormitory:</b> The data contain surveys and sensor data about the diffusion of political opinions, diet, exercise, obesity, eating habits, epidemiological contagion, depression and stress,  and political opinions from 70 residents of an undergraduate dormitory. These residents represent 80% of the total population.
+                <p><b>Friends and Family dataset:</b> The Friends and Family experiment was designed to study (a) how people make decisions, with emphasis on the social aspects involved, and (b) how we can empower people to make better decisions using personal and social tools. The subjects were members of a young-family residential living community adjacent to a major research university in North America. All members of the community are couples, and at least one person in each family is affiliated with the university. The community is composed of over 400 residents, approximately half whom have children. The sensor data in this data set were collected using the funf open-source sensing platform for Android phones.
+                <p><b>Reality Mining dataset:</b> Data contain the dynamics of 75 students/faculty in the MIT Media Laboratory, and 25 incoming students at the MIT Sloan business school adjacent to the Media Laboratory. The Reality Mining experiment conducted in 2004 was the first to study community dynamics by tracking a sufficient amount people with their personal mobile phones and resulted in one of the most complete mobile data sets with rich personal behavior and interpersonal interactions. Prior to this experiment, cell phones were not powerful enough to track people.
+                <p><h4>Data access</h4>
+                <p>Data is accessible from <a href="http://realitycommons.media.mit.edu/" target="realitycommons">realitycommons.media.mit.edu</a>
+                <p>Users will be asked to fill out a short form and agree to privacy  and data use restrictions.</p>
+            </span>
+        </address>
+
+        <address id="about" class="vcard body">
+            <span class="primary">
+                <strong>Submission and Evaluation</strong>
+                <span class="role"><a href="https://www.easychair.org/conferences/?conf=sbp2013challenge">Submissions</a></span>
+            </span><!-- /.primary -->
+
+            <span class="challenge">
+                <p>Submissions will be evaluated based on theoretical grounding as well as use of evidence. Winners will be selected by an interdisciplinary committee of researchers and will be recognized at the conference with 1st, 2nd, and 3rd prizes. The winners will introduce the idea briefly at the conference to the audience and/or give a quick demo. Challenge organizers intend to organize winning entries into a special issue of an appropriate journal.</p>
+                <p>The submissions (6 pages) should be formatted according to the Springer-Verlag LNCS/LNAI guidelines. Sample LaTeX2e and WORD files are available from <a href="http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0" target="Springer"> http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0.</a>. Submissions for the challenge can be made <a href="https://www.easychair.org/conferences/?conf=sbp2013challenge">here</a>.</p>
+            </span>
+        </address>
+
+        <address id="about" class="vcard body">
+            <span class="primary">
+                <strong>Important Dates</strong>
+            </span><!-- /.primary -->
+
+            <span class="challenge">
+                <UL type="circle">
+                    <li type=circle>Submission deadline: January 31, 2013 (23:59 PST)</li>
+                    <li type=circle>Notification of Winners: March 2, 2013</li>
+                </UL>
+            </span>
+        </address>
+
+
+        <address id="about" class="vcard body">
+            <span class="primary">
+                <strong>Challenge Problem Co-chairs</strong>
+            </span><!-- /.primary -->
+
+            <span class="challenge">
+                <p>
+                Nitin Agarwal, University of Arkansas, nxagarwal@ualr.edu<br />
+                Wen Dong, MIT Media Lab, wdong@media.mit.edu</p>
+            </span>
+        </address>
+
+
+        <address id="about" class="vcard body">
+            <span class="primary">
+                <strong>Prior work using this data</strong>
+            </span><!-- /.primary -->
+
+            <span class="challenge">
+                <p>
+                A bibtex file of references to prior publications using this data is available for dowload (righ-click to 'save as'): <a href="sbp2013challenge.bib" target="bib">sbp2013challenge.bib</a><br />
+                BibTeX files can be read by most bibliographic software packages well as LaTeX. Many free converters are available.            </p>     
+            </span>
+        </address>
+
+    </article></aside><!-- /#content -->
+
+    <aside id="featured" class="body"><article>
+        <center>
+                <h2>2012 challenge problem winners</h2></center>
+
+            <p>Congratulations to winners of the first SBP challenge problem:<br>
+            <UL type="disc" class="something" style="margin-left:0;padding:left:0">
+            <li type="circle">Matthew Lease, School of Information, University of Texas at Austin "Discovering and Navigating Memes in Social Media"
+            <li type="circle">Masoud Makrehchi, Research Scientist, Thomson Reuters, Toronto, Canada "Conflict Thermometer:
+            Predicting Social Conflicts by Analyzing Language Gap in Polarized Social Media."
+            </ul></p>
+</article></aside><!-- /#content -->
+    <!--#include virtual="menu.html" -->
+
+    </body>
+</html>
