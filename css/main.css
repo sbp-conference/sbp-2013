@@ -375,6 +375,9 @@ li:last-child .hentry, #content > .hentry {border: 0; margin: 0;}
 
 .hentry .post-info * {font-style: normal;}
 
+.entry-content2 p { border-bottom:1px solid #cccccc; padding-bottom: 0.5em;}
+.entry-title2 {padding-top: 0.5em;}
+
 	/* Content */
 	.hentry footer {margin-bottom: 2em;}
 	.hentry footer address {display: inline;}

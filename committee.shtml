@@ -19,17 +19,6 @@
     </head>
     <body id="index" class="home">
         <!--#include virtual="banner.html" -->
-            
-        <!--aside id="featured" class="body"><article>
-        <hgroup>
-            <center>
-                <h2>Conference Committee</h2>
-<br>
-                <h3></h3>
-        </center>
-        </hgroup>
-    </article></aside><!-- /#featured -->
-
 
         <section id="content" class="body">  
             <center>
@@ -44,7 +33,7 @@
                             <h2 class="entry-title">
                                 <a href="#" rel="bookmark" title="POST TITLE">Conference Co-Chairs</a></h2> 
                         </header>  
-                        <div class="entry-content"> 
+                        <div class="entry-content2"> 
                             <p>
                                 <b>Nathan D Bos</b>, Johns Hopkins University Applied Physics Lab<br />
                                 <b><a href="http://www.css.gmu.edu/?q=node/16">Claudio Cioffi-Revilla</a></b> George Mason University<br>
@@ -56,7 +45,7 @@
                             <h2 class="entry-title">
                                 <a href="#" rel="bookmark" title="POST TITLE">Program Co-Chairs</a></h2> 
                             </header> 
-                            <div class="entry-content"> 
+                            <div class="entry-content2"> 
                             <p>
                                 <b>Ariel M Greenberg</b>, Johns Hopkins University Applied Physics Lab</b><br />
                                 <b><a href="http://www.nigms.nih.gov/About/marcus.htm">Stephen Marcus</a></b>, National Institutes of Health<br />
@@ -68,7 +57,7 @@
                             <h2 class="entry-title">
                                 <a href="#" rel="bookmark" title="POST TITLE">Steering Committee</a></h2> 
                             </header> 
-
+                            <div class="entry-content2"> 
                             <p>
                                 <b>John Salerno</b>, Air Force Research Laboratory<br>
                                 <a href="http://www.public.asu.edu/~huanliu/"><b>Huan Liu</b></a>, Arizona State University<br />
@@ -77,6 +66,7 @@
                                 <a href="http://www.cs.umd.edu/~nau/"><b>Dana Nau</b></a>, University of Maryland<br />
                                 <a href="http://www.cs.umd.edu/~vs/"><b>V.S. Subrahmanian</b></a>, University of Maryland<br /></b>
                             </p>
+                            </div>
                             </article></li> 
 
 
@@ -84,7 +74,7 @@
                             <h2 class="entry-title">
                                 <a href="#" rel="bookmark" title="POST TITLE">Advisory Committee </a></h2> 
                             </header> 
-
+                            <div class="entry-content2"> 
                             <p>
                                 <b><a href="http://www.nsf.gov/staff/staff_bio.jsp?lan=FChowdhu&org=NSF">Fahmida N. Chowdhury</a></b>, National Science Foundation<br />
                                 <b>Rebecca Goolsby</b>, Office of Naval Research<br />
@@ -92,17 +82,17 @@
                                 <b>John Lavery</b>, Army Research Lab/Army Research Office<br />
                                 <b><a href="http://obssr.od.nih.gov/about_obssr/staff/patricia_mabry_bio.aspx">Patricia Mabry</a></b>, National Institutes of Health<br>
                                 <b>Tisha Wiley</b>, National Institutes of Health
-                            </p>
+                            </p></div>
                             </article></li> 
 
                             <li><article class="hentry"><header> 
                             <h2 class="entry-title">
                                 <a href="#" rel="bookmark" title="POST TITLE">Poster Session Chair </a></h2> 
                             </header> 
-
+                            <div class="entry-content2"> 
                             <p>
                                 <b><a href="http://www.cs.binghamton.edu/~lyu/">Lei Yu</b></a>, Binghamton University
-                            </p>
+                            </p></div>
                             </article></li> 
 
 
@@ -110,10 +100,10 @@
                             <h2 class="entry-title">
                                 <a href="#" rel="bookmark" title="POST TITLE">Tutorial Chair </a></h2> 
                             </header> 
-
+                            <div class="entry-content2"> 
                             <p>
                                 <a href="http://www.ce.rit.edu/~sjyeec/"><b>Shanchieh (Jay) Yang</b></a>, Rochester Institute of Technology
-                            </p>
+                            </p></div>
                             </article></li> 
 
 
@@ -121,81 +111,82 @@
                             <h2 class="entry-title">
                                 <a href="#" rel="bookmark" title="POST TITLE">Challenge Problem Co-chairs </a></h2> 
                             </header> 
-
+                            <div class="entry-content2"> 
                             <p>
                                 <b>Nitin Agarwal</b>, University of Arkansas<br> 
                                 <b>Wen Dong</b>, MIT Media Lab<br>   
-                            </p>
+                            </p></div>
                             </article></li> 
 
                             <li><article class="hentry"><header> 
                             <h2 class="entry-title">
                                 <a href="#" rel="bookmark" title="POST TITLE">Workshop Co-Chairs </a></h2> 
                             </header> 
-
+                            <div class="entry-content2"> 
                             <p>
                                 <a href="http://www.nsf.gov/staff/staff_bio.jsp?lan=FChowdhu&org=NSF"><b>Fahmida N. Chowdhury</b></a>, National Science Foundation<br>
                                 <b>Tisha Wiley</b>, National Institutes of Health
-                            </p>
+                            </p></div>
                             </article></li> 
 
                             <li><article class="hentry"><header> 
                             <h2 class="entry-title">
                                 <a href="#" rel="bookmark" title="POST TITLE">Sponsorship Committee Chairs </a></h2> 
                             </header> 
-
+                            <div class="entry-content2"> 
                             <p>
                                   <a href="http://www.public.asu.edu/~huanliu/"><b>Huan Liu</b></a>, Arizona State University
-                            </p>
+                            </p></div>
                             </article></li> 
 
                             <li><article class="hentry"><header> 
                             <h2 class="entry-title">
                                 <a href="#" rel="bookmark" title="POST TITLE">Secretary </a></h2> 
                             </header> 
-
+                            <div class="entry-content2"> 
                             <p>
                                   <b>Chandler Johnson</b></a>, Stanford University
-                            </p>
+                            </p></div>
                             </article></li> 
 
                             <li><article class="hentry"><header> 
                             <h2 class="entry-title">
                                 <a href="#" rel="bookmark" title="POST TITLE">Student Arrangement Chairs </a></h2> 
                             </header> 
-
+                            <div class="entry-content2"> 
                             <p>
                                   <a href="http://www.cs.umd.edu/~roos"><b>Patrick Roos</b></a>, University of Maryland<br />
                                   <b>Wei Wei, Carnegie Mellon University</b>
-                            </p>
+                            </p></div>
                             </article></li> 
 
                             <li><article class="hentry"><header><h2 class="entry-title">
                             <a href="#" rel="bookmark" title="POST TITLE">Publicity Co-Chairs </a></h2> 
                             </header> 
-
+                            <div class="entry-content2"> 
                             <p>
                                 <b>Donald Adjeroh</b>, West Virginia University<br />
                                 <b><a href="http://obssr.od.nih.gov/about_obssr/staff/patricia_mabry_bio.aspx">Patricia Mabry</a></b>, National Institutes of Health<br>
-                            </p>
+                            </p></div>
                             </article></li> 
 
                             <li><article class="hentry"><header><h2 class="entry-title">
                             <a href="#" rel="bookmark" title="POST TITLE">Web chair </a></h2> 
                             </header> 
-
+                            <div class="entry-content2"> 
                             <p>
                                 <b><a href="http://www.katychuang.com">Katherine Chuang</a></b>, Drexel University<br>
-                            </p>
+                            </p></div>
                             </article></li> 
 
                             <!--li><article class="hentry"><header><h2 class="entry-title">
                             <a href="#" rel="bookmark" title="POST TITLE"> </a></h2> 
                             </header> 
+                                <div class="entry-content2"> 
 
                             <p>
                                   
-                            </p>
+                            </p></div>
                             </article></li--> 
 
                     </ol><!-- /#posts-list -->  
