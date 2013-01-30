@@ -4,8 +4,9 @@
         <title>SBP: Social Computing, Behavioral-Cultural Modeling and Prediction</title>
 
         <!--link rel="stylesheet" type="text/css" href="css/sbp.css" -->
-        <link rel="stylesheet" type="text/css" href="css/main.css" >
-
+        <!--link rel="stylesheet" type="text/css" href="css/main.css" -->
+        <link rel="stylesheet" type="text/css" href="main.css" />
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" >
         <meta name="description" content="Social Computing, Behavioral-Cultural Modeling and Prediction">
         <meta name="keywords" content="social computing, behavioral-cultural modeling, prediction">
@@ -20,26 +21,29 @@
     <body id="index" class="home">
         <!--#include virtual="banner.html" -->
             
-        <aside id="featured" class="body"><article>
+        <aside id="featured1" class="body"><article>
         <hgroup>
-            <center>
-                <h2>Call for Papers</h2></center>
-                <h3>Int'l Conference on Social Computing, Behavioral-Cultural Modeling, & Prediction</h3>
-                <p>April 2 to April 5, 2013, UCDC Center,  Washington DC, USA<br />
-                    <a href="http://sbp2013.org/sbp_2013_flyer.pdf">PDF version</a></p>
+                <h2>Call for Papers</h2>
+                <center>
+                <h3>International Conference on Social Computing, <br>Behavioral-Cultural Modeling, & Prediction</h3>
+                <p>April 2 to April 5, 2013, UCDC Center,  Washington DC, USA<br /><br />
+                    <a href="http://sbp2013.org/sbp_2013_flyer.pdf">PDF version</a></p></center>
                  
-
+            <p>&nbsp;</p>
             <h3>Paper Registration and Submission</h3>
             <p>
-            <ul><li>
+            <ul><li style="margin-bottom:10px;">
                 Go to <a href="https://www.easychair.org/conferences/?conf=sbp13">https://www.easychair.org/conferences/?conf=sbp13</a> and sign up for an account if you do not already have one.  If you need to create a new account, return to the site using this link once your account is established.</li>
-            <li>Once logged into the EasyChair SBP13 site as an SBP13 author, and the Terms of Service have been accepted, you will be able to register and submit your paper under the New Submission tab.</li>
-            <li>For the October 30 paper registration deadline, you need only enter your title into both the “Title” and “Abstract” fields in the Title, Abstract and Other Information section, and check “Abstract Only” in the Upload Paper section.  Please return before November 7 to submit your full paper.</li>
-            <li>If, and only if, the primary author is a full-time student, please check Student under “Groups” for the paper to be considered for a student award.  The evaluation process for student and regular groups is otherwise identical.</li>
-            <li>Please carefully select all applicable topics as we use these for reviewer matchmaking.  Enter a minimum of three (3) keywords to further aid reviewer/paper alignment.</li></ul>
-</p>
 
-                <h3>IMPORTANT DATES:</h3>
+                <li style="margin-bottom:10px;">Once logged into the EasyChair SBP13 site as an SBP13 author, and the Terms of Service have been accepted, you will be able to register and submit your paper under the New Submission tab.</li>
+
+                <li style="margin-bottom:10px;">For the October 30 paper registration deadline, you need only enter your title into both the “Title” and “Abstract” fields in the Title, Abstract and Other Information section, and check “Abstract Only” in the Upload Paper section.  Please return before November 7 to submit your full paper.</li>
+
+                <li style="margin-bottom:10px;">If, and only if, the primary author is a full-time student, please check Student under “Groups” for the paper to be considered for a student award.  The evaluation process for student and regular groups is otherwise identical.</li>
+                <li style="margin-bottom:10px;">Please carefully select all applicable topics as we use these for reviewer matchmaking.  Enter a minimum of three (3) keywords to further aid reviewer/paper alignment.</li></ul>
+            </p>
+
+                <h2>IMPORTANT DATES:</h2>
                 <p>Paper Registration Deadline:  October 30, 2012<br>
                 Paper/full text poster Due:  November 7, 2012<br>
                 Author Notification:  December 20, 2012<br>
@@ -47,30 +51,31 @@
                 SBP13 Conference (Single Track), April 3-5, 2013<br>
                 </p>
 
-                <h3>FORMAT AND SUBMISSION:</h3>
+                <h2>FORMAT AND SUBMISSION:</h2>
                 <p>SBP13 Conference Proceedings will be published in Lecture Notes in Computer Science(LCNS) by Springer. The maximum length of papers is 8 pages and should be submitted in PDF. The papers must be in English and MUST be formatted according to the Springer-Verlag LNCS/LNAI guidelines. Sample LaTeX2e and WORD files are available at <a href="http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0"> http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0.</a>
 
-                Abstract and full text for both oral presentations and posters should be submitted electronically before the specified deadlines. The submission website will come online in late October.
+                Abstract and full text for both oral presentations and posters should be submitted electronically before the specified deadlines. The submission website will come online in late October.</p>
 
                 <p>For any questions and inquiries, please send email to
-                don [at] csee.wvu.edu or Nathan.Bos [at] jhuapl.edu
-                 
+                don [at] csee.wvu.edu or Nathan.Bos [at] jhuapl.edu</p>
+                 <br />
                 <h3>BEST PAPER AWARDS:</h3>
                 <p>SBP 13 will feature a Best Paper Award and a Best Student Paper Award.  All papers are qualified for the Best Paper Award. Papers where the senior author says the principal author is a student will be considered for the Best Student Paper Award.
 
-                <h3>ABOUT SBP:</h3>
+                <h2>ABOUT SBP:</h2>
                 <p>SBP is a multidisciplinary conference with a selective single paper track and poster session. SBP also invites a small number of high quality tutorials and nationally recognized keynote speakers. 
 
-                <p>Social computing harnesses the power of computational methods to study social behavior within a social context. Cultural behavioral modeling refers to representing behavior and culture in the abstract, and is a convenient and powerful way to conduct virtual experiments and scenario analysis. Both social computing and cultural behavioral modeling are techniques designed to achieve a better understanding of complex behaviors, patterns, and associated outcomes of interest. Moreover, these approaches are inherently interdisciplinary; subsystems and system components exist at multiple levels of analysis (i.e., “cells to societies”) and across multiple disciplines, from engineering and the computational sciences to the social and health sciences. 
+                <p>Social computing harnesses the power of computational methods to study social behavior within a social context. Cultural behavioral modeling refers to representing behavior and culture in the abstract, and is a convenient and powerful way to conduct virtual experiments and scenario analysis. Both social computing and cultural behavioral modeling are techniques designed to achieve a better understanding of complex behaviors, patterns, and associated outcomes of interest. Moreover, these approaches are inherently interdisciplinary; subsystems and system components exist at multiple levels of analysis (i.e., “cells to societies”) and across multiple disciplines, from engineering and the computational sciences to the social and health sciences. </p>
 
-                <p>The SBP conference provides a forum for researchers and practitioners from academia, industry, and government agencies to exchange ideas on current challenges in social computing, behavioral modeling and prediction, and on state-of-the-art methods and best practices being adopted to tackle these challenges.
+                <p>The SBP conference provides a forum for researchers and practitioners from academia, industry, and government agencies to exchange ideas on current challenges in social computing, behavioral modeling and prediction, and on state-of-the-art methods and best practices being adopted to tackle these challenges.</p>
 
+                <p>&nbsp;</p>
 
-                <h3>TOPICS FOR PAPERS AND POSTERS:</h3>
+                <h2>TOPICS FOR PAPERS AND POSTERS:</h2>
                 <p>Papers and posters are solicited on research issues, theories, and applications. Topics of interests include, but are not limited to,
                  
                 <h4>Basic Research on Sociocultural & Behavioral Processes</h4>
-                <UL>
+                <UL style="margin-bottom:15px;">
                 <li>Group interaction and collaboration
                 <li>Group formation and evolution
                 <li>Group representation and profiling
@@ -84,38 +89,38 @@
                 </UL>
 
                 <h4>Methodological Issues in SBP</h4>
-                <UL>
-                <li>Mathematical foundations
-                <li>Verification and validation
-                <li>Sensitivity analysis
-                <li>Matching technique or method to research questions
-                <li>Metrics and evaluation
-                <li>Methodological innovation
-                <li>Model federation and integration
-                <li>Evolutionary computing
-                <li>Network analysis and optimization
+                <UL style="margin-bottom:15px;">
+                    <li>Mathematical foundations
+                    <li>Verification and validation
+                    <li>Sensitivity analysis
+                    <li>Matching technique or method to research questions
+                    <li>Metrics and evaluation
+                    <li>Methodological innovation
+                    <li>Model federation and integration
+                    <li>Evolutionary computing
+                    <li>Network analysis and optimization
                 </UL>
                 <h4>Military & Security Applications</h4>
-                <UL>
-                <li>Group formation and evolution in the political context
-                <li>Technology and flash crowds
-                <li>Networks and political influence
-                <li>Information diffusion
-                <li>Group representation and profiling
-                <li>Reasoning about terrorist group behaviors and policies towards them
+                <UL style="margin-bottom:15px;">
+                    <li>Group formation and evolution in the political context
+                    <li>Technology and flash crowds
+                    <li>Networks and political influence
+                    <li>Information diffusion
+                    <li>Group representation and profiling
+                    <li>Reasoning about terrorist group behaviors and policies towards them
                 </UL>
                 <h4>Health Applications of SBP</h4>
-                <UL>
-                <li>Social network analysis to understand health behavior
-                <li>Modeling of health policy and decision making
-                <li>Modeling of behavioral aspects of infectious disease spread
-                <li>Intervention design and modeling for behavioral health
+                <UL style="margin-bottom:15px;">
+                    <li>Social network analysis to understand health behavior
+                    <li>Modeling of health policy and decision making
+                    <li>Modeling of behavioral aspects of infectious disease spread
+                    <li>Intervention design and modeling for behavioral health
                 </UL>
                 <h4>Other Applications of SBP</h4>
-                <UL>
-                <li>Economic applications of SBP
-                <li>Reasoning about development aid through SBP
-                <li>Reasoning about global educational efforts through SBP
+                <UL style="margin-bottom:15px;">
+                    <li>Economic applications of SBP
+                    <li>Reasoning about development aid through SBP
+                    <li>Reasoning about global educational efforts through SBP
                 </UL>
             </P>
         </hgroup>
@@ -124,10 +129,18 @@
 
 
                 <!--#include virtual="menu.html" -->
+<script type="text/javascript">
 
-        <!--footer id="contentinfo">
-        <p>2012 <a href="http://sbp2013.org">SBP</a>.</p>
-        </footer><!-- /#contentinfo -->
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-36899667-1']);
+  _gaq.push(['_trackPageview']);
 
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
     </body>
 </html>

@@ -4,8 +4,10 @@
         <title>SBP: Social Computing, Behavioral-Cultural Modeling and Prediction</title>
 
         <!--link rel="stylesheet" type="text/css" href="css/sbp.css" -->
-        <link rel="stylesheet" type="text/css" href="css/main.css" >
-
+        <!--link rel="stylesheet" type="text/css" href="css/main.css" -->
+        <link rel="stylesheet" type="text/css" href="main.css" />
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+        
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" >
         <meta name="description" content="Social Computing, Behavioral-Cultural Modeling and Prediction">
         <meta name="keywords" content="social computing, behavioral-cultural modeling, prediction">
@@ -20,58 +22,44 @@
     <body id="index" class="home">
         <!--#include virtual="banner.html" -->
 
-<aside id="featured" class="body">
-    <address id="about" class="vcard body">
-        <span class="primary">
-            <strong><a href="#" class="fn url">Sponsors</a></strong>
-            <span class="role"> Currently we are lining up for SBP2013.</span>
-        </span><!-- /.primary -->
+<section id="featured1" class="body">
+    <h2>Sponsors</h2>
+    <p>Currently we are lining up for SBP2013.</p>
 
-        <span class="bio">
-            SBP2012 was sponsored by:
-                <ol>
-                    <li>Air Force Office of Scientific Research (AFOSR), <a href="http://www.wpafb.af.mil/AFRL/afosr/" target="_blank">http://www.wpafb.af.mil/AFRL/afosr/</a></li>
-                    <li>Office of Naval Research (ONR), <a href="http://www.onr.navy.mil/" target="_blank">http://www.onr.navy.mil/</a></li>
-                    <li>National Science Foundation (NSF), <a href="http://nsf.gov" target="_blank">http://www.nsf.gov</a></li>
-                    <li>National Institutes of Health (NIH), <a href="http://nih.gov" target="_blank">http://www.nih.gov</a></li>
-                        <li>The Army Research Office (ARO) <a href="http://nih.gov" target="_blank"> http://www.arl.army.mil/www/default.cfm?page=29</a></li>
-                </ol>
-        </span>
-    </address><!-- /#about -->
+</section><!-- /#contentinfo -->
 
-
-</aside><!-- /#contentinfo -->
-
-
-<aside id="featured" class="body">
-<address id="about" class="vcard body">
-    <span class="primary">
-        <strong><a href="#" class="fn url">Conference proceedings published by</a></strong>
-        <span class="role">&nbsp;</span>
-    </span><!-- /.primary -->
+<section id="featured1" class="body">
     
-    <span class="bio">
+    <h1>SBP2012 was sponsored by:</h1><br />
+    <p>
+    Office of Naval Research (ONR), <a href="http://www.onr.navy.mil/" target="_blank">http://www.onr.navy.mil/</a></p>
+    <p>National Science Foundation (NSF), <a href="http://nsf.gov" target="_blank">http://www.nsf.gov</a></p>
+    <p>National Institutes of Health (NIH), <a href="http://nih.gov" target="_blank">http://www.nih.gov</a></p>
+    <p>The Army Research Office (ARO) <a href="http://nih.gov" target="_blank"> http://www.arl.army.mil/www/default.cfm?page=29</a></p> 
+<p>&nbsp;</p>
+
+<h1>Conference proceedings published by</h1>
     <img src="images/springer-lncs.png" alt="Springer lecture notes in computer science" class="photo"  width="150" height="87">
-    </span>
-</address><!-- /#about -->
-
-</aside><!-- /#contentinfo -->
-
-
-<aside id="featured" class="body">
-<address id="about" class="vcard body">
-    <span class="primary">
-        <strong><a href="#" class="fn url">Related Links</a></strong>
-        <span class="role">&nbsp;</span>
-    </span><!-- /.primary -->
-
-    <span class="bio"><a href="http://www.KDnuggets.com">www.KDnuggest.com</a> Analytics and Data Mining Resources<br></span>
-
-</address><!-- /#about -->
-</aside><!-- /#contentinfo -->
+<br /><p></p>
+    <h2>&nbsp;</h2>
+    <h1>Related Links</a></h1> 
+    <p><a href="http://www.KDnuggets.com">www.KDnuggest.com</a> Analytics and Data Mining Resources<br></p>
+</section><!-- /#contentinfo -->
 
 
                 <!--#include virtual="menu.html" -->
+<script type="text/javascript">
 
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-36899667-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
     </body>
 </html>

@@ -183,25 +183,26 @@ header a.facebook span {
 	border-top:3px solid black;
 	margin: 3em auto 0 auto; overflow: hidden; 
 	padding-top:20px;
-	background: #191818;
+	background: #092238; /*#191818;*/
 	padding-bottom: 20px;
 	}
 	/* 497CA3 */
 
 #extras ul {list-style: none; margin: 0;}
-#extras li {border-bottom: 1px solid #787885;}
+#extras li {border-bottom: 1px solid #131320;}
 #extras h2 {
-	color: #ffffff;
-	font-size: 0.9em;
-	margin-bottom: .25em;
+	color: #e9eae7;
+	font-size: 0.95em;
+	margin-bottom: .95em;
 	padding: 0 3px;
 	font-family:'Open Sans', helveticaneue;
 }
 
 #extras a:link, #extras a:visited {
-	color: #ffffff;
+	color: #e9eae7;
+	font-size:0.72em;
 	display: block;
-	border-bottom: 1px solid #B7ADAD;
+	border-bottom: 1px solid #474751;
 	text-decoration: none;
 	padding: .3em .25em;
 -webkit-transition: color 0.1s;
@@ -285,11 +286,9 @@ header a.facebook span {
 
 
 
-#keynotepage img {border: 1px solid #c4c4c4;
+#keynotepage img {
 float:right;margin-left:18px;
-		-moz-box-shadow: 0px 2px 12px rgba(0, 0, 0, 0.4); /* FF3.5+ */
-			-webkit-box-shadow: 0px 2px 12px rgba(0, 0, 0, 0.4); /* Saf3.0+, Chrome */
-			  box-shadow: 0px 2px 12px rgba(0, 0, 0, 0.4); /* Opera 10.5, IE 9.0 */
-				  filter:  progid:DXImageTransform.Microsoft.dropshadow(OffX=12px, OffY=12px, Color='#555'); /* IE6,IE7 */
-			  -ms-filter: "progid:DXImageTransform.Microsoft.dropshadow(OffX=12px, OffY=12px, Color='#555')"; /* IE8 */   
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius:10px;
 }

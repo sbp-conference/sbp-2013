@@ -42,7 +42,8 @@
 									return false;
 								}
 								else {
-									theTweets += '<li>' + tweet.text + '</li>';
+									theTweets += '<li class="tweet"><img src="' + tweet.profile_image_url + '" style="float:left;padding-right:6px;"> '
+                                    + tweet.created_at + " " + tweet.from_user + ': '  + tweet.text + '</li>';
 								}
 							});
 							elem.append(theTweets);

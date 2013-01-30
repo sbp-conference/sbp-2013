@@ -4,8 +4,9 @@
         <title>SBP: Social Computing, Behavioral-Cultural Modeling and Prediction</title>
 
         <!--link rel="stylesheet" type="text/css" href="css/sbp.css" -->
-        <link rel="stylesheet" type="text/css" href="css/main.css" >
-
+        <!--link rel="stylesheet" type="text/css" href="css/main.css" -->
+        <link rel="stylesheet" type="text/css" href="main.css" />
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" >
         <meta name="description" content="Social Computing, Behavioral-Cultural Modeling and Prediction">
         <meta name="keywords" content="social computing, behavioral-cultural modeling, prediction">
@@ -20,24 +21,42 @@
     <body id="index" class="home">
         <!--#include virtual="banner.html" -->
             
-        <aside id="featured" class="body"><article>
-        <hgroup>
-            <center>
-                <h2>Program</h2><br>
+        <section id="featured1" class="body">
+        <h2>Program</h2>
 
-        <div style="margin-bottom:3em;">
+        <p>
             Papers and posters program TBD after author acceptance notice December 20.
-        </div></center>
-    </hgroup>
+        </p>
+        </section>
 
-         <address id="about" class="vcard body">
+
+        <section id="featured1" class="body">
+           <h3>Tuesday, April 2, 2013&nbsp;</h3>
+           <p>Tutorials&nbsp;</p>
+        </section>
+        <section id="featured1" class="body">
+           <h3>Wednesday, April 3, 2013</h3>
+           <p>Conference&nbsp;</p>
+        </section>
+
+        <section id="featured1" class="body">
+           <h3>Thursday, April 4, 2013</h3>
+           <p>Conference&nbsp;</p>
+        </section>
+
+        <section id="featured1" class="body">
+           <h3>Friday, April 5, 2013</h3>
+           <p>Conference&nbsp;</p>
+        </section>
+
+         <!--address id="about" class="vcard body">
             <span class="primary">
                 <strong>Tuesday, April 2</strong>
                 <span class="role">
                     Tutorials</span>
             </span><!-- /.primary -->
             
-            <span class="bio">
+            <!--span class="bio">
                 <h1>Tutorials</h1>
                 <ul class="programlist" style="margin-left:0;padding-left:0">
                 <li>Applications of mobile phone data: From daily motifs of human travel to road usage patterns 
@@ -54,7 +73,7 @@
                     Talks</span>
             </span><!-- /.primary -->
             
-            <span class="bio">
+            <!--span class="bio">
                 <h1>To be announced.</h1>
                 <br>
             </span>
@@ -67,7 +86,7 @@
                     Talks</span>
             </span><!-- /.primary -->
             
-            <span class="bio">
+            <!--span class="bio">
                 <h1>To be announced.</h1>
                 <br>
             </span>
@@ -80,23 +99,28 @@
                     Talks</span>
             </span><!-- /.primary -->
             
-            <span class="bio">
+            <!--span class="bio">
                 <h1>To be announced.</h1>
                 <br>
             </span>
         </address>
 
 
-    </article></aside><!-- /#featured -->
+    </article></aside--><!-- /#featured -->
+    
+    <!--#include virtual="menu.html" -->
+<script type="text/javascript">
 
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-36899667-1']);
+  _gaq.push(['_trackPageview']);
 
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
 
-
-                <!--#include virtual="menu.html" -->
-
-        <!--footer id="contentinfo">
-        <p>2012 <a href="http://sbp2013.org">SBP</a>.</p>
-        </footer><!-- /#contentinfo -->
-
+</script>
     </body>
 </html>

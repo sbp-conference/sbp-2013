@@ -7,7 +7,6 @@
         <!--link rel="stylesheet" type="text/css" href="css/main.css" -->
         <link rel="stylesheet" type="text/css" href="main.css" />
         <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" >
         <meta name="description" content="Social Computing, Behavioral-Cultural Modeling and Prediction">
         <meta name="keywords" content="social computing, behavioral-cultural modeling, prediction">
@@ -21,20 +20,35 @@
     </head>
     <body id="index" class="home">
         <!--#include virtual="banner.html" -->
-            
+
         <section id="featured1" class="body">
-                <h2>Awards</h2>
-                
-        <p>
-            Travel awards will be announced after author acceptance notice December 20.
+        <h2>Downloads</h2>
+        <br />
+        <h1>Documents</h1>
+        <p><a href="http://sbp2013.org/sbp_2013_flyer.pdf">Call for Proposal</a></p>
+        <p>&nbsp;</p>
+        <h1>Challenge Data</h1><br>
+        <p><a href="http://realitycommons.media.mit.edu/badgedataset.html">Badge DataSet</a></p>
+        <p><a href="http://realitycommons.media.mit.edu/friendsdataset.html">Friends & Family DataSet</a></p> 
+        <p><a href="http://realitycommons.media.mit.edu/realitymining.html">Reality Mining DataSet</a></p>
+        <p><a href="http://realitycommons.media.mit.edu/socialevolution.html">Social Evolution DataSet</a></p>
+        <p><em> from <a href="http://realitycommons.media.mit.edu">Reality Commons</a> at MIT Human Dynamics Lab</em></p>
+
+        <p>&nbsp;</p>
+        <h1>Toolkits (For Tutorials)</h1>
+        <p> 
+        <a href="http://cs.gmu.edu/~eclab/projects/mason/">MASON</a><br />
+        <a href="http://ccl.northwestern.edu/netlogo/">NetLogo</a><br />
+ 
         </p>
-        <center><img src="images/sbp12_wordle_color_match.gif" width="100%"></center>
-                <h2></h2> 
-        </section><!-- /#featured -->
+        <p>&nbsp;</p> 
+        <h1>Integrated Development Environments</h1>
+        <p> <a href="http://eclipse.org/">Eclipse</a></p>
+        <p><a href="http://netbeans.org/">Netbeans</a></p>
+        </p>
+       </section><!-- /#ides -->
 
-
-<!--#include virtual="menu.html" -->
-
+    <!--#include virtual="menu.html" -->
 <script type="text/javascript">
 
   var _gaq = _gaq || [];

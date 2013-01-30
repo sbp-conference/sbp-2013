@@ -1,0 +1,131 @@
+<!DOCTYPE html> <html lang="en">
+    <head>
+
+        <title>SBP: Social Computing, Behavioral-Cultural Modeling and Prediction</title>
+
+        <!--link rel="stylesheet" type="text/css" href="css/sbp.css" -->
+        <!--link rel="stylesheet" type="text/css" href="css/main.css" -->
+        <link rel="stylesheet" type="text/css" href="main.css" />
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+        
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" >
+        <meta name="description" content="Social Computing, Behavioral-Cultural Modeling and Prediction">
+        <meta name="keywords" content="social computing, behavioral-cultural modeling, prediction">
+        <meta name="author" content="Nathan Bos">
+        <meta name="author" content="Katherine Chuang">
+
+        <!--[if IE]> <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]--> <!--[if lte IE 7]> <script src="js/IE8.js" type="text/javascript"></script><![endif]--> <!--[if lt IE 7]>
+
+        <link rel="stylesheet" type="text/css" media="all" href="css/ie6.css"/><![endif]--> 
+
+    </head>
+    <body id="index" class="home">
+        <!--#include virtual="banner.html" -->
+            
+    <section id="featured1">
+        <h2>SBP 2013 Tutorials</h2>
+        <p>SBP will offer tutorials free to registered attendees on April 2nd. These tutorials are confirmed:
+        </p>
+    </section><!-- /#featured -->
+
+    <section id="featured1" class="body">
+    <h2>A Review of Human Mobility Models based on Digital Traces of Human Activity</h2>
+        Link: <a href="http://humnet.scripts.mit.edu/wordpress/">Human Mobility and Networks Lab (HuMNet)</a><br /><br />
+        <p id="keynotepage">
+            <img src="images/Marta.jpg" width="150">
+            Audience: This short course is aimed at the audience of researchers, practitioners and graduate students who are interested in learning the very basics of the analysis of mobile phone data to model human mobility. The availability of digital traces of human activity is a new and fast-developing area, which is changing the existing paradigms of how to model human activity.  </p>
+
+        <p>Description: I will provide a literature review of important findings of human mobility measured with large-scale data in the last 4 years. I will start with the discussion of measures that have been ubiquitous to several data sets in different countries, and discuss its implications in terms of how to model human mobility. I will review two existing models that reproduce the observed properties both at large scales and at urban scale. Next, we will discuss the results of aggregating the individual trips as mobility networks and its impact in applications such as epidemic spreading and traffic management. We will see how results on large mobility data have changed the current paradigm of modeling commuting behavior from gravity like models to the recently developed radiation model. Finally, I will discuss open questions in the field as well as opportunities to connect with the community working with mobile phone data in order to get access data and current research results. </p>
+        
+        <p>&nbsp;</p>
+        Presenter: Marta C. Gonzalez (<a href="http://cee.mit.edu/gonzalez/">bio</a>)<br />
+        Gilbert Winslow Career Development Assistant Professor<br>
+        <em>Department of Civil and Environmental Engineering, MIT</em> <br /><br />
+    </section>
+
+    <section id="featured1">
+    <h2>Categorial Analysis of Social Processes </h2>
+    <p id="keynotepage"><img src="images/david_sallach.jpg" width="150" >
+    Category theory is an innovative, integrative mathematical framework with the potential to provide more effective analyses of social theory and social processes.  One of the key benefits of category theory is to combine expressiveness with rigor.  In this sense, it is uniquely appropriate for social modeling.</p>
+    <p>The present four-hour tutorial is divided into one hour segments covering the following topics: 1) Toward Social Categories, 2) Categorical Analysis, 3) Templates as Social Categories, and 4) Multi-Scale Categories.
+    </p>
+    <p>&nbsp;</p>
+        Presenter: David L. Sallach (<a href="http://www.dis.anl.gov/staff/sallach.html">bio</a>)<br />
+        <em>Argonne National Laboratory, University of Chicago</em> <br />
+        
+    </section>
+
+    <section id="featured1">
+    <h2>Building Agent-Based Models with the MASON toolkit</h2>
+    <p id="keynotepage">
+
+        Download: <a href="http://cs.gmu.edu/~eclab/projects/mason/">MASON</a><br /><br />
+
+        <img src="http://cs.gmu.edu/~eclab/projects/mason/Console.png" width="170">
+        <em>Audience: </em>This workshop is aimed at researchers and others who are familiar with the concept of Agent-Based modeling and are interested in learning how to build models using the MASON toolkit. Participants should have moderate proficiency programming in Java.<br /><br />
+
+        <em>Description:</em> The MASON simulation toolkit, developed by Sean Luke of George Mason University, provides users with a framework for building agent-based models. Built in Java with an emphasis on running speed, MASON has attracted a sizeable and growing user base in both academia and industry. MASON is particularly appealing to modelers already skilled in programming.<br /><br />
+
+        This tutorial will cover the basic architecture of MASON from the simulation loop to visualization, and walk participants through the process of creating a new model.<br /><br />
+
+        <em>Special Instructions:</em> Participants should bring their own laptop and should install either <a href="http://eclipse.org/">Eclipse</a> or <a href="http://netbeans.org/">NetBeans</a> in advance. In addition, participants should download and install <a href="http://cs.gmu.edu/~eclab/projects/mason/">MASON</a> from the address above, which includes installation instructions. 
+    </p>
+    <p>&nbsp;</p>
+    Presenters: Joey Harrison & Claudio Cioffi-Revilla (<a href="http://www.css.gmu.edu/?q=node/16">Claudio's bio</a>)  <br />
+    <em>Department of Computational Social Science, George Mason University</em> <br>
+
+    </section>
+
+    <section id="featured1">
+    <h2>Social Simulation: Introduction to Agent-based modeling</h2>
+    <p id="keynotepage">
+    Download: <a href="http://ccl.northwestern.edu/netlogo/download.shtml">NetLogo</a><br /><br />
+        <img src="http://ccl.northwestern.edu/netlogo/community/Lattice-Walking%20Turtles_15.png" width="170">
+    <em>Audience:</em> This introductory short course is aimed at the audience of researchers, practitioners, program staff, policy makers, and graduate students who are interested in learning the very basics of agent-based modeling. Although no special mathematics background is necessary,
+statisticians and analysts are also encouraged to participate because agent-based modeling is a
+relatively new and fast-developing area which brings exciting technical challenges.
+    <br /><br />
+    <em>Special Instruction:</em> Participants should bring their own laptop.
+    <br /><br />
+    <em>Description:</em> Agent-based models (ABMs) are becoming popular and useful tools to describe
+human behavior and interactions. They are being extensively used in social sciences, especially
+in the studies of infectious diseases, health behavior, security and law enforcement. At the same
+time, the utility of ABMs is often misunderstood, with some considering ABMs as the ultimate
+modeling tool and some viewing them as useless for practical applications. The first part of
+the tutorial will describe the niche of ABMs in the variety of modeling methods. We will discuss
+modeling objectives and the applicability of different modeling types (Statistical models, Markov
+models, System dynamics, Agent-based) to achieve the objective.
+    <br /><br />
+    Next we will describe the main elements of the ABMs and illustrate the importance of the ODD
+(Overview, Design concepts, and Details) protocol in the development of quality models.
+Finally, we will use free agent-based modeling software NetLogo (<a href="http://ccl.northwestern.edu/netlogo/">http://ccl.northwestern.edu/netlogo/</a>) to develop a simple ABM. We will discuss the good modeling practices and the model documentation.
+    </p>
+    <p>&nbsp;</p>
+    Presenter: Georgiy Bobashev (<a href="http://www.rti.org/newsroom/experts.cfm?objectid=880AB09A-5056-B100-0C05D6185A3A98AF">bio</a>)<br />
+    <em>Senior Research Statistician, RTI International </em><br />
+                    
+    </div>
+            
+    <div class="right">
+                
+    </div>
+        </section>
+
+
+
+                <!--#include virtual="menu.html" -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-36899667-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+    </body>
+</html>
