@@ -22,6 +22,7 @@
         <!--#include virtual="banner.html" -->
 
         <section id="featured1" class="body">
+        <h4 class="red" style="color:red">Deadline extended to February 8, 2012</h4>
         <h2>Challenge Problem</h2>
         <h3>Int'l Conference on Social Computing, Behavioral-Cultural Modeling, & Prediction</h3>
         <p>SBP is offering a challenge problem for the second time in 2013. We organize this challenge to encourage researchers to combine the power of big data and the power of systems thinking in the field of social computing, behavioral-cultural modeling, and prediction. These datasets are brought to you by the MIT Human Dynamics Laboratory, with special thanks to professor Alex (Sandy) Pentland and his research team. </p>
@@ -68,7 +69,7 @@
         <section id="featured1">
             <h2>Important Dates</h2>
                 <UL type="circle">
-                    <li type=circle>Submission deadline: January 31, 2013 (23:59 PST)</li>
+                    <li type=circle>Submission deadline: <b>February 8, 2012</b> (23:59 PST) <strike>January 31, 2013</strike> </li>
                     <li type=circle>Notification of Winners: March 2, 2013</li>
                 </UL>
         </section>

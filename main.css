@@ -18,7 +18,7 @@
 header {
 	height: 42px;
 	padding: 0 10px;
-	font-family: 'Open Sans', helveticaneue;
+	font-family: 'Droid Sans', helveticaneue;
 	font-weight: 300;
 	position: relative;
 	background: #191818;
@@ -159,7 +159,7 @@ header a.facebook span {
 
 #banner nav a:link, #banner nav a:visited {
 	color: #BDBB3C;
-	font-family: 'Open Sans', helveticaneue;
+	font-family: 'Droid Sans', helveticaneue;
 	font-size: 0.87em;
 	display: inline-block;
 	height: 30px;
@@ -179,7 +179,7 @@ header a.facebook span {
 	Extras
 *****************/
 #extras {
-	font-family:'Open Sans', helveticaneue;
+	font-family:'Droid Sans', helveticaneue;
 	border-top:3px solid black;
 	margin: 3em auto 0 auto; overflow: hidden; 
 	padding-top:20px;
@@ -195,7 +195,7 @@ header a.facebook span {
 	font-size: 0.95em;
 	margin-bottom: .95em;
 	padding: 0 3px;
-	font-family:'Open Sans', helveticaneue;
+	font-family:'Droid Sans', helveticaneue;
 }
 
 #extras a:link, #extras a:visited {
@@ -266,7 +266,7 @@ header a.facebook span {
 			  -ms-filter: "progid:DXImageTransform.Microsoft.dropshadow(OffX=12px, OffY=12px, Color='#555')"; /* IE8 */   
 }
 
-#featured1 h2 {color: #116335; font-size: 1.714em; margin: 0.6em 0 0.3em 0;border-bottom: 1px solid #dddddd; font-weight:700;font-family: 'Open Sans', helveticaneue;}
+#featured1 h2 {color: #116335; font-size: 1.714em; margin: 0.6em 0 0.3em 0;border-bottom: 1px solid #dddddd; font-weight:700;font-family: 'Droid Sans', helveticaneue;}
 #featured1 h3 {font-size: 1.429em; margin-bottom: .5em;}
 #featured1 h3 a:link, #featured1 h3 a:visited {color: #000305; text-decoration: none;}
 #featured1 h3 a:hover, #featured1 h3 a:active {color: #818188;}

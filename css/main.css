@@ -18,7 +18,7 @@
 header {
 	height: 42px;
 	padding: 0 10px;
-	font-family: 'Open Sans', helveticaneue;
+	font-family: 'Droid Sans', helveticaneue;
 	font-weight: 300;
 	position: relative;
 	background: #191818;
@@ -159,7 +159,7 @@ header a.facebook span {
 
 #banner nav a:link, #banner nav a:visited {
 	color: #BDBB3C;
-	font-family: 'Open Sans', helveticaneue;
+	font-family: 'Droid Sans', helveticaneue;
 	font-size: 0.87em;
 	display: inline-block;
 	height: 30px;
@@ -179,7 +179,7 @@ header a.facebook span {
 	Extras
 *****************/
 #extras {
-	font-family:'Open Sans', helveticaneue;
+	font-family:'Droid Sans', helveticaneue;
 	border-top:3px solid black;
 	margin: 3em auto 0 auto; overflow: hidden; 
 	padding-top:20px;
@@ -195,7 +195,7 @@ header a.facebook span {
 	font-size: 0.9em;
 	margin-bottom: .25em;
 	padding: 0 3px;
-	font-family:'Open Sans', helveticaneue;
+	font-family:'Droid Sans', helveticaneue;
 }
 
 #extras a:link, #extras a:visited {

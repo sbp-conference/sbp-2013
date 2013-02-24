@@ -1,0 +1,114 @@
+/* Agenda */
+#agenda #featured1 {
+  clear: both;
+}
+
+#agenda #content {
+    overflow: hidden;
+}
+ 
+#agenda h2 { 
+  color: #116335; font-size: 1.714em; margin: 0.6em 0 0.3em 0;
+    border-bottom: 1px solid #dddddd; font-weight:700;font-family: 'Droid Sans', helveticaneue;
+}
+#agenda .subhead {
+  float: left;
+  /*margin-left: 130px;*/
+  font-size: 13px;
+  font-family: 'Droid Sans', Arial;
+}
+#agenda .subhead a {
+  padding: 0 5px;
+}
+#agenda div.agenda-header {
+    padding-left: 315px;
+    width: 690px;
+}
+#agenda div.agenda-header span.schedule-hour {
+    width: 40px;
+    display: inline-block;
+    height: 20px;
+}
+#agenda div.agenda-row {
+    position: relative;
+    height: 20px;
+    margin: 0;
+    background: transparent url(images/agenda-row-bg.png) repeat-x 200px bottom;
+    border-top: 1px solid #FFF;
+    width: 780px;
+}
+#agenda div.alt {
+    background: transparent url(images/agenda-row-alt-bg.png) repeat-x 200px bottom;
+    height: 20px;
+}
+#agenda div.agenda-row div.agenda-item { /*SESSION*/
+    position: absolute;
+    top: 0;
+    height: 20px;
+    background: #00004d;
+    color: #FFF;
+    opacity: 0.7;
+}
+#agenda div.agenda-row div.agenda-item:hover {
+    cursor: pointer;
+}
+#agenda div.agenda-row label {
+    line-height: 20px;
+    background: #FFF;
+    width: 290px;
+    display: inline-block;
+    font-family: 'Droid Sans', Arial;
+    padding-left: 10px;
+    font-size: 13px;
+}
+#agenda div.alt label {
+    background: #EFEFEF;
+    height: 20px;
+}
+#agenda div.agenda-row div.agenda-item span {
+    color: #6da4d9;
+    font-size: 20px;
+    line-height: 20px;
+}
+#agenda div.agenda-row div.agenda-item:hover span {
+    color: #07498b;
+}
+#agenda #info-balloon {
+    background: transparent url(images/agenda-info-balloon.png) no-repeat top left;
+    position: absolute;
+    width: 242px;
+    height: 79px;
+    padding: 10px;
+    z-index: 99;
+}
+#agenda #info-balloon h4 {
+    font-family: 'Droid Sans', Arial;
+    font-size: 15px;
+    font-weight: normal;
+    color: #5b4f31;
+    margin: 0 0 3px 0;
+    padding: 0;
+}
+#agenda #info-balloon p {
+    font-family: 'Droid Sans', Arial;
+    font-size: 15px;
+    font-style: italic;
+    color: #978149;
+    margin: 0 0 3px 0;
+    padding: 0;
+}
+
+#content1 {
+    padding: 40px;
+    background: #FFF;
+    width: 850px;
+    margin: 50px auto 100px auto;
+    /*
+    -moz-box-shadow: 0 0 6px #c6c6c6;
+    -webkit-box-shadow: 0 0 6px #c6c6c6;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px 4px 4px 4px;*/
+    z-index: 10;
+    position: relative;
+}

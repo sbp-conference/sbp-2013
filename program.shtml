@@ -1,4 +1,5 @@
-<!DOCTYPE html> <html lang="en">
+<!DOCTYPE html> 
+<html lang="en">
     <head>
 
         <title>SBP: Social Computing, Behavioral-Cultural Modeling and Prediction</title>
@@ -6,109 +7,49 @@
         <!--link rel="stylesheet" type="text/css" href="css/sbp.css" -->
         <!--link rel="stylesheet" type="text/css" href="css/main.css" -->
         <link rel="stylesheet" type="text/css" href="main.css" />
-        <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" type="text/css" href="program.css" />
+        <link href="//fonts.googleapis.com/css?family=Droid+Sans" rel="stylesheet" type="text/css" />
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" >
         <meta name="description" content="Social Computing, Behavioral-Cultural Modeling and Prediction">
         <meta name="keywords" content="social computing, behavioral-cultural modeling, prediction">
         <meta name="author" content="Nathan Bos">
         <meta name="author" content="Katherine Chuang">
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js" type="text/javascript"></script>
+        <script src="//www.google.com/js/google.js"></script>
 
         <!--[if IE]> <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]--> <!--[if lte IE 7]> <script src="js/IE8.js" type="text/javascript"></script><![endif]--> <!--[if lt IE 7]>
 
         <link rel="stylesheet" type="text/css" media="all" href="css/ie6.css"/><![endif]--> 
 
     </head>
-    <body id="index" class="home">
+    <body id="agenda" class="home">
         <!--#include virtual="banner.html" -->
             
-        <section id="featured1" class="body">
-        <h2>Program</h2>
 
-        <p>
-            Papers and posters program TBD after author acceptance notice December 20.
-        </p>
-        </section>
+<div id="content1">
 
+  <h2>Conference Program</h2>
+  <p class="subhead"><a href="http://sbp2013.org/SBP_2013_program_draft.pdf">PDF</a> 
+<!--
+    |
+    <a href="sessions.html">Session breakout schedule</a>  -->
+  <div id="featured1">
 
-        <section id="featured1" class="body">
-           <h3>Tuesday, April 2, 2013&nbsp;</h3>
-           <p>Tutorials&nbsp;</p>
-        </section>
-        <section id="featured1" class="body">
-           <h3>Wednesday, April 3, 2013</h3>
-           <p>Conference&nbsp;</p>
-        </section>
+  </div>
+</div>
 
-        <section id="featured1" class="body">
-           <h3>Thursday, April 4, 2013</h3>
-           <p>Conference&nbsp;</p>
-        </section>
+ 
 
-        <section id="featured1" class="body">
-           <h3>Friday, April 5, 2013</h3>
-           <p>Conference&nbsp;</p>
-        </section>
-
-         <!--address id="about" class="vcard body">
-            <span class="primary">
-                <strong>Tuesday, April 2</strong>
-                <span class="role">
-                    Tutorials</span>
-            </span><!-- /.primary -->
-            
-            <!--span class="bio">
-                <h1>Tutorials</h1>
-                <ul class="programlist" style="margin-left:0;padding-left:0">
-                <li>Applications of mobile phone data: From daily motifs of human travel to road usage patterns 
-                </li>
-                <li>Categorial Analysis of Social Processes </li>
-                </ul>
-            </span>
-        </address>
-
-         <address id="about" class="vcard body">
-            <span class="primary">
-                <strong>Wednesday, April 3</strong>
-                <span class="role">
-                    Talks</span>
-            </span><!-- /.primary -->
-            
-            <!--span class="bio">
-                <h1>To be announced.</h1>
-                <br>
-            </span>
-        </address>
-
-         <address id="about" class="vcard body">
-            <span class="primary">
-                <strong>Thursday, April 4</strong>
-                <span class="role">
-                    Talks</span>
-            </span><!-- /.primary -->
-            
-            <!--span class="bio">
-                <h1>To be announced.</h1>
-                <br>
-            </span>
-        </address>
-
-         <address id="about" class="vcard body">
-            <span class="primary">
-                <strong>Friday, April 5</strong>
-                <span class="role">
-                    Talks</span>
-            </span><!-- /.primary -->
-            
-            <!--span class="bio">
-                <h1>To be announced.</h1>
-                <br>
-            </span>
-        </address>
-
-
-    </article></aside--><!-- /#featured -->
     
     <!--#include virtual="menu.html" -->
+
+  <script type="text/javascript" src="js/base.js"></script>
+  <script type="text/javascript" src="js/agenda_items.js"></script>
+  <script type="text/javascript" src="js/agenda.js"></script>
+  <script type="text/javascript">
+    agenda.init();
+  </script>
+
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
@@ -122,5 +63,7 @@
   })();
 
 </script>
+
+
     </body>
 </html>
