@@ -25,106 +25,65 @@
         <section id="featured1" class="body">  
 
             <ol id="posts-list" class="hfeed">  
-                
-                <li><h2>Conference Co-Chairs</h2>  
-                <p> 
-                <b>Nathan D Bos</b>, Johns Hopkins University Applied Physics Lab<br />
-                <b><a href="http://www.css.gmu.edu/?q=node/16">Claudio Cioffi-Revilla</a></b> George Mason University<br>
-                </p></li>  
+                <h2>Conference Co-Chairs</h2>  
+                <li><b>Nathan D Bos</b>, Johns Hopkins University Applied Physics Lab</li>
+                <li><b><a href="http://www.css.gmu.edu/?q=node/16">Claudio Cioffi-Revilla</a></b> George Mason University</li>  
 
-                <li><h2>Program Co-Chairs</h2>  
-                <p> 
-                <b>Ariel M Greenberg</b>, Johns Hopkins University Applied Physics Lab</b><br />
-                <b><a href="http://www.nigms.nih.gov/About/marcus.htm">Stephen Marcus</a></b>, National Institutes of Health<br />
-                <b>William Kennedy</b>, George Mason University<br>
-                </p></li> 
+                <h2>Program Co-Chairs</h2>  
+                <li><b>Ariel M Greenberg</b>, Johns Hopkins University Applied Physics Lab</b></li>
+                <li><b><a href="http://www.nigms.nih.gov/About/marcus.htm">Stephen Marcus</a></b>, National Institutes of Health</li>
+                <li><b>William Kennedy</b>, George Mason University</li> 
 
-                <li><h2>Steering Committee</h2>  
-                <p>
-                    <b>John Salerno</b>, Air Force Research Laboratory<br>
-                    <a href="http://www.public.asu.edu/~huanliu/"><b>Huan Liu</b></a>, Arizona State University<br />
-                    <a href="http://www2.hawaii.edu/~sunki/"><b>Sun Ki Chai</b></a>, University of Hawaii<br />
-                    <b><a href="http://obssr.od.nih.gov/about_obssr/staff/patricia_mabry_bio.aspx">Patricia Mabry</a></b>, National Institutes of Health<br />
-                    <a href="http://www.cs.umd.edu/~nau/"><b>Dana Nau</b></a>, University of Maryland<br />
-                    <a href="http://www.cs.umd.edu/~vs/"><b>V.S. Subrahmanian</b></a>, University of Maryland<br /></b>
-                </p>
-                </li> 
+                <h2>Steering Committee</h2>  
+                <li><b>John Salerno</b>, Air Force Research Laboratory</li>
+                <li><a href="http://www.public.asu.edu/~huanliu/"><b>Huan Liu</b></a>, Arizona State University</li> 
+                <li><a href="http://www2.hawaii.edu/~sunki/"><b>Sun Ki Chai</b></a>, University of Hawaii</li> 
+                <li><b><a href="http://obssr.od.nih.gov/about_obssr/staff/patricia_mabry_bio.aspx">Patricia Mabry</a></b>, National Institutes of Health</li> 
+                <li><a href="http://www.cs.umd.edu/~nau/"><b>Dana Nau</b></a>, University of Maryland</li> 
+                <li><a href="http://www.cs.umd.edu/~vs/"><b>V.S. Subrahmanian</b></a>, University of Maryland</li> 
 
-                <li><h2>Advisory Committee</h2>  
-                <p>
-                    <b><a href="http://www.nsf.gov/staff/staff_bio.jsp?lan=FChowdhu&org=NSF">Fahmida N. Chowdhury</a></b>, National Science Foundation<br />
-                    <b>Rebecca Goolsby</b>, Office of Naval Research<br />
-                    <b>Joseph Lyons</b>, Air Force Reasearch Laboratory<br />
-                    <b>John Lavery</b>, Army Research Lab/Army Research Office<br />
-                    <b><a href="http://obssr.od.nih.gov/about_obssr/staff/patricia_mabry_bio.aspx">Patricia Mabry</a></b>, National Institutes of Health<br>
-                    <b>Tisha Wiley</b>, National Institutes of Health
-                </p>
-                </li> 
+                <h2>Advisory Committee</h2>  
+                <li><b><a href="http://www.nsf.gov/staff/staff_bio.jsp?lan=FChowdhu&org=NSF">Fahmida N. Chowdhury</a></b>, National Science Foundation</li>
+                <li><b>Rebecca Goolsby</b>, Office of Naval Research</li>
+                <li><b>Joseph Lyons</b>, Air Force Reasearch Laboratory</li>
+                <li><b>John Lavery</b>, Army Research Lab/Army Research Office</li>
+                <li><b><a href="http://obssr.od.nih.gov/about_obssr/staff/patricia_mabry_bio.aspx">Patricia Mabry</a></b>, National Institutes of Health</li>
+                <li><b>Tisha Wiley</b>, National Institutes of Health</li> 
 
-                <li><h2>Secretary</h2> 
-                <p>
-                    <b>Chandler Johnson</b></a>, Stanford University
-                </p>    
-                </li> 
+                <h2>Secretary</h2> 
+                <li><b>Chandler Johnson</b></a>, Stanford University</li> 
 
-                <li><h2>Treasurer</h2> 
-                <p>
-                      <b>Guillermo Pinczuk</b>, Johns Hopkins University Applied Physics Lab 
-                </p>
-                </li> 
+                <h2>Treasurer</h2> 
+                <li><b>Guillermo Pinczuk</b>, Johns Hopkins University Applied Physics Lab</li> 
 
-                <li><h2>Poster Session Chair</h2> 
-                <p>
-                    <b><a href="http://www.cs.binghamton.edu/~lyu/">Lei Yu</b></a>, Binghamton University
-                </p>
-                </li> 
+                <h2>Poster Session Chair</h2> 
+                <li><b><a href="http://www.cs.binghamton.edu/~lyu/">Lei Yu</b></a>, Binghamton University</li> 
 
-                <li><h2>Tutorial Chair</h2> 
-                <p>
-                    <a href="http://www.ce.rit.edu/~sjyeec/"><b>Shanchieh (Jay) Yang</b></a>, Rochester Institute of Technology
-                </p>
-                </li> 
+                <h2>Tutorial Chair</h2> 
+                <li><a href="http://www.ce.rit.edu/~sjyeec/"><b>Shanchieh (Jay) Yang</b></a>, Rochester Institute of Technology</li> 
 
-                <li><h2>Challenge Problem Co-chairs</h2> 
-                <p>
-                    <b>Nitin Agarwal</b>, University of Arkansas<br> 
-                    <b>Wen Dong</b>, MIT Media Lab<br>   
-                </p>
-                </li> 
+                <h2>Challenge Problem Co-chairs</h2> 
+                <li><b>Nitin Agarwal</b>, University of Arkansas</li> 
+                <li><b>Wen Dong</b>, MIT Media Lab</li> 
 
-                <li><h2>Workshop Co-chairs</h2> 
-                <p>
-                <a href="http://www.nsf.gov/staff/staff_bio.jsp?lan=FChowdhu&org=NSF"><b>Fahmida N. Chowdhury</b></a>, National Science Foundation<br>
-                    <b>Tisha Wiley</b>, National Institutes of Health
-                </p>
-                </li> 
+                <h2>Workshop Co-chairs</h2> 
+                <li><a href="http://www.nsf.gov/staff/staff_bio.jsp?lan=FChowdhu&org=NSF"><b>Fahmida N. Chowdhury</b></a>, National Science Foundation<li>
+                <li><b>Tisha Wiley</b>, National Institutes of Health</li> 
 
-                <li><h2>Publicity Co-Chairs</h2> 
-                <p>
-                    <b>Donald Adjeroh</b>, West Virginia University<br />
-                    <b><a href="http://obssr.od.nih.gov/about_obssr/staff/patricia_mabry_bio.aspx">Patricia Mabry</a></b>, National Institutes of Health<br>
-                </p>
-                </li> 
+                <h2>Publicity Co-Chairs</h2> 
+                <li><b>Donald Adjeroh</b>, West Virginia University</li>
+                <li><b><a href="http://obssr.od.nih.gov/about_obssr/staff/patricia_mabry_bio.aspx">Patricia Mabry</a></b>, National Institutes of Health</li> 
                 
 
-                <li><h2>Sponsorship Committee Chairs </h2> 
-                <p>
-                <a href="http://www.public.asu.edu/~huanliu/"><b>Huan Liu</b></a>, Arizona State University
-                </p>
-                </li> 
+                <h2>Sponsorship Committee Chairs </h2> 
+                <li><a href="http://www.public.asu.edu/~huanliu/"><b>Huan Liu</b></a>, Arizona State University</li> 
 
-                <li><h2>Student Arrangement Chairs</h2> 
-                <p>
-                      <a href="http://www.cs.umd.edu/~roos"><b>Patrick Roos</b></a>, University of Maryland<br />
-                      <b>Wei Wei</b>, Carnegie Mellon University
-                </p>
-                </li> 
+                <h2>Student Arrangement Chairs</h2> 
+                <li><a href="http://www.cs.umd.edu/~roos"><b>Patrick Roos</b></a>, University of Maryland</li>
+                <li><b>Wei Wei</b>, Carnegie Mellon University</li> 
 
-                <li><h2>Web Chair</h2> 
-                <p>
-                    <b><a href="http://www.katychuang.com">Katherine Chuang</a></b>, Drexel University<br>
-                </p>
-                </li> 
+                <h2>Web Chair</h2> 
+                <li><b><a href="http://www.katychuang.com">Katherine Chuang</a></b>, Drexel University<br></li> 
 
             </ol><!-- /#posts-list -->  
         </section><!-- /#content -->
