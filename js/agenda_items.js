@@ -23,7 +23,7 @@ var agendaData = [
       {'start': '9:00',
        'end': '12:00',
        'title': 'Morning Tutorials',
-       'location': 'Room 1'},
+       'location': ''},
 
        {'start': '12:00',
        'end': '13:30',
@@ -33,7 +33,7 @@ var agendaData = [
        {'start': '13:30',
        'end': '16:30',
        'title': 'Afternoon Tutorials',
-       'location': 'Room 1'}
+       'location': ''}
 
 
     ]
@@ -61,13 +61,13 @@ var agendaData = [
 
       {'start': '9:15',
        'end': '11:00',
-       'title': 'Morning Session',
-       'location': ''},
+       'title': 'Session 1: Health & Networks',
+       'location': 'Conference Room'},
 
       {'start': '11:00',
        'end': '12:00',
        'title': 'Challenge session',
-       'location': ''}, 
+       'location': 'Conference Room'}, 
 
       {'start': '12:00',
        'end': '13:00',
@@ -76,13 +76,13 @@ var agendaData = [
 
       {'start': '13:00',
        'end': '15:00',
-       'title': 'Afternoon Session',
-       'location': ''},
+       'title': 'Session 2: Taster',
+       'location': 'Conference Room'},
 
        {'start': '15:00',
        'end': '17:00',
        'title': 'Cross-Fertilization Roundtables',
-       'location': ''}
+       'location': 'Conference Room'}
 
 
     ]
@@ -101,7 +101,7 @@ var agendaData = [
       {'start': '8:15',
        'end': '8:30',
        'title': 'Welcome & Admin',
-       'location': ''},
+       'location': 'Conference Room'},
 
       {'start': '8:30',
        'end': '9:00',
@@ -110,12 +110,12 @@ var agendaData = [
 
       {'start': '9:15',
        'end': '11:00',
-       'title': 'Morning Session',
+       'title': 'Session 3: Epidemiology & Communication',
        'location': ''},
 
       {'start': '11:00',
        'end': '12:00',
-       'title': 'Challenge session',
+       'title': 'Session 4: Recommendations',
        'location': ''}, 
 
       {'start': '12:00',
@@ -125,13 +125,13 @@ var agendaData = [
 
       {'start': '13:00',
        'end': '16:00',
-       'title': 'Poster Intros',
-       'location': ''},
+       'title': 'Poster Introductions',
+       'location': 'Conference Room'},
 
        {'start': '16:00',
        'end': '18:30',
        'title': 'Poster Reception',
-       'location': ''}
+       'location': 'Conference Room'}
 
     ]
   },
@@ -157,7 +157,7 @@ var agendaData = [
 
       {'start': '9:00',
        'end': '11:45',
-       'title': 'Morning Session',
+       'title': 'Session 5: Influence & Games',
        'location': ''},
 
       {'start': '11:45',
@@ -172,12 +172,12 @@ var agendaData = [
 
       {'start': '13:15',
        'end': '15:00',
-       'title': 'Afternoon Session 1',
+       'title': 'Session 6: Prediction & Social Media',
        'location': ''},
 
       {'start': '15:00',
        'end': '16:00',
-       'title': 'Afternoon Session 2',
+       'title': 'Session 7: Prediction & Social Media',
        'location': ''},
 
        {'start': '16:00',

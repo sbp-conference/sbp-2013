@@ -112,3 +112,11 @@
     z-index: 10;
     position: relative;
 }
+
+#agenda table { font-size: 13px;
+  font-family: 'Droid Sans', Arial; 
+  border-left:1px solid #cccccc;
+}
+
+#agenda td {border:1px solid #cccccc; padding:7px;}
+

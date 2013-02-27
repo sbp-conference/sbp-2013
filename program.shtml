@@ -22,17 +22,18 @@
         <link rel="stylesheet" type="text/css" media="all" href="css/ie6.css"/><![endif]--> 
 
     </head>
-    <body id="agenda" class="home">
+    <body id="agenda" class="program">
         <!--#include virtual="banner.html" -->
             
 
 <div id="content1">
 
   <h2>Conference Program</h2>
-  <p class="subhead"><a href="http://sbp2013.org/SBP_2013_program_draft.pdf">PDF</a> 
-<!--
+  <p class="subhead"><a href="http://sbp2013.org/SBP_2013_program_draft.pdf">PDF</a>
     |
-    <a href="sessions.html">Session breakout schedule</a>  -->
+    <a href="sessions.shtml">Session breakout schedule</a> 
+    | 
+    <a href="program.shtml">Program</a> 
   <div id="featured1">
 
   </div>

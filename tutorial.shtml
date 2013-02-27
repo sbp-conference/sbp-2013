@@ -24,39 +24,64 @@
             
     <section id="featured1">
         <h2>SBP 2013 Tutorials</h2>
-        <p>SBP will offer tutorials free to registered attendees on April 2nd. These tutorials are confirmed:
-        </p>
-    </section><!-- /#featured -->
+        <p>SBP will offer tutorials free to registered attendees on April 2nd. These tutorials are confirmed:</p>
+    
+    <p>&nbsp;</p><p>&nbsp;</p>
 
-    <section id="featured1" class="body">
-    <h2>A Review of Human Mobility Models based on Digital Traces of Human Activity</h2>
+    <h2>Morning Session</h2>    
+    <h3>Social Simulation: Introduction to Agent-based modeling</h3>
+    <p><b>Location:</b> Conference Room</p>
+    <p id="keynotepage">
+    Download: <a href="http://ccl.northwestern.edu/netlogo/download.shtml">NetLogo</a><br /><br />
+        <img src="http://ccl.northwestern.edu/netlogo/community/Lattice-Walking%20Turtles_15.png" width="170">
+        <em>Audience:</em> This introductory short course is aimed at the audience of researchers, practitioners, program staff, policy makers, and graduate students who are interested in learning the very basics of agent-based modeling. Although no special mathematics background is necessary,
+        statisticians and analysts are also encouraged to participate because agent-based modeling is a
+        relatively new and fast-developing area which brings exciting technical challenges.
+    <br /><br />
+    <em>Special Instruction:</em> Participants should bring their own laptop.
+    <br /><br />
+    <em>Description:</em> Agent-based models (ABMs) are becoming popular and useful tools to describe
+        human behavior and interactions. They are being extensively used in social sciences, especially
+        in the studies of infectious diseases, health behavior, security and law enforcement. At the same
+        time, the utility of ABMs is often misunderstood, with some considering ABMs as the ultimate
+        modeling tool and some viewing them as useless for practical applications. The first part of
+        the tutorial will describe the niche of ABMs in the variety of modeling methods. We will discuss
+        modeling objectives and the applicability of different modeling types (Statistical models, Markov
+        models, System dynamics, Agent-based) to achieve the objective.
+    <br /><br />
+    Next we will describe the main elements of the ABMs and illustrate the importance of the ODD
+    (Overview, Design concepts, and Details) protocol in the development of quality models.
+    Finally, we will use free agent-based modeling software NetLogo 
+    (<a href="http://ccl.northwestern.edu/netlogo/">http://ccl.northwestern.edu/netlogo/</a>) 
+    to develop a simple ABM. We will discuss the good modeling practices and the model documentation.
+    </p>
+    <p>&nbsp;</p>
+    Presenter: Georgiy Bobashev (<a href="http://www.rti.org/newsroom/experts.cfm?objectid=880AB09A-5056-B100-0C05D6185A3A98AF">bio</a>)<br />
+    <em>Senior Research Statistician, RTI International </em><br />
+
+    <p>&nbsp;</p>
+
+    <h3>A Review of Human Mobility Models based on Digital Traces of Human Activity</h3>
+    <p><b>Location:</b> Auditorium</p>
         Link: <a href="http://humnet.scripts.mit.edu/wordpress/">Human Mobility and Networks Lab (HuMNet)</a><br /><br />
         <p id="keynotepage">
             <img src="images/Marta.jpg" width="150">
-            Audience: This short course is aimed at the audience of researchers, practitioners and graduate students who are interested in learning the very basics of the analysis of mobile phone data to model human mobility. The availability of digital traces of human activity is a new and fast-developing area, which is changing the existing paradigms of how to model human activity.  </p>
+            <em>Audience:</em> This short course is aimed at the audience of researchers, practitioners and graduate students who are interested in learning the very basics of the analysis of mobile phone data to model human mobility. The availability of digital traces of human activity is a new and fast-developing area, which is changing the existing paradigms of how to model human activity.  </p>
 
-        <p>Description: I will provide a literature review of important findings of human mobility measured with large-scale data in the last 4 years. I will start with the discussion of measures that have been ubiquitous to several data sets in different countries, and discuss its implications in terms of how to model human mobility. I will review two existing models that reproduce the observed properties both at large scales and at urban scale. Next, we will discuss the results of aggregating the individual trips as mobility networks and its impact in applications such as epidemic spreading and traffic management. We will see how results on large mobility data have changed the current paradigm of modeling commuting behavior from gravity like models to the recently developed radiation model. Finally, I will discuss open questions in the field as well as opportunities to connect with the community working with mobile phone data in order to get access data and current research results. </p>
+        <p><em>Description:</em> I will provide a literature review of important findings of human mobility measured with large-scale data in the last 4 years. I will start with the discussion of measures that have been ubiquitous to several data sets in different countries, and discuss its implications in terms of how to model human mobility. I will review two existing models that reproduce the observed properties both at large scales and at urban scale. Next, we will discuss the results of aggregating the individual trips as mobility networks and its impact in applications such as epidemic spreading and traffic management. We will see how results on large mobility data have changed the current paradigm of modeling commuting behavior from gravity like models to the recently developed radiation model. Finally, I will discuss open questions in the field as well as opportunities to connect with the community working with mobile phone data in order to get access data and current research results. </p>
         
         <p>&nbsp;</p>
         Presenter: Marta C. Gonzalez (<a href="http://cee.mit.edu/gonzalez/">bio</a>)<br />
         Gilbert Winslow Career Development Assistant Professor<br>
         <em>Department of Civil and Environmental Engineering, MIT</em> <br /><br />
-    </section>
-
-    <section id="featured1">
-    <h2>Categorial Analysis of Social Processes </h2>
-    <p id="keynotepage"><img src="images/david_sallach.jpg" width="150" >
-    Category theory is an innovative, integrative mathematical framework with the potential to provide more effective analyses of social theory and social processes.  One of the key benefits of category theory is to combine expressiveness with rigor.  In this sense, it is uniquely appropriate for social modeling.</p>
-    <p>The present four-hour tutorial is divided into one hour segments covering the following topics: 1) Toward Social Categories, 2) Categorical Analysis, 3) Templates as Social Categories, and 4) Multi-Scale Categories.
-    </p>
+    
     <p>&nbsp;</p>
-        Presenter: David L. Sallach (<a href="http://www.dis.anl.gov/staff/sallach.html">bio</a>)<br />
-        <em>Argonne National Laboratory, University of Chicago</em> <br />
-        
-    </section>
+    <p>&nbsp;</p>
 
-    <section id="featured1">
-    <h2>Building Agent-Based Models with the MASON toolkit</h2>
+    <h2>Afternoon Session</h2>
+
+    <h3>Building Agent-Based Models with the MASON toolkit</h3>
+    <p><b>Location:</b> Conference Room</p>
     <p id="keynotepage">
 
         Download: <a href="http://cs.gmu.edu/~eclab/projects/mason/">MASON</a><br /><br />
@@ -74,58 +99,37 @@
     Presenters: Joey Harrison & Claudio Cioffi-Revilla (<a href="http://www.css.gmu.edu/?q=node/16">Claudio's bio</a>)  <br />
     <em>Department of Computational Social Science, George Mason University</em> <br>
 
-    </section>
+    <p>&nbsp;</p><p>&nbsp;</p>
 
-    <section id="featured1">
-    <h2>Social Simulation: Introduction to Agent-based modeling</h2>
-    <p id="keynotepage">
-    Download: <a href="http://ccl.northwestern.edu/netlogo/download.shtml">NetLogo</a><br /><br />
-        <img src="http://ccl.northwestern.edu/netlogo/community/Lattice-Walking%20Turtles_15.png" width="170">
-    <em>Audience:</em> This introductory short course is aimed at the audience of researchers, practitioners, program staff, policy makers, and graduate students who are interested in learning the very basics of agent-based modeling. Although no special mathematics background is necessary,
-statisticians and analysts are also encouraged to participate because agent-based modeling is a
-relatively new and fast-developing area which brings exciting technical challenges.
-    <br /><br />
-    <em>Special Instruction:</em> Participants should bring their own laptop.
-    <br /><br />
-    <em>Description:</em> Agent-based models (ABMs) are becoming popular and useful tools to describe
-human behavior and interactions. They are being extensively used in social sciences, especially
-in the studies of infectious diseases, health behavior, security and law enforcement. At the same
-time, the utility of ABMs is often misunderstood, with some considering ABMs as the ultimate
-modeling tool and some viewing them as useless for practical applications. The first part of
-the tutorial will describe the niche of ABMs in the variety of modeling methods. We will discuss
-modeling objectives and the applicability of different modeling types (Statistical models, Markov
-models, System dynamics, Agent-based) to achieve the objective.
-    <br /><br />
-    Next we will describe the main elements of the ABMs and illustrate the importance of the ODD
-(Overview, Design concepts, and Details) protocol in the development of quality models.
-Finally, we will use free agent-based modeling software NetLogo (<a href="http://ccl.northwestern.edu/netlogo/">http://ccl.northwestern.edu/netlogo/</a>) to develop a simple ABM. We will discuss the good modeling practices and the model documentation.
+    <h3>Categorial Analysis of Social Processes </h3>
+    <p><b>Location:</b> Auditorium</p>
+    <p id="keynotepage"><img src="images/david_sallach.jpg" width="150" >
+    Category theory is an innovative, integrative mathematical framework with the potential to provide more effective analyses of social theory and social processes.  One of the key benefits of category theory is to combine expressiveness with rigor.  In this sense, it is uniquely appropriate for social modeling.</p>
+    <p>The present four-hour tutorial is divided into one hour segments covering the following topics: 1) Toward Social Categories, 2) Categorical Analysis, 3) Templates as Social Categories, and 4) Multi-Scale Categories.
     </p>
     <p>&nbsp;</p>
-    Presenter: Georgiy Bobashev (<a href="http://www.rti.org/newsroom/experts.cfm?objectid=880AB09A-5056-B100-0C05D6185A3A98AF">bio</a>)<br />
-    <em>Senior Research Statistician, RTI International </em><br />
-                    
-    </div>
-            
-    <div class="right">
-                
-    </div>
-        </section>
+        Presenter: David L. Sallach (<a href="http://www.dis.anl.gov/staff/sallach.html">bio</a>)<br />
+        <em>Argonne National Laboratory, University of Chicago</em> <br />
+        
+    
 
+    </section>
 
+    
 
                 <!--#include virtual="menu.html" -->
-<script type="text/javascript">
+    <script type="text/javascript">
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-36899667-1']);
-  _gaq.push(['_trackPageview']);
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-36899667-1']);
+      _gaq.push(['_trackPageview']);
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
 
-</script>
+    </script>
     </body>
 </html>
