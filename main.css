@@ -179,7 +179,7 @@ header a.facebook span {
 	Extras
 *****************/
 #extras {
-	font-family:'Droid Sans', helveticaneue;
+	font-family:Times,'Droid Sans', helveticaneue;
 	border-top:3px solid black;
 	margin: 3em auto 0 auto; overflow: hidden; 
 	padding-top:20px;
@@ -195,7 +195,7 @@ header a.facebook span {
 	font-size: 0.95em;
 	margin-bottom: .95em;
 	padding: 0 3px;
-	font-family:'Droid Sans', helveticaneue;
+	font-family: 'Droid Sans', helveticaneue;
 }
 
 #extras a:link, #extras a:visited {
@@ -247,42 +247,42 @@ header a.facebook span {
 
 
 #featured1 {background: #fefefe; margin: 2em auto;
-	overflow: hidden; padding: 20px;width: 800px;
-	font-family: helveticaneue; color:#191919;
+	overflow: hidden; padding: 20px;
+	width: 800px;
+	font-family: Times, helveticaneue; 
+	color:#191919;
 }
 
 
 #keynotebox {
-	background: url('images/001-subtle-light-pattern-background-texture.jpg');
-	border-radius: 10px;
-	-moz-border-radius: 10px;
-	-webkit-border-radius: 10px;
-	border:1px solid #cccccc; padding:14px; 
-	height:330px;
-		-moz-box-shadow: 0px 2px 12px rgba(0, 0, 0, 0.4); /* FF3.5+ */
-			-webkit-box-shadow: 0px 2px 12px rgba(0, 0, 0, 0.4); /* Saf3.0+, Chrome */
-			  box-shadow: 0px 2px 12px rgba(0, 0, 0, 0.4); /* Opera 10.5, IE 9.0 */
-				  filter:  progid:DXImageTransform.Microsoft.dropshadow(OffX=12px, OffY=12px, Color='#555'); /* IE6,IE7 */
-			  -ms-filter: "progid:DXImageTransform.Microsoft.dropshadow(OffX=12px, OffY=12px, Color='#555')"; /* IE8 */   
+	width:800px;
+	border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	padding-top:20px;
+	background:#eeeeee;
+	height:330px;/*
+	border:1px solid #eeeeee; padding:14px; 
+		-moz-box-shadow: 0px 2px 12px rgba(0, 0, 0, 0.1); /* FF3.5+ *
+			-webkit-box-shadow: 0px 2px 12px rgba(0, 0, 0, 0.1); /* Saf3.0+, Chrome 
+			  box-shadow: 0px 2px 12px rgba(0, 0, 0, 0.1); /* Opera 10.5, IE 9.0 *
+				  filter:  progid:DXImageTransform.Microsoft.dropshadow(OffX=12px, OffY=12px, Color='#dddddd'); /* IE6,IE7 *
+			  -ms-filter: "progid:DXImageTransform.Microsoft.dropshadow(OffX=12px, OffY=12px, Color='#dddddd')"; /* IE8 */
 }
 
-#featured1 h2 {color: #116335; font-size: 1.714em; margin: 0.6em 0 0.3em 0;border-bottom: 1px solid #dddddd; font-weight:700;font-family: 'Droid Sans', helveticaneue;}
-#featured1 h3 {font-size: 1.429em; margin-bottom: .5em;}
-#featured1 h3 a:link, #featured1 h3 a:visited {color: #000305; text-decoration: none;}
+#featured1 h2 {color: #116335; font-size: 1.714em; margin: 0.6em 0 0.3em 0;border-bottom: 1px solid #dddddd; font-weight:700;
+			font-family: 'Droid Sans', helveticaneue;}
+#featured1 h3 , #keynotebox h3 {font-size: 1.429em; margin-bottom: .5em;}
+#featured1 h3 a:link, #featured1 h3 a:visited, #keynotebox h3 a:link,#keynotebox h3 a:visited {color: #000305; text-decoration: none;}
 #featured1 h3 a:hover, #featured1 h3 a:active {color: #818188;}
 #featured1 a:hover, #featured1 a {color:#00004d;}
-#featured1 p, #featured1 img{padding-top:2px; padding-bottom: 5px; line-height: 20px;
-			font-family: helveticaneue; font-size: 0.9em;} 
+#featured1 p, #featured1 img{padding-top:2px; padding-bottom: 5px; line-height: 1.1em;
+			font-family: Times, helveticaneue; font-size: 1.1em;} 
 
-#featured1 blockquote {font-family: helveticaneue; line-height: normal;
-		padding-left:12px; border-left:8px solid #efefef; font-size: 0.9em;} 
+#featured1 blockquote {font-family: Times, helveticaneue; line-height: normal;
+		padding-left:12px; border-left:8px solid #efefef; font-size: 1.0em;} 
 
 
-#keynote1stpage ol {list-style: none;}
-#keynote1stpage li {margin-left:58px; float: left; display:inline; padding-left:4px; font-size: 13px;line-height:16px;}
-#keynote1stpage img {
-		border:1px solid #cccccc; padding:14px;margin:15px; background-color: #fff;
-}
 
 
 
@@ -292,3 +292,29 @@ float:right;margin-left:18px;
 	-moz-border-radius: 10px;
 	-webkit-border-radius:10px;
 }
+
+/** LISTS **/
+#featured1 ol{ list-style-type: none; font: 1.1em  Times; margin-bottom:10px; margin-top: 10px;}
+
+#featured1 ol li { margin-left: 50px; font: 1.1em  Times; position:relative; text-indent: -1em;}
+
+#featured1 ul {list-style-position:inside;text-indent: -1em; font-size: 1.1em}
+
+#keynote1stpage ol {list-style: none;}
+#keynote1stpage li {margin-left:58px; float: left; display:inline; padding-left:4px; line-height:16px;font: sans-serif 0.72em;}
+#keynote1stpage img {
+		padding:0px;
+		margin:29px; 
+		background-color: #fff;
+		border-radius: 8px;
+			-moz-border-radius: 8px;
+			-webkit-border-radius:8px;
+
+	  	 -moz-box-shadow: 0px 2px 12px rgba(0, 0, 0, 0.1); /* FF3.5+ */
+	  -webkit-box-shadow: 0px 2px 12px rgba(0, 0, 0, 0.1); /* Saf3.0+, Chrome */
+			  box-shadow: 0px 2px 12px rgba(0, 0, 0, 0.1); /* Opera 10.5, IE 9.0 */
+				  filter:  progid:DXImageTransform.Microsoft.dropshadow(OffX=12px, OffY=12px, Color='#dddddd'); /* IE6,IE7 */
+			  -ms-filter: "progid:DXImageTransform.Microsoft.dropshadow(OffX=12px, OffY=12px, Color='#dddddd')"; /* IE8 */   
+		
+}
+

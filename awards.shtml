@@ -23,13 +23,46 @@
         <!--#include virtual="banner.html" -->
             
         <section id="featured1" class="body">
-                <h2>Awards</h2>
-                
-        <p>
-            Travel awards will be announced after author acceptance notice December 20.
-        </p>
-        <center><img src="images/sbp12_wordle_color_match.gif" width="100%"></center>
-                <h2></h2> 
+            <p>We have two forms of travel support available, as described below.</p>
+
+            <h2>1. Student Travel Scholarship</h2>
+            
+            <p>We have obtained grant funding that will provide a number of registration and travel reimbursement awards for students and postdocs to help them attend the conference. These awards will cover registration cost reimbursement for local students. For non-local students, the award will cover reimbursement of up to $1000 for registration, travel, and lodging expenses.</p>
+
+            <p>To apply for these awards, students should send an email to Wei Wei (weiwei at cs.cmu.edu) and Patrick Roos (roos at cs.umd.edu).</p>
+
+            <OL>The email should include the following:
+
+                <li>1. Confirmation that the student is planning to attend SBP13</li>
+                <li>2. Confirmation that the student wants to apply for the bursary</li>
+                <li>3. A simple letter of support by a faculty member confirming the applicant's student status</li>
+                <li>4. A short paragraph outlining why the student has need for the award</li>
+            </ol>
+
+            <p>The awards will be allocated on the basis of student qualifications, need, and available funding. Awards will be made by reimbursement.</p>
+
+            <h4 class="red" style="color:red">DEADLINE TO APPLY FOR SBP TRAVEL SCHOLARSHIPS IS MARCH 15, 2013.</h4>
+
+            <h2>2. Diversity Awards</h2>
+
+            <p>We also have funding that will provide a limited travel support (registration, travel, hotel) for the purpose of increasing diversity at SBP 2013. Support will be available to participants from underrepresented groups (racial minority, females, or participants from the social sciences, economic or managerial sciences, or biomedical research fields) to help them attend the conference and contribute to the disciplinary diversity. These awards will cover registration costs for local conference participants. For non-local participants, the award will cover up to $1000 for registration, travel, and lodging expenses. These awards are available to students, post-docs, and non-students who belong to one or more of the underrepresented groups indicated.</p>
+
+            <p>To apply for consideration, please send an email to Don Adjeroh (don@csee.wvu.edu).</p>
+
+            <OL>The email should include the following:
+
+                <li>1. Confirmation that the student is planning to attend SBP13</li>
+                <li>2. Confirmation that the student wants to apply for the travel support</li>
+                <li>3. An indication of the under-represented category/categories to which you belong. Diversity categories include Gender (i.e., females are underrepresented at this conference), and racial or ethnic group (underrepresented groups include African Americans, American Indians,  and those of Hispanic origin). Diversity categories also include area of study. Diverse areas of study are those outside of the traditional STEM disciplines, and include behavioral and social sciences, economic or managerial sciences, and biomedical research fields.</li>
+                <li>4. (For student applicants and post-docs only) A simple letter of support by a faculty member who knows you, confirming that you belong to the
+minority category that you specified.</li>
+                <li>5. A short paragraph outlining why the student has need for the award</li>
+            </ol>
+
+            <p>The awards will be allocated on the basis of individual's need and available funding. Travel scholarships to promote diversity are awarded in the form of travel reimbursement. Travel scholars will need to submit qualifying receipts at the end of their trip.</p>
+
+            <h4 class="red" style="color:red">DEADLINE TO APPLY FOR SBP TRAVEL SCHOLARSHIPS IS MARCH 15, 2013.</h4>
+
         </section><!-- /#featured -->
 
 

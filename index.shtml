@@ -28,20 +28,19 @@
             <div style="text-align:left;padding: 0px 90px 20px 90px; "> 
             SBP is a multidisciplinary conference with a selective single paper track and poster session. SBP also invites a small number of high quality tutorials and nationally recognized keynote speakers.</div>
             
+        </section><!-- /#featured1 -->
+
         <center>
         <div id="keynotebox">
             <h3><a href="keynote.shtml">Keynote Speakers</a></h3>
                 <ol id="keynote1stpage">
-                    <li><img src="images/bernardo_huberman.jpg">
-                            <br />Bernardo Huberman<br>Hewlett-Packard Laboratories</li>
-                    <li><img src="images/michele_gelfand.jpg">
-                            <br />Michele Gelfand<br>University of Maryland</li>
-                    <li><img src="images/myron_gutman.jpg">
-                            <br />Myron Gutman<br>National Science Foundation</li>
+                    <li><img src="images/bernardo_huberman.jpg"><br />Bernardo Huberman<br />Hewlett-Packard Laboratories</li>
+                    <li><img src="images/michele_gelfand.jpg"><br />Michele Gelfand<br />University of Maryland</li>
+                    <li><img src="images/myron_gutman.jpg"><br />Myron Gutman<br />National Science Foundation</li>
                 </ol>
         </div><!--keynotebox -->
-        </center></section><!-- /#featured1 -->
-
+        </center>
+        
     <section id="featured1" class="body"> 
         <h2>Paper deadlines</h2> 
         <p><b>Paper registration deadline:</b> November 6, 2012 (11:59pm, EST)<br>

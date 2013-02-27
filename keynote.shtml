@@ -22,12 +22,8 @@
         <!--#include virtual="banner.html" -->
             
         <aside id="featured1" class="body">
-            <center>
                 <h2>Keynote Speakers</h2>
-                <!--h3>The 2013 International Conference on Social Computing, <br />
-                Behavioral-Cultural Modeling, & Prediction (SBP 2013)</h3-->
-
-        </center></aside><!-- /#featured -->
+        </aside><!-- /#featured -->
 
 
         <section id="featured1" class="body">  
