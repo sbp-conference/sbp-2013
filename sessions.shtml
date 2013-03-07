@@ -1,939 +1,1683 @@
-<!DOCTYPE html> 
+<!DOCTYPE html>
 <html lang="en">
-<head>
+    <head>
+        <title>
+            SBP: Social Computing, Behavioral-Cultural Modeling and Prediction
+        </title>
+        <link rel="stylesheet" type="text/css" href="main.css">
+        <link rel="stylesheet" type="text/css" href="program.css">
+        <link href='http://fonts.googleapis.com/css?family=Droid+Sans' rel='stylesheet' type='text/css'>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta name="description" content="Social Computing, Behavioral-Cultural Modeling and Prediction">
+        <meta name="keywords" content="social computing, behavioral-cultural modeling, prediction">
+        <meta name="author" content="Nathan Bos">
+        <meta name="author" content="Katherine Chuang"><!--[if IE]> <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]--><!--[if lte IE 7]> <script src="js/IE8.js" type="text/javascript"></script><![endif]--><!--[if lt IE 7]>
 
-    <title>SBP: Social Computing, Behavioral-Cultural Modeling and Prediction</title>
+    <link rel="stylesheet" type="text/css" media="all" href="css/ie6.css"/><![endif]-->
+    </head>
+    <body id="agenda" class="schedule">
+        <!--#include virtual="banner.html" -->
+        <div id="content1">
+            <h2>
+                Conference Program
+            </h2>
+            <p class="subhead">
+                <a href="http://sbp2013.org/SBP_2013_program_draft.pdf">PDF</a> | <a href="sessions.shtml">Session breakout schedule</a> | <a href="program.shtml">Program</a>
+            </p>
+            <div id="featured1">
+                <h2>
+                    Sessions
+                </h2>
+                  <table id="April2">
+                    <tr>
+                        <td colspan="5">
+                            <h2>
+                                Tuesday April 2nd, 2013
+                            </h2>
+                        </td>
+                    </tr>
+                    <tr style='height:15.0pt;background:#dccc8c;font-weight:300;'>
+                        <td width="100">
+                            Tutorials
+                        </td>
+                        <td>
+                            Morning Tutorials
+                        </td>
+                        <td>
+                            Presenter
+                        </td>
+                        <td>
+                            Topic
+                        </td>
+                        <td>
+                            Location
+                        </td>
+                    </tr>
+                    <tr height="40" style='height:30.0pt'>
+                        <td>
+                            9am - 12pm
+                        </td>
+                        <td>
+                            Social Simulation Introduction to Agent‐based Modeling
+                        </td>
+                        <td>
+                            Georgiy Bobashev
+                        </td>
+                        <td>
+                            
+                        </td>
+                        <td>
+                            
+                        </td>
+                    </tr>
+                    <tr height="40" style='height:30.0pt'>
+                        <td>
+                            9am - 12pm
+                        </td>
+                        <td>
+                            A Review of Human Mobility Models based on Digital Traces of Human Activity
+                        </td>
+                        <td>
+                            Marta G. Gonzalez
+                        </td>
+                        <td>
+                            
+                        </td>
+                        <td>
+                            
+                        </td>
+                    </tr>
+                    <tr height="20" style='height:15.0pt;background:#eeeeee'>
+                        <td>
+                            12pm - 1:30pm
+                        </td>
+                        <td>
+                            Lunch on your own
+                        </td>
+                        <td>
+                            &nbsp;
+                        </td>
+                        <td>
+                            &nbsp;
+                        </td>
+                        <td>
+                            &nbsp;
+                        </td>
+                    </tr>
+                    <tr height="40" style='height:30.0pt'>
+                        <td>
+                            1:30pm-4pm
+                        </td>
+                        <td>
+                            Building Agent-Based Models with the MASON toolkit
+                        </td>
+                        <td>
+                            Joey Harrison & Claudio Cioffi-Revilla
+                        </td>
+                        <td>
+                            &nbsp;
+                        </td>
+                        <td>
+                            &nbsp;
+                        </td>
+                    </tr>
+                    <tr height="40" style='height:30.0pt'>
+                        <td>
+                            1:30pm-4pm
+                        </td>
+                        <td>
+                            Categorical Analysis of Social Processes
+                        </td>
+                        <td>
+                            David L. Sallach
+                        </td>
+                        <td>
+                            &nbsp;
+                        </td>
+                        <td>
+                            &nbsp;
+                        </td>
+                    </tr>
+                </table>
+                <table id="April3">
+                    <tr>
+                        <td colspan="5">
+                            <h2>
+                                April 3rd, 2013
+                            </h2>
+                        </td>
+                    </tr>
+                    <tr height="40" style='height:30.0pt'>
+                        <td>
+                            8:30-9am
+                        </td>
+                        <td>
+                            Keynote
+                        </td>
+                        <td>
+                            Myron Gutmann
+                        </td>
+                        <td>
+                            
+                        </td>
+                        <td>
+                            
+                        </td>
+                    </tr>
+                    <tr style='height:15.0pt;background:#dccc8c;font-weight:300;'>
+                        <td width="100">
+                            Session 1
+                        </td>
+                        <td>
+                            &nbsp;
+                        </td>
+                        <td>
+                            Presenter
+                        </td>
+                        <td>
+                            Topic
+                        </td>
+                        <td>
+                            Conference Room
+                        </td>
+                    </tr>
+                    <tr height="40" style='height:30.0pt'>
+                        <td>
+                            Talk 1
+                        </td>
+                        <td>
+                            Feedback dynamic between emotional reinforcement and healthy eating : An application of the reciprocal Markov model
+                        </td>
+                        <td>
+                            Edward Ip, Qiang Zhang, Ji Lu, Laurette Dube and Patricia Mabry.
+                        </td>
+                        <td>
+                            Health
+                        </td>
+                        <td>
+                            Conference Room
+                        </td>
+                    </tr>
+                    <tr height="40" style='height:30.0pt'>
+                        <td>
+                            Talk 2
+                        </td>
+                        <td>
+                            Social Network Analysis of Peer Effects on Binge Drinking among US Adolescents
+                        </td>
+                        <td>
+                            Marlon Mundt
+                        </td>
+                        <td>
+                            Health
+                        </td>
+                        <td>
+                            Conference Room
+                        </td>
+                    </tr>
+                    <tr height="20" style='height:15.0pt;background:#eeeeee'>
+                        <td>
+                            Break
+                        </td>
+                        <td>
+                            Bio Break
+                        </td>
+                        <td>
+                            &nbsp;
+                        </td>
+                        <td>
+                            &nbsp;
+                        </td>
+                        <td>
+                            Foyer
+                        </td>
+                    </tr>
+                    <tr height="40" style='height:30.0pt'>
+                        <td>
+                            Talk 3
+                        </td>
+                        <td>
+                            Dynamic stochastic blockmodels: Statistical models for time-evolving networks
+                        </td>
+                        <td>
+                            Kevin Xu and Alfred Hero
+                        </td>
+                        <td>
+                            Info
+                        </td>
+                        <td>
+                            Conference Room
+                        </td>
+                    </tr>
+                    <tr height="40" style='height:30.0pt'>
+                        <td>
+                            Talk 4
+                        </td>
+                        <td>
+                            Sparsification and Sampling of Networks for Collective Classification
+                        </td>
+                        <td>
+                            Tanwistha Saha,Huzefa Rangwala and Carlotta Domeniconi
+                        </td>
+                        <td>
+                            Info
+                        </td>
+                        <td>
+                            Conference Room
+                        </td>
+                    </tr>
+                    <tr height="20" style='height:15.0pt;background:#eeeeee;'>
+                        <td>
+                            Session 2
+                        </td>
+                        <td>
+                            Taster
+                        </td>
+                        <td>
+                            Presenter
+                        </td>
+                        <td>
+                            &nbsp;
+                        </td>
+                        <td>
+                            Conference Room
+                        </td>
+                    </tr>
+                    <tr height="40" style='height:30.0pt'>
+                        <td>
+                            Talk 1
+                        </td>
+                        <td class="xl80" width="487" style='border-top:none;border-left:none;width:365pt'>
+                            Parent Training Resource Allocation Optimization Using an Agent-based Model of Child Maltreatment
+                        </td>
+                        <td class="xl79" width="275" style='border-top:none;border-left:none;width:206pt'>
+                            Nicholas Keller and Xiaolin Hu
+                        </td>
+                        <td class="xl79" width="126" style='border-top:none;border-left:none;width:95pt'>
+                            Behavioral
+                        </td>
+                        <td class="xl79" width="166" style='border-top:none;border-left:none;width:125pt'>
+                            Conference Room
+                        </td>
+                    </tr>
+                    <tr height="20" style='height:15.0pt'>
+                        <td>
+                            Talk 2
+                        </td>
+                        <td class="xl80" width="487" style='border-top:none;border-left:none;width:365pt'>
+                            The Evolution of Paternal Care
+                        </td>
+                        <td class="xl79" width="275" style='border-top:none;border-left:none;width:206pt'>
+                            Mauricio Salgado
+                        </td>
+                        <td class="xl79" width="126" style='border-top:none;border-left:none;width:95pt'>
+                            Behavioral
+                        </td>
+                        <td>
+                            Conference Room
+                        </td>
+                    </tr>
+                    <tr height="40" style='height:30.0pt'>
+                        <td>
+                            Talk 3
+                        </td>
+                        <td class="xl80" width="487" style='border-top:none;border-left:none;width:365pt'>
+                            Testing the Foundations of Quantal Response Equilibrium
+                        </td>
+                        <td class="xl79" width="275" style='border-top:none;border-left:none;width:206pt'>
+                            Mathew McCubbins, Mark Turner and Nicholas Weller.
+                        </td>
+                        <td class="xl79" width="126" style='border-top:none;border-left:none;width:95pt'>
+                            Health
+                        </td>
+                        <td class="xl79" width="166" style='border-top:none;border-left:none;width:125pt'>
+                            Conference Room
+                        </td>
+                    </tr>
+                    <tr height="20" style='height:15.0pt'>
+                        <td>
+                            Talk 4
+                        </td>
+                        <td class="xl80" width="487" style='border-top:none;border-left:none;width:365pt'>
+                            Risk-based Models of Attacker Behavior in Cybersecurity
+                        </td>
+                        <td class="xl79" width="275" style='border-top:none;border-left:none;width:206pt'>
+                            Si Li, Ryan Rickert and Amy Sliva
+                        </td>
+                        <td class="xl79" width="126" style='border-top:none;border-left:none;width:95pt'>
+                            Military
+                        </td>
+                        <td class="xl79" width="166" style='border-top:none;border-left:none;width:125pt'>
+                            Conference Room
+                        </td>
+                    </tr>
+                    <tr height="20" style='height:15.0pt; background:#eeeeee;'>
+                        <td>
+                            Break
+                        </td>
+                        <td class="xl80" width="487" style='border-top:none;border-left:none;width:365pt'>
+                            Logi Break, Catered
+                        </td>
+                        <td class="xl78" width="275" style='border-top:none;border-left:none;width:206pt'>
+                            &nbsp;
+                        </td>
+                        <td class="xl78" width="126" style='border-top:none;border-left:none;width:95pt'>
+                            &nbsp;
+                        </td>
+                        <td class="xl79" width="166" style='border-top:none;border-left:none;width:125pt'>
+                            Foyer
+                        </td>
+                    </tr>
+                    <tr height="20" style='height:15.0pt;background:#dccc8c;'>
+                        <td></td>
+                        <td colspan="1">
+                            Cross-fertilization Roundtables
+                        </td>
+                        <td colspan="2">
+                            Fahmida Chowdhury, Tisha Wiley
+                        </td>
+                        <td>
+                            Conference Room
+                        </td>
+                    </tr>
+                    <tr height="20" style='height:15.0pt'>
+                        <td></td>
+                        <td colspan="3">
+                            Round Table Discussions - Session 1
+                        </td>
+                        <td class="xl79" width="166" style='border-top:none;border-left:none;width:125pt'>
+                            Conference Room
+                        </td>
+                    </tr>
+                    <tr height="20" style='height:15.0pt'>
+                        <td></td>
+                        <td colspan="3">
+                            Round Table Discussions - Session 2
+                        </td>
+                        <td class="xl79" width="166" style='border-top:none;border-left:none;width:125pt'>
+                            Conference Room
+                        </td>
+                    </tr>
+                    <tr height="20" style='height:15.0pt'>
+                        <td></td>
+                        <td colspan="3">
+                            Round Table Discussions - Session 3
+                        </td>
+                        <td class="xl79" width="166" style='border-top:none;border-left:none;width:125pt'>
+                            Conference Room
+                        </td>
+                    </tr>
+                    <tr height="20" style='height:15.0pt'>
+                        <td></td>
+                        <td colspan="3">
+                            Round Table Discussions - Session 4
+                        </td>
+                        <td class="xl79" width="166" style='border-top:none;border-left:none;width:125pt'>
+                            Conference Room
+                        </td>
+                    </tr>
+                </table>
+                <table id="April4">
+                    <tr>
+                        <td height="20" colspan="5">
+                            <h2>
+                                April 4th, 2013
+                            </h2>
+                        </td>
+                    </tr>
+                    <tr height="40" style='height:30.0pt'>
+                        <td>
+                            8-8:15am
+                        </td>
+                        <td>
+                            Announcement of Best Paper Awards
+                        </td>
+                        <td>
+                            
+                        </td>
+                        <td>
+                            
+                        </td>
+                        <td>
+                            
+                        </td>
+                    </tr>
+                    <tr height="40" style='height:30.0pt'>
+                        <td>
+                            8:15-9am
+                        </td>
+                        <td>
+                            Keynote
+                        </td>
+                        <td>
+                            Berndardo Huberman, HP
+                        </td>
+                        <td>
+                            
+                        </td>
+                        <td>
+                            
+                        </td>
+                    </tr>
+                    <tr height="20" style='height:15.0pt;background:#dccc8c;'>
+                        <td width="88">
+                            Session 3
+                        </td>
+                        <td width="487">
+                            &nbsp;
+                        </td>
+                        <td width="275">
+                            Session Chair
+                        </td>
+                        <td width="126">
+                            Topic
+                        </td>
+                        <td width="166">
+                            Conference Room
+                        </td>
+                    </tr>
+                    <tr height="40" style='height:30.0pt'>
+                        <td height="40" class="xl79" width="88" style='height:30.0pt;border-top:none; border-left:none;width:66pt'>
+                            Talk 1
+                        </td>
+                        <td class="xl80" width="487" style='border-top:none;border-left:none;width:365pt'>
+                            Modeling the Social Response to a Disease Outbreak
+                        </td>
+                        <td class="xl79" width="275" style='border-top:none;border-left:none;width:206pt'>
+                            Jane Evans, Shannon Fast and Natasha Markuzon.
+                        </td>
+                        <td class="xl79" width="126" style='border-top:none;border-left:none;width:95pt'>
+                            Health
+                        </td>
+                        <td class="xl79" width="166" style='border-top:none;border-left:none;width:125pt'>
+                            Conference Room
+                        </td>
+                    </tr>
+                    <tr height="60" style='height:45.0pt'>
+                        <td height="60" class="xl79" width="88" style='height:45.0pt;border-top:none; border-left:none;width:66pt'>
+                            Talk 2
+                        </td>
+                        <td class="xl80" width="487" style='border-top:none;border-left:none;width:365pt'>
+                            Modeling the Dynamics of Dengue Fever
+                        </td>
+                        <td class="xl79" width="275" style='border-top:none;border-left:none;width:206pt'>
+                            Kun Hu, Christian Thoens, Simone Bianco, Stefan Edlund, Matt Davis, James Kaufman and Judith Dougla
+                        </td>
+                        <td class="xl79" width="126" style='border-top:none;border-left:none;width:95pt'>
+                            Methodology
+                        </td>
+                        <td class="xl79" width="166" style='border-top:none;border-left:none;width:125pt'>
+                            Conference Room
+                        </td>
+                    </tr>
+                    <tr height="20" style='height:15.0pt;background:#eeeeee;'>
+                        <td height="20" class="xl79" width="88" style='height:15.0pt;border-top:none; border-left:none;width:66pt'>
+                            Break
+                        </td>
+                        <td class="xl80" width="487" style='border-top:none;border-left:none;width:365pt'>
+                            Bio Break
+                        </td>
+                        <td class="xl78" width="275" style='border-top:none;border-left:none;width:206pt'>
+                            &nbsp;
+                        </td>
+                        <td class="xl78" width="126" style='border-top:none;border-left:none;width:95pt'>
+                            &nbsp;
+                        </td>
+                        <td class="xl79" width="166" style='border-top:none;border-left:none;width:125pt'>
+                            Foyer
+                        </td>
+                    </tr>
+                    <tr height="60" style='height:45.0pt'>
+                        <td height="60" class="xl79" width="88" style='height:45.0pt;border-top:none; border-left:none;width:66pt'>
+                            Talk 3
+                        </td>
+                        <td class="xl80" width="487" style='border-top:none;border-left:none;width:365pt'>
+                            Predicting personality using novel mobile phone-based metrics
+                        </td>
+                        <td class="xl79" width="275" style='border-top:none;border-left:none;width:206pt'>
+                            Yves-Alexandre de Montjoye, Jordi Quoidbach, Florent Robic and Alex Sandy Pentland.
+                        </td>
+                        <td class="xl79" width="126" style='border-top:none;border-left:none;width:95pt'>
+                            Behavioral
+                        </td>
+                        <td class="xl79" width="166" style='border-top:none;border-left:none;width:125pt'>
+                            Conference Room
+                        </td>
+                    </tr>
+                    <tr height="40" style='height:30.0pt'>
+                        <td height="40" class="xl79" width="88" style='height:30.0pt;border-top:none; border-left:none;width:66pt'>
+                            Talk 4
+                        </td>
+                        <td class="xl80" width="487" style='border-top:none;border-left:none;width:365pt'>
+                            An Agent-Based Model for Simultaneous Phone and SMS Traffic Over Time
+                        </td>
+                        <td class="xl79" width="275" style='border-top:none;border-left:none;width:206pt'>
+                            Kenneth Joseph, Wei Wei and Kathleen Carley
+                        </td>
+                        <td class="xl79" width="126" style='border-top:none;border-left:none;width:95pt'>
+                            Behavioral
+                        </td>
+                        <td class="xl79" width="166" style='border-top:none;border-left:none;width:125pt'>
+                            Conference Room
+                        </td>
+                    </tr>
+                    <tr height="20" style='height:15.0pt'>
+                        <td height="20" class="xl79" width="88" style='height:15.0pt;border-top:none; border-left:none;width:66pt'>
+                            Talk 5
+                        </td>
+                        <td class="xl80" width="487" style='border-top:none;border-left:none;width:365pt'>
+                            Predicting Mobile Call Behavior via Subspace Methods
+                        </td>
+                        <td class="xl79" width="275" style='border-top:none;border-left:none;width:206pt'>
+                            Peng Dai, Shen-Shyang Ho, Wanqing Yang
+                        </td>
+                        <td class="xl79" width="126" style='border-top:none;border-left:none;width:95pt'>
+                            Methodology
+                        </td>
+                        <td class="xl79" width="166" style='border-top:none;border-left:none;width:125pt'>
+                            Conference Room
+                        </td>
+                    </tr>
+                    <tr height="80" style='height:60.0pt'>
+                        <td height="80" class="xl79" width="88" style='height:60.0pt;border-top:none; border-left:none;width:66pt'>
+                            Talk 6
+                        </td>
+                        <td class="xl80" width="487" style='border-top:none;border-left:none;width:365pt'>
+                            Modeling the interactions between emergency communications and behavior in the aftermath of a disaster
+                        </td>
+                        <td class="xl79" width="275" style='border-top:none;border-left:none;width:206pt'>
+                            Shridhar Chandan, Sudip Saha, Christopher Barrett, Stephen Eubank, Achla Marathe, Madhav Marathe, Samarth Swarup and Anil Kumar Vullikanti
+                        </td>
+                        <td class="xl79" width="126" style='border-top:none;border-left:none;width:95pt'>
+                            Methodology
+                        </td>
+                        <td class="xl79" width="166" style='border-top:none;border-left:none;width:125pt'>
+                            Conference Room
+                        </td>
+                    </tr>
+                    <tr height="20" style='height:15.0pt;background:#eeeeee;'>
+                        <td height="20" class="xl79" width="88" style='height:15.0pt;border-top:none; border-left:none;width:66pt'>
+                            Lunch
+                        </td>
+                        <td class="xl80" width="487" style='border-top:none;border-left:none;width:365pt'>
+                            On your own
+                        </td>
+                        <td class="xl78" width="275" style='border-top:none;border-left:none;width:206pt'>
+                            &nbsp;
+                        </td>
+                        <td class="xl78" width="126" style='border-top:none;border-left:none;width:95pt'>
+                            &nbsp;
+                        </td>
+                        <td class="xl79" width="166" style='border-top:none;border-left:none;width:125pt'>
+                            Foyer
+                        </td>
+                    </tr>
+                    <tr height="20" style='height:15.0pt;background:#dccc8c;'>
+                        <td height="20" class="xl76" width="88" style='height:15.0pt;border-top:none; border-left:none;width:66pt'>
+                            Sesssion 4
+                        </td>
+                        <td class="xl77" width="487" style='border-top:none;border-left:none;width:365pt'>
+                            &nbsp;
+                        </td>
+                        <td class="xl76" width="275" style='border-top:none;border-left:none;width:206pt'>
+                            Session Chair
+                        </td>
+                        <td class="xl78" width="126" style='border-top:none;border-left:none;width:95pt'>
+                            &nbsp;
+                        </td>
+                        <td class="xl76" width="166" style='border-top:none;border-left:none;width:125pt'>
+                            Conference Room
+                        </td>
+                    </tr>
+                    <tr height="20" style='height:15.0pt'>
+                        <td height="20" class="xl79" width="88" style='height:15.0pt;border-top:none; border-left:none;width:66pt'>
+                            Talk 1
+                        </td>
+                        <td class="xl80" width="487" style='border-top:none;border-left:none;width:365pt'>
+                            Pareto distance for multi-layer network analysis
+                        </td>
+                        <td class="xl79" width="275" style='border-top:none;border-left:none;width:206pt'>
+                            Matteo Magnani and Luca Rossi
+                        </td>
+                        <td class="xl79" width="126" style='border-top:none;border-left:none;width:95pt'>
+                            Info
+                        </td>
+                        <td class="xl79" width="166" style='border-top:none;border-left:none;width:125pt'>
+                            Conference Room
+                        </td>
+                    </tr>
+                    <tr height="20" style='height:15.0pt'>
+                        <td height="20" class="xl79" width="88" style='height:15.0pt;border-top:none; border-left:none;width:66pt'>
+                            Talk 2
+                        </td>
+                        <td class="xl80" width="487" style='border-top:none;border-left:none;width:365pt'>
+                            Formation of multiple networks
+                        </td>
+                        <td class="xl79" width="275" style='border-top:none;border-left:none;width:206pt'>
+                            Matteo Magnani and Luca Rossi
+                        </td>
+                        <td class="xl79" width="126" style='border-top:none;border-left:none;width:95pt'>
+                            Info
+                        </td>
+                        <td class="xl79" width="166" style='border-top:none;border-left:none;width:125pt'>
+                            Conference Room
+                        </td>
+                    </tr>
+                    <tr height="40" style='height:30.0pt'>
+                        <td height="40" class="xl79" width="88" style='height:30.0pt;border-top:none; border-left:none;width:66pt'>
+                            Talk 3
+                        </td>
+                        <td class="xl80" width="487" style='border-top:none;border-left:none;width:365pt'>
+                            Recommendation in reciprocal bi-partite social networks - a case study of online dating
+                        </td>
+                        <td class="xl79" width="275" style='border-top:none;border-left:none;width:206pt'>
+                            Mo Yu, Kang Zhao, John Yen and Derek Kreager
+                        </td>
+                        <td class="xl79" width="126" style='border-top:none;border-left:none;width:95pt'>
+                            Info
+                        </td>
+                        <td class="xl79" width="166" style='border-top:none;border-left:none;width:125pt'>
+                            Conference Room
+                        </td>
+                    </tr>
+                    <tr height="40" style='height:30.0pt'>
+                        <td height="40" class="xl79" width="88" style='height:30.0pt;border-top:none; border-left:none;width:66pt'>
+                            Talk 4
+                        </td>
+                        <td class="xl80" width="487" style='border-top:none;border-left:none;width:365pt'>
+                            LA-LDA: A Limited Attention Topic Model for Social Recommendation
+                        </td>
+                        <td class="xl79" width="275" style='border-top:none;border-left:none;width:206pt'>
+                            Jeon-Hyung Kang, Kristina Lerman and Lise Getoor
+                        </td>
+                        <td class="xl79" width="126" style='border-top:none;border-left:none;width:95pt'>
+                            Info
+                        </td>
+                        <td class="xl79" width="166" style='border-top:none;border-left:none;width:125pt'>
+                            Conference Room
+                        </td>
+                    </tr>
+                    <tr height="40" style='height:30.0pt'>
+                        <td height="40" class="xl79" width="88" style='height:30.0pt;border-top:none; border-left:none;width:66pt'>
+                            Talk 5
+                        </td>
+                        <td class="xl80" width="487" style='border-top:none;border-left:none;width:365pt'>
+                            Coauthor Prediction for Junior Researchers
+                        </td>
+                        <td class="xl79" width="275" style='border-top:none;border-left:none;width:206pt'>
+                            Shuguang Han,Daqing He,Peter BrusilovskyandZhen Yue
+                        </td>
+                        <td class="xl79" width="126" style='border-top:none;border-left:none;width:95pt'>
+                            Info
+                        </td>
+                        <td class="xl79" width="166" style='border-top:none;border-left:none;width:125pt'>
+                            Conference Room
+                        </td>
+                    </tr>
+                    <tr height="20" style='height:15.0pt;background:#eeeeee;'>
+                        <td height="20" class="xl79" width="88" style='height:15.0pt;border-top:none; border-left:none;width:66pt'>
+                            Break
+                        </td>
+                        <td class="xl80" width="487" style='border-top:none;border-left:none;width:365pt'>
+                            Bio Break
+                        </td>
+                        <td class="xl78" width="275" style='border-top:none;border-left:none;width:206pt'>
+                            &nbsp;
+                        </td>
+                        <td class="xl78" width="126" style='border-top:none;border-left:none;width:95pt'>
+                            &nbsp;
+                        </td>
+                        <td class="xl79" width="166" style='border-top:none;border-left:none;width:125pt'>
+                            Foyer
+                        </td>
+                    </tr>
+                    <tr height="20" style='height:15.0pt'>
+                        <td colspan="2" height="20" class="xl82" width="575" style='height:15.0pt;border-left: none;width:431pt'>
+                            Poster Introductions
+                        </td>
+                        <td class="xl81" width="275" style='border-top:none;border-left:none;width:206pt'>
+                            John Lavery
+                        </td>
+                        <td class="xl83" width="126" style='border-top:none;border-left:none;width:95pt'>
+                            &nbsp;
+                        </td>
+                        <td class="xl81" width="166" style='border-top:none;border-left:none;width:125pt'>
+                            Conference Room
+                        </td>
+                    </tr>
+                    <tr height="20" style='height:15.0pt'>
+                        <td height="20" class="xl78" width="88" style='height:15.0pt;border-top:none; border-left:none;width:66pt'>
+                            &nbsp;
+                        </td>
+                        <td class="xl80" width="487" style='border-top:none;border-left:none;width:365pt'>
+                            Reconstructing Online Behaviors by Effort Minimization
+                        </td>
+                        <td class="xl79" width="275" style='border-top:none;border-left:none;width:206pt'>
+                            Armin Ashouri Rad and Hazhir Rahmandad
+                        </td>
+                        <td class="xl79" width="126" style='border-top:none;border-left:none;width:95pt'>
+                            Behavioral
+                        </td>
+                        <td class="xl79" width="166" style='border-top:none;border-left:none;width:125pt'>
+                            Conference Room
+                        </td>
+                    </tr>
+                    <tr height="40" style='height:30.0pt'>
+                        <td height="40" class="xl78" width="88" style='height:30.0pt;border-top:none; border-left:none;width:66pt'>
+                            &nbsp;
+                        </td>
+                        <td class="xl80" width="487" style='border-top:none;border-left:none;width:365pt'>
+                            "Copping" in Heroin Markets: The Hidden Information Costs of Indirect Sales and Why They Matter
+                        </td>
+                        <td class="xl79" width="275" style='border-top:none;border-left:none;width:206pt'>
+                            Lee HofferandShah Jamal Alam
+                        </td>
+                        <td class="xl79" width="126" style='border-top:none;border-left:none;width:95pt'>
+                            Behavioral
+                        </td>
+                        <td class="xl79" width="166" style='border-top:none;border-left:none;width:125pt'>
+                            Conference Room
+                        </td>
+                    </tr>
+                    <tr height="40" style='height:30.0pt'>
+                        <td height="40" class="xl78" width="88" style='height:30.0pt;border-top:none; border-left:none;width:66pt'>
+                            &nbsp;
+                        </td>
+                        <td class="xl80" width="487" style='border-top:none;border-left:none;width:365pt'>
+                            Cultural polarization and the role of extremist agents: a simple simulation model
+                        </td>
+                        <td class="xl79" width="275" style='border-top:none;border-left:none;width:206pt'>
+                            Shade Shutters
+                        </td>
+                        <td class="xl79" width="126" style='border-top:none;border-left:none;width:95pt'>
+                            Behavioral
+                        </td>
+                        <td class="xl79" width="166" style='border-top:none;border-left:none;width:125pt'>
+                            Conference Room
+                        </td>
+                    </tr>
+                    <tr height="80" style='height:60.0pt'>
+                        <td height="80" class="xl78" width="88" style='height:60.0pt;border-top:none; border-left:none;width:66pt'>
+                            &nbsp;
+                        </td>
+                        <td class="xl80" width="487" style='border-top:none;border-left:none;width:365pt'>
+                            Using Imageability and Topic Chaining to Locate Metaphors in Linguistic Corpora
+                        </td>
+                        <td class="xl79" width="275" style='border-top:none;border-left:none;width:206pt'>
+                            George Aaron Broadwell, Umit Boz, Ignacio Cases, Tomek Strzalkowski, Laurie Feldman, Sarah Taylor,Samira Shaikh, Ting Liu and Kit Cho
+                        </td>
+                        <td class="xl79" width="126" style='border-top:none;border-left:none;width:95pt'>
+                            Behavioral
+                        </td>
+                        <td class="xl79" width="166" style='border-top:none;border-left:none;width:125pt'>
+                            Conference Room
+                        </td>
+                    </tr>
+                    <tr height="20" style='height:15.0pt'>
+                        <td height="20" class="xl78" width="88" style='height:15.0pt;border-top:none; border-left:none;width:66pt'>
+                            &nbsp;
+                        </td>
+                        <td class="xl80" width="487" style='border-top:none;border-left:none;width:365pt'>
+                            Automated Trading in Prediction Markets
+                        </td>
+                        <td class="xl79" width="275" style='border-top:none;border-left:none;width:206pt'>
+                            Anamaria Berea and Charles Twardy
+                        </td>
+                        <td class="xl79" width="126" style='border-top:none;border-left:none;width:95pt'>
+                            Behavioral
+                        </td>
+                        <td class="xl79" width="166" style='border-top:none;border-left:none;width:125pt'>
+                            Conference Room
+                        </td>
+                    </tr>
+                    <tr height="40" style='height:30.0pt'>
+                        <td height="40" class="xl78" width="88" style='height:30.0pt;border-top:none; border-left:none;width:66pt'>
+                            &nbsp;
+                        </td>
+                        <td class="xl80" width="487" style='border-top:none;border-left:none;width:365pt'>
+                            Discovering Consumer Health Expressions from Consumer-Contributed Content
+                        </td>
+                        <td class="xl79" width="275" style='border-top:none;border-left:none;width:206pt'>
+                            Ling Jiang,Christopher YangandJiexun Li
+                        </td>
+                        <td class="xl79" width="126" style='border-top:none;border-left:none;width:95pt'>
+                            Health
+                        </td>
+                        <td class="xl79" width="166" style='border-top:none;border-left:none;width:125pt'>
+                            Conference Room
+                        </td>
+                    </tr>
+                    <tr height="40" style='height:30.0pt'>
+                        <td height="40" class="xl78" width="88" style='height:30.0pt;border-top:none; border-left:none;width:66pt'>
+                            &nbsp;
+                        </td>
+                        <td class="xl80" width="487" style='border-top:none;border-left:none;width:365pt'>
+                            Patient-Centered Information Extraction for Effective Search on Healthcare Forum
+                        </td>
+                        <td class="xl79" width="275" style='border-top:none;border-left:none;width:206pt'>
+                            Yunzhong Liu and Yi Chen
+                        </td>
+                        <td class="xl79" width="126" style='border-top:none;border-left:none;width:95pt'>
+                            Health
+                        </td>
+                        <td class="xl79" width="166" style='border-top:none;border-left:none;width:125pt'>
+                            Conference Room
+                        </td>
+                    </tr>
+                    <tr height="40" style='height:30.0pt'>
+                        <td height="40" class="xl78" width="88" style='height:30.0pt;border-top:none; border-left:none;width:66pt'>
+                            &nbsp;
+                        </td>
+                        <td class="xl80" width="487" style='border-top:none;border-left:none;width:365pt'>
+                            Controlling for population variances in health and risk behaviour using randomized matrix based mathematical modeling
+                        </td>
+                        <td class="xl79" width="275" style='border-top:none;border-left:none;width:206pt'>
+                            Brian Gurbaxani, Troy Querec and Elizabeth Unger
+                        </td>
+                        <td class="xl79" width="126" style='border-top:none;border-left:none;width:95pt'>
+                            Health
+                        </td>
+                        <td class="xl79" width="166" style='border-top:none;border-left:none;width:125pt'>
+                            Conference Room
+                        </td>
+                    </tr>
+                    <tr height="20" style='height:15.0pt'>
+                        <td height="20" class="xl78" width="88" style='height:15.0pt;border-top:none; border-left:none;width:66pt'>
+                            &nbsp;
+                        </td>
+                        <td class="xl80" width="487" style='border-top:none;border-left:none;width:365pt'>
+                            A comparative study of supportive interactions between e-patients across communication functions of a social network site.
+                        </td>
+                        <td class="xl79" width="275" style='border-top:none;border-left:none;width:206pt'>
+                            Katherine Chuang and Christopher Yang
+                        </td>
+                        <td class="xl79" width="126" style='border-top:none;border-left:none;width:95pt'>
+                            Health
+                        </td>
+                        <td class="xl79" width="166" style='border-top:none;border-left:none;width:125pt'>
+                            Conference Room
+                        </td>
+                    </tr>
+                    <tr height="60" style='height:45.0pt'>
+                        <td height="60" class="xl78" width="88" style='height:45.0pt;border-top:none; border-left:none;width:66pt'>
+                            &nbsp;
+                        </td>
+                        <td class="xl80" width="487" style='border-top:none;border-left:none;width:365pt'>
+                            Discovering Patterns in Social Networks with Graph Matching Algorithms
+                        </td>
+                        <td class="xl79" width="275" style='border-top:none;border-left:none;width:206pt'>
+                            Kirk Ogaard, Heather Roy, Sue Kase, Rakesh Nagi, Kedar Sambhoos and Moises Sudit
+                        </td>
+                        <td class="xl79" width="126" style='border-top:none;border-left:none;width:95pt'>
+                            Info
+                        </td>
+                        <td class="xl79" width="166" style='border-top:none;border-left:none;width:125pt'>
+                            Conference Room
+                        </td>
+                    </tr>
+                    <tr height="40" style='height:30.0pt'>
+                        <td height="40" class="xl78" width="88" style='height:30.0pt;border-top:none; border-left:none;width:66pt'>
+                            &nbsp;
+                        </td>
+                        <td class="xl80" width="487" style='border-top:none;border-left:none;width:365pt'>
+                            Critiquing text analysis in social modeling: best practices, limitations, and new frontiers
+                        </td>
+                        <td class="xl79" width="275" style='border-top:none;border-left:none;width:206pt'>
+                            Peter Chew
+                        </td>
+                        <td class="xl79" width="126" style='border-top:none;border-left:none;width:95pt'>
+                            Info
+                        </td>
+                        <td class="xl79" width="166" style='border-top:none;border-left:none;width:125pt'>
+                            Conference Room
+                        </td>
+                    </tr>
+                    <tr height="40" style='height:30.0pt'>
+                        <td height="40" class="xl78" width="88" style='height:30.0pt;border-top:none; border-left:none;width:66pt'>
+                            &nbsp;
+                        </td>
+                        <td class="xl80" width="487" style='border-top:none;border-left:none;width:365pt'>
+                            Which Targets to Contact First to Maximize Influence over Social Network
+                        </td>
+                        <td class="xl79" width="275" style='border-top:none;border-left:none;width:206pt'>
+                            Kazumi Saito, Masahiro Kimura, Kouzou Ohara andHiroshi Motota
+                        </td>
+                        <td class="xl79" width="126" style='border-top:none;border-left:none;width:95pt'>
+                            Info
+                        </td>
+                        <td class="xl79" width="166" style='border-top:none;border-left:none;width:125pt'>
+                            Conference Room
+                        </td>
+                    </tr>
+                    <tr height="40" style='height:30.0pt'>
+                        <td height="40" class="xl78" width="88" style='height:30.0pt;border-top:none; border-left:none;width:66pt'>
+                            &nbsp;
+                        </td>
+                        <td class="xl80" width="487" style='border-top:none;border-left:none;width:365pt'>
+                            Intruder or Welcome Friend: Inferring Group Membership in Online Social Networks
+                        </td>
+                        <td class="xl79" width="275" style='border-top:none;border-left:none;width:206pt'>
+                            Ofrit Lesser, Lena Tenenboim-Chekina, Lior Rokach and Yuval Elovici
+                        </td>
+                        <td class="xl79" width="126" style='border-top:none;border-left:none;width:95pt'>
+                            Info
+                        </td>
+                        <td class="xl79" width="166" style='border-top:none;border-left:none;width:125pt'>
+                            Conference Room
+                        </td>
+                    </tr>
+                    <tr height="40" style='height:30.0pt'>
+                        <td height="40" class="xl78" width="88" style='height:30.0pt;border-top:none; border-left:none;width:66pt'>
+                            &nbsp;
+                        </td>
+                        <td class="xl80" width="487" style='border-top:none;border-left:none;width:365pt'>
+                            Identifying Influential Twitter Users in the 2011 Egyptian Revolution
+                        </td>
+                        <td class="xl79" width="275" style='border-top:none;border-left:none;width:206pt'>
+                            Lucas A. Overbey, Christopher Paribello and Terresa Jackson
+                        </td>
+                        <td class="xl79" width="126" style='border-top:none;border-left:none;width:95pt'>
+                            Info
+                        </td>
+                        <td class="xl79" width="166" style='border-top:none;border-left:none;width:125pt'>
+                            Conference Room
+                        </td>
+                    </tr>
+                    <tr height="40" style='height:30.0pt'>
+                        <td height="40" class="xl78" width="88" style='height:30.0pt;border-top:none; border-left:none;width:66pt'>
+                            &nbsp;
+                        </td>
+                        <td class="xl80" width="487" style='border-top:none;border-left:none;width:365pt'>
+                            Analytical Methods to Investigate the Effects of External Influence on Socio-Cultural Opinion Evolution
+                        </td>
+                        <td class="xl79" width="275" style='border-top:none;border-left:none;width:206pt'>
+                            Subhadeep Chakraborty
+                        </td>
+                        <td class="xl79" width="126" style='border-top:none;border-left:none;width:95pt'>
+                            Info
+                        </td>
+                        <td class="xl79" width="166" style='border-top:none;border-left:none;width:125pt'>
+                            Conference Room
+                        </td>
+                    </tr>
+                    <tr height="40" style='height:30.0pt'>
+                        <td height="40" class="xl78" width="88" style='height:30.0pt;border-top:none; border-left:none;width:66pt'>
+                            &nbsp;
+                        </td>
+                        <td class="xl80" width="487" style='border-top:none;border-left:none;width:365pt'>
+                            Who Shall We Follow in Twitter for Cyber Vulnerability?
+                        </td>
+                        <td class="xl79" width="275" style='border-top:none;border-left:none;width:206pt'>
+                            Biru Cui, Stephen Moskal, Haitao Du and Shanchieh Yang
+                        </td>
+                        <td class="xl79" width="126" style='border-top:none;border-left:none;width:95pt'>
+                            Info
+                        </td>
+                        <td class="xl79" width="166" style='border-top:none;border-left:none;width:125pt'>
+                            Conference Room
+                        </td>
+                    </tr>
+                    <tr height="40" style='height:30.0pt'>
+                        <td height="40" class="xl78" width="88" style='height:30.0pt;border-top:none; border-left:none;width:66pt'>
+                            &nbsp;
+                        </td>
+                        <td class="xl80" width="487" style='border-top:none;border-left:none;width:365pt'>
+                            Respondent-Driven Sampling in Online Social Networks
+                        </td>
+                        <td class="xl79" width="275" style='border-top:none;border-left:none;width:206pt'>
+                            Christopher Homan, Vincent Silenzio and Randall Sell
+                        </td>
+                        <td class="xl79" width="126" style='border-top:none;border-left:none;width:95pt'>
+                            Info
+                        </td>
+                        <td class="xl79" width="166" style='border-top:none;border-left:none;width:125pt'>
+                            Conference Room
+                        </td>
+                    </tr>
+                    <tr height="60" style='page-break-before:always;height:45.0pt'>
+                        <td height="60" class="xl78" width="88" style='height:45.0pt;border-top:none; border-left:none;width:66pt'>
+                            &nbsp;
+                        </td>
+                        <td class="xl80" width="487" style='border-top:none;border-left:none;width:365pt'>
+                            Trade-offs in Social and Behavioral Modeling in Mobile Networks
+                        </td>
+                        <td class="xl79" width="275" style='border-top:none;border-left:none;width:206pt'>
+                            Yaniv Altshuler, Michael Fire, Nadav Aharony, Zeev Volkovich, Yuval Elovici and Alex Pentland
+                        </td>
+                        <td class="xl79" width="126" style='border-top:none;border-left:none;width:95pt'>
+                            Info
+                        </td>
+                        <td class="xl79" width="166" style='border-top:none;border-left:none;width:125pt'>
+                            Conference Room
+                        </td>
+                    </tr>
+                    <tr height="40" style='height:30.0pt'>
+                        <td height="40" class="xl78" width="88" style='height:30.0pt;border-top:none; border-left:none;width:66pt'>
+                            &nbsp;
+                        </td>
+                        <td class="xl80" width="487" style='border-top:none;border-left:none;width:365pt'>
+                            Privacy Protection in Personalized Web Search: A Peer Group-Based Approach
+                        </td>
+                        <td class="xl79" width="275" style='border-top:none;border-left:none;width:206pt'>
+                            Bin Zhou
+                        </td>
+                        <td class="xl79" width="126" style='border-top:none;border-left:none;width:95pt'>
+                            Info
+                        </td>
+                        <td class="xl79" width="166" style='border-top:none;border-left:none;width:125pt'>
+                            Conference Room
+                        </td>
+                    </tr>
+                    <tr height="60" style='height:45.0pt'>
+                        <td height="60" class="xl78" width="88" style='height:45.0pt;border-top:none; border-left:none;width:66pt'>
+                            &nbsp;
+                        </td>
+                        <td class="xl80" width="487" style='border-top:none;border-left:none;width:365pt'>
+                            Detecting Anomalous Behaviors Using Structural Properties of Social Networks
+                        </td>
+                        <td class="xl79" width="275" style='border-top:none;border-left:none;width:206pt'>
+                            Yaniv Altshuler, Michael Fire, Erez Shmueli, Yuval Elovici,Alfred Bruckstein, Alex Pentland and David Lazer
+                        </td>
+                        <td class="xl79" width="126" style='border-top:none;border-left:none;width:95pt'>
+                            Info
+                        </td>
+                        <td class="xl79" width="166" style='border-top:none;border-left:none;width:125pt'>
+                            Conference Room
+                        </td>
+                    </tr>
+                    <tr height="20" style='height:15.0pt'>
+                        <td height="20" class="xl78" width="88" style='height:15.0pt;border-top:none; border-left:none;width:66pt'>
+                            &nbsp;
+                        </td>
+                        <td class="xl80" width="487" style='border-top:none;border-left:none;width:365pt'>
+                            Measuring User Credibility in Social Media
+                        </td>
+                        <td class="xl79" width="275" style='border-top:none;border-left:none;width:206pt'>
+                            Mohammad Ali AbbasiandHuan Liu
+                        </td>
+                        <td class="xl79" width="126" style='border-top:none;border-left:none;width:95pt'>
+                            Info
+                        </td>
+                        <td class="xl79" width="166" style='border-top:none;border-left:none;width:125pt'>
+                            Conference Room
+                        </td>
+                    </tr>
+                    <tr height="20" style='height:15.0pt'>
+                        <td height="20" class="xl78" width="88" style='height:15.0pt;border-top:none; border-left:none;width:66pt'>
+                            &nbsp;
+                        </td>
+                        <td class="xl80" width="487" style='border-top:none;border-left:none;width:365pt'>
+                            Financial crisis, Omori's law, and negative entropy flow
+                        </td>
+                        <td class="xl79" width="275" style='border-top:none;border-left:none;width:206pt'>
+                            Jian Gaoand Jing Hu
+                        </td>
+                        <td class="xl79" width="126" style='border-top:none;border-left:none;width:95pt'>
+                            Info
+                        </td>
+                        <td class="xl79" width="166" style='border-top:none;border-left:none;width:125pt'>
+                            Conference Room
+                        </td>
+                    </tr>
+                    <tr height="40" style='height:30.0pt'>
+                        <td height="40" class="xl78" width="88" style='height:30.0pt;border-top:none; border-left:none;width:66pt'>
+                            &nbsp;
+                        </td>
+                        <td class="xl80" width="487" style='border-top:none;border-left:none;width:365pt'>
+                            Trust Metrics and Results for Social Media Analysis
+                        </td>
+                        <td class="xl79" width="275" style='border-top:none;border-left:none;width:206pt'>
+                            Eli Stickgold,Corey LofdahlandMichael Farry
+                        </td>
+                        <td class="xl79" width="126" style='border-top:none;border-left:none;width:95pt'>
+                            Info
+                        </td>
+                        <td class="xl79" width="166" style='border-top:none;border-left:none;width:125pt'>
+                            Conference Room
+                        </td>
+                    </tr>
+                    <tr height="40" style='height:30.0pt'>
+                        <td height="40" class="xl78" width="88" style='height:30.0pt;border-top:none; border-left:none;width:66pt'>
+                            &nbsp;
+                        </td>
+                        <td class="xl80" width="487" style='border-top:none;border-left:none;width:365pt'>
+                            Improving Markov Chain Monte Carlo Estimation with Agent-Based Models
+                        </td>
+                        <td class="xl79" width="275" style='border-top:none;border-left:none;width:206pt'>
+                            Rahmatollah Beheshti and Gita Sukthankar
+                        </td>
+                        <td class="xl79" width="126" style='border-top:none;border-left:none;width:95pt'>
+                            Methodology
+                        </td>
+                        <td class="xl79" width="166" style='border-top:none;border-left:none;width:125pt'>
+                            Conference Room
+                        </td>
+                    </tr>
+                    <tr height="20" style='height:15.0pt;background:#eeeeee;'>
+                        <td height="20" class="xl79" width="88" style='height:15.0pt;border-top:none; border-left:none;width:66pt'>
+                            Break
+                        </td>
+                        <td class="xl80" width="487" style='border-top:none;border-left:none;width:365pt'>
+                            Logi Break, Catered drinks: room conversion, poster posting
+                        </td>
+                        <td class="xl78" width="275" style='border-top:none;border-left:none;width:206pt'>
+                            &nbsp;
+                        </td>
+                        <td class="xl78" width="126" style='border-top:none;border-left:none;width:95pt'>
+                            &nbsp;
+                        </td>
+                        <td class="xl79" width="166" style='border-top:none;border-left:none;width:125pt'>
+                            Foyer
+                        </td>
+                    </tr>
+                    <tr height="60" style='mso-height-source:userset;height:45.0pt'>
+                        <td colspan="3" height="60" class="xl95" width="850" style='border-right:.5pt solid black; height:45.0pt;border-left:none;width:637pt'>
+                            Poster Session &amp; Reception
+                        </td>
+                        <td class="xl78" width="126" style='border-top:none;border-left:none;width:95pt'>
+                            &nbsp;
+                        </td>
+                        <td class="xl79" width="166" style='border-top:none;border-left:none;width:125pt'>
+                            Conference Room
+                        </td>
+                    </tr>
+                </table>
+                <table id="April5">
+                    <tr>
+                        <td colspan="5">
+                            <h2>
+                                April 5th
+                            </h2>
+                        </td>
+                    </tr>
+                    <tr height="40" style='height:30.0pt'>
+                        <td>
+                            8:15-9am
+                        </td>
+                        <td>
+                            Keynote
+                        </td>
+                        <td>
+                            Michele Gelfand, UMCP
+                        </td>
+                        <td>
+                            
+                        </td>
+                        <td>
+                            
+                        </td>
+                    </tr>
+                    <tr height="20" style='height:15.0pt;background:#dccc8c;'>
+                        <td class="xl88" width="88" style='border-left:none;width:66pt'>
+                            Session 5
+                        </td>
+                        <td class="xl88" width="487" style='border-left:none;width:365pt'>
+                            &nbsp;
+                        </td>
+                        <td class="xl88" width="275" style='border-left:none;width:206pt'>
+                            Session Chair
+                        </td>
+                        <td class="xl91" width="126" style='border-left:none;width:95pt'>
+                            &nbsp;
+                        </td>
+                        <td class="xl88" width="166" style='border-left:none;width:125pt'>
+                            Conference Room
+                        </td>
+                    </tr>
+                    <tr height="80" style='height:60.0pt'>
+                        <td height="80" class="xl89" width="88" style='height:60.0pt;border-top:none; border-left:none;width:66pt'>
+                            Talk 1
+                        </td>
+                        <td class="xl89" width="487" style='border-top:none;border-left:none;width:365pt'>
+                            Influence and Power in Group Interactions
+                        </td>
+                        <td class="xl89" width="275" style='border-top:none;border-left:none;width:206pt'>
+                            Tomek Strzalkowski,Samira Shaikh, Ting Liu, George Aaron Broadwell, Jennifer Stromer-Galley, Sarah Taylor, Umit Boz and Xiaoai Ren
+                        </td>
+                        <td class="xl89" width="126" style='border-top:none;border-left:none;width:95pt'>
+                            Behavioral
+                        </td>
+                        <td class="xl89" width="166" style='border-top:none;border-left:none;width:125pt'>
+                            Conference Room
+                        </td>
+                    </tr>
+                    <tr height="20" style='height:15.0pt'>
+                        <td height="20" class="xl89" width="88" style='height:15.0pt;border-top:none; border-left:none;width:66pt'>
+                            Talk 2
+                        </td>
+                        <td class="xl89" width="487" style='border-top:none;border-left:none;width:365pt'>
+                            In You We Follow: Determining the Group Leader in Dialogue
+                        </td>
+                        <td class="xl89" width="275" style='border-top:none;border-left:none;width:206pt'>
+                            David Bracewell and Marc Tomlinson
+                        </td>
+                        <td class="xl89" width="126" style='border-top:none;border-left:none;width:95pt'>
+                            Info
+                        </td>
+                        <td class="xl89" width="166" style='border-top:none;border-left:none;width:125pt'>
+                            Conference Room
+                        </td>
+                    </tr>
+                    <tr height="40" style='height:30.0pt'>
+                        <td height="40" class="xl89" width="88" style='height:30.0pt;border-top:none; border-left:none;width:66pt'>
+                            Talk 3
+                        </td>
+                        <td class="xl89" width="487" style='border-top:none;border-left:none;width:365pt'>
+                            A Flexible Framework for Probabilistic Models of Social Trust
+                        </td>
+                        <td class="xl89" width="275" style='border-top:none;border-left:none;width:206pt'>
+                            Bert Huang, Angelika Kimmig, Lise Getoor and Jennifer Golbeck
+                        </td>
+                        <td class="xl89" width="126" style='border-top:none;border-left:none;width:95pt'>
+                            Info
+                        </td>
+                        <td class="xl89" width="166" style='border-top:none;border-left:none;width:125pt'>
+                            Conference Room
+                        </td>
+                    </tr>
+                    <tr height="20" style='height:15.0pt; background:#eeeeee;'>
+                        <td height="20" class="xl89" width="88" style='height:15.0pt;border-top:none; border-left:none;width:66pt'>
+                            Break
+                        </td>
+                        <td class="xl89" width="487" style='border-top:none;border-left:none;width:365pt'>
+                            Bio Break
+                        </td>
+                        <td class="xl92" width="275" style='border-top:none;border-left:none;width:206pt'>
+                            &nbsp;
+                        </td>
+                        <td class="xl92" width="126" style='border-top:none;border-left:none;width:95pt'>
+                            &nbsp;
+                        </td>
+                        <td class="xl89" width="166" style='border-top:none;border-left:none;width:125pt'>
+                            Foyer
+                        </td>
+                    </tr>
+                    <tr height="40" style='height:30.0pt'>
+                        <td height="40" class="xl89" width="88" style='height:30.0pt;border-top:none; border-left:none;width:66pt'>
+                            Talk 1
+                        </td>
+                        <td class="xl89" width="487" style='border-top:none;border-left:none;width:365pt'>
+                            Peer Nominations and its Relation to Interactions in a Computer Game
+                        </td>
+                        <td class="xl89" width="275" style='border-top:none;border-left:none;width:206pt'>
+                            Juan F. Mancilla-Caceres, Eyal Amir and Dorothy Espelage
+                        </td>
+                        <td class="xl89" width="126" style='border-top:none;border-left:none;width:95pt'>
+                            Behavioral
+                        </td>
+                        <td class="xl89" width="166" style='border-top:none;border-left:none;width:125pt'>
+                            Conference Room
+                        </td>
+                    </tr>
+                    <tr height="40" style='height:30.0pt'>
+                        <td height="40" class="xl89" width="88" style='height:30.0pt;border-top:none; border-left:none;width:66pt'>
+                            Talk 2
+                        </td>
+                        <td class="xl89" width="487" style='border-top:none;border-left:none;width:365pt'>
+                            Moral Values from Simple Game Play
+                        </td>
+                        <td class="xl89" width="275" style='border-top:none;border-left:none;width:206pt'>
+                            Eunkyung Kim, Ravi Iyer, Jesse Graham, Yu-Han Chang and Rajiv Maheswaran
+                        </td>
+                        <td class="xl89" width="126" style='border-top:none;border-left:none;width:95pt'>
+                            Behavarial
+                        </td>
+                        <td class="xl89" width="166" style='border-top:none;border-left:none;width:125pt'>
+                            Conference Room
+                        </td>
+                    </tr>
+                    <tr height="40" style='height:30.0pt'>
+                        <td height="40" class="xl89" width="88" style='height:30.0pt;border-top:none; border-left:none;width:66pt'>
+                            Talk 3
+                        </td>
+                        <td class="xl89" width="487" style='border-top:none;border-left:none;width:365pt'>
+                            Graph Formation Eﬀects on Social Welfare and Inequality in a Networked Resource Game
+                        </td>
+                        <td class="xl89" width="275" style='border-top:none;border-left:none;width:206pt'>
+                            Zhuoshu Li, Yu-Han Chang and Rajiv Maheswaran
+                        </td>
+                        <td class="xl89" width="126" style='border-top:none;border-left:none;width:95pt'>
+                            Info
+                        </td>
+                        <td class="xl89" width="166" style='border-top:none;border-left:none;width:125pt'>
+                            Conference Room
+                        </td>
+                    </tr>
+                    <tr height="20" style='height:15.0pt'>
+                        <td colspan="2" height="20" class="xl88" width="575" style='height:15.0pt;border-left: none;width:431pt'>
+                            Lunch &amp; Funding panel
+                        </td>
+                        <td class="xl88" width="275" style='border-top:none;border-left:none;width:206pt'>
+                            Chairs
+                        </td>
+                        <td class="xl91" width="126" style='border-top:none;border-left:none;width:95pt'>
+                            &nbsp;
+                        </td>
+                        <td class="xl88" width="166" style='border-top:none;border-left:none;width:125pt'>
+                            Conference Room,Foyer
+                        </td>
+                    </tr>
+                    <tr height="20" style='height:15.0pt'>
+                        <td height="20" class="xl92" width="88" style='height:15.0pt;border-top:none; border-left:none;width:66pt'>
+                            &nbsp;
+                        </td>
+                        <td class="xl89" width="487" style='border-top:none;border-left:none;width:365pt'>
+                            Dylan Schmorrow, OSD
+                        </td>
+                        <td class="xl92" width="275" style='border-top:none;border-left:none;width:206pt'>
+                            &nbsp;
+                        </td>
+                        <td class="xl92" width="126" style='border-top:none;border-left:none;width:95pt'>
+                            &nbsp;
+                        </td>
+                        <td class="xl89" width="166" style='border-top:none;border-left:none;width:125pt'>
+                            Conference Room
+                        </td>
+                    </tr>
+                    <tr height="20" style='height:15.0pt'>
+                        <td height="20" class="xl92" width="88" style='height:15.0pt;border-top:none; border-left:none;width:66pt'>
+                            &nbsp;
+                        </td>
+                        <td class="xl89" width="487" style='border-top:none;border-left:none;width:365pt'>
+                            Rita Bush, IAPRA 
+                        </td>
+                        <td class="xl92" width="275" style='border-top:none;border-left:none;width:206pt'>
+                            &nbsp;
+                        </td>
+                        <td class="xl92" width="126" style='border-top:none;border-left:none;width:95pt'>
+                            &nbsp;
+                        </td>
+                        <td class="xl89" width="166" style='border-top:none;border-left:none;width:125pt'>
+                            Conference Room
+                        </td>
+                    </tr>
+                    <tr height="20" style='height:15.0pt'>
+                        <td height="20" class="xl92" width="88" style='height:15.0pt;border-top:none; border-left:none;width:66pt'>
+                            &nbsp;
+                        </td>
+                        <td class="xl89" width="487" style='border-top:none;border-left:none;width:365pt'>
+                            Rebecca Goolsby, ONR  
+                        </td>
+                        <td class="xl92" width="275" style='border-top:none;border-left:none;width:206pt'>
+                            &nbsp;
+                        </td>
+                        <td class="xl92" width="126" style='border-top:none;border-left:none;width:95pt'>
+                            &nbsp;
+                        </td>
+                        <td class="xl89" width="166" style='border-top:none;border-left:none;width:125pt'>
+                            Conference Room
+                        </td>
+                    </tr>
+                    <tr height="20" style='height:15.0pt'>
+                        <td height="20" class="xl92" width="88" style='height:15.0pt;border-top:none; border-left:none;width:66pt'>
+                            &nbsp;
+                        </td>
+                        <td class="xl89" width="487" style='border-top:none;border-left:none;width:365pt'>
+                            John Lavery, NCSU
+                        </td>
+                        <td class="xl92" width="275" style='border-top:none;border-left:none;width:206pt'>
+                            &nbsp;
+                        </td>
+                        <td class="xl92" width="126" style='border-top:none;border-left:none;width:95pt'>
+                            &nbsp;
+                        </td>
+                        <td class="xl89" width="166" style='border-top:none;border-left:none;width:125pt'>
+                            Conference Room
+                        </td>
+                    </tr>
+                    <tr height="20" style='height:15.0pt'>
+                        <td height="20" class="xl92" width="88" style='height:15.0pt;border-top:none; border-left:none;width:66pt'>
+                            &nbsp;
+                        </td>
+                        <td class="xl89" width="487" style='border-top:none;border-left:none;width:365pt'>
+                            Patricia Mabry, OBSSR 
+                        </td>
+                        <td class="xl92" width="275" style='border-top:none;border-left:none;width:206pt'>
+                            &nbsp;
+                        </td>
+                        <td class="xl92" width="126" style='border-top:none;border-left:none;width:95pt'>
+                            &nbsp;
+                        </td>
+                        <td class="xl89" width="166" style='border-top:none;border-left:none;width:125pt'>
+                            Conference Room
+                        </td>
+                    </tr>
+                    <tr height="20" style='height:15.0pt'>
+                        <td height="20" class="xl92" width="88" style='height:15.0pt;border-top:none; border-left:none;width:66pt'>
+                            &nbsp;
+                        </td>
+                        <td class="xl89" width="487" style='border-top:none;border-left:none;width:365pt'>
+                            Bradford Hesse, NCI 
+                        </td>
+                        <td class="xl92" width="275" style='border-top:none;border-left:none;width:206pt'>
+                            &nbsp;
+                        </td>
+                        <td class="xl92" width="126" style='border-top:none;border-left:none;width:95pt'>
+                            &nbsp;
+                        </td>
+                        <td class="xl89" width="166" style='border-top:none;border-left:none;width:125pt'>
+                            Conference Room
+                        </td>
+                    </tr>
+                    <tr height="20" style='height:15.0pt'>
+                        <td height="20" class="xl92" width="88" style='height:15.0pt;border-top:none; border-left:none;width:66pt'>
+                            &nbsp;
+                        </td>
+                        <td class="xl89" width="487" style='border-top:none;border-left:none;width:365pt'>
+                            Fahmida Chowdhury, NSF 
+                        </td>
+                        <td class="xl92" width="275" style='border-top:none;border-left:none;width:206pt'>
+                            &nbsp;
+                        </td>
+                        <td class="xl92" width="126" style='border-top:none;border-left:none;width:95pt'>
+                            &nbsp;
+                        </td>
+                        <td class="xl89" width="166" style='border-top:none;border-left:none;width:125pt'>
+                            Conference Room
+                        </td>
+                    </tr>
+                    <tr height="20" style='height:15.0pt'>
+                        <td height="20" class="xl92" width="88" style='height:15.0pt;border-top:none; border-left:none;width:66pt'>
+                            &nbsp;
+                        </td>
+                        <td class="xl89" width="487" style='border-top:none;border-left:none;width:365pt'>
+                            Tisha Wiley, NIDA 
+                        </td>
+                        <td class="xl92" width="275" style='border-top:none;border-left:none;width:206pt'>
+                            &nbsp;
+                        </td>
+                        <td class="xl92" width="126" style='border-top:none;border-left:none;width:95pt'>
+                            &nbsp;
+                        </td>
+                        <td class="xl89" width="166" style='border-top:none;border-left:none;width:125pt'>
+                            Conference Room
+                        </td>
+                    </tr>
+                    <tr height="20" style='height:15.0pt;background:#dccc8c;'>
+                        <td height="20" class="xl90" width="88" style='height:15.0pt;border-top:none; border-left:none;width:66pt'>
+                            Session 6
+                        </td>
+                        <td class="xl90" width="487" style='border-top:none;border-left:none;width:365pt'>
+                            &nbsp;
+                        </td>
+                        <td class="xl90" width="275" style='border-top:none;border-left:none;width:206pt'>
+                            Speakers
+                        </td>
+                        <td class="xl92" width="126" style='border-top:none;border-left:none;width:95pt'>
+                            &nbsp;
+                        </td>
+                        <td class="xl90" width="166" style='border-top:none;border-left:none;width:125pt'>
+                            Conference Room
+                        </td>
+                    </tr>
+                    <tr height="40" style='height:30.0pt'>
+                        <td height="40" class="xl89" width="88" style='height:30.0pt;border-top:none; border-left:none;width:66pt'>
+                            Talk 1
+                        </td>
+                        <td class="xl89" width="487" style='border-top:none;border-left:none;width:365pt'>
+                            Massive media data analysis to assess world-wide political conflict and instability
+                        </td>
+                        <td class="xl89" width="275" style='border-top:none;border-left:none;width:206pt'>
+                            Jian Gao, Kalev Leetaru, Jing Hu, Claudio Cioffi-Revilla and Philip Schrodt.
+                        </td>
+                        <td class="xl89" width="126" style='border-top:none;border-left:none;width:95pt'>
+                            Info
+                        </td>
+                        <td class="xl89" width="166" style='border-top:none;border-left:none;width:125pt'>
+                            Conference Room
+                        </td>
+                    </tr>
+                    <tr height="60" style='height:45.0pt'>
+                        <td height="60" class="xl89" width="88" style='height:45.0pt;border-top:none; border-left:none;width:66pt'>
+                            Talk 2
+                        </td>
+                        <td class="xl89" width="487" style='border-top:none;border-left:none;width:365pt'>
+                            The Marketcast Method for Aggregating Prediction Market Forecasts
+                        </td>
+                        <td class="xl89" width="275" style='border-top:none;border-left:none;width:206pt'>
+                            Pavel Atanasov, Phillip Rescober, Eric Stone, Emile Servan-Schreiber, Barbara Mellers, Lyle Ungar and Philip Tetlock.
+                        </td>
+                        <td class="xl89" width="126" style='border-top:none;border-left:none;width:95pt'>
+                            Behavioral
+                        </td>
+                        <td class="xl89" width="166" style='border-top:none;border-left:none;width:125pt'>
+                            Conference Room
+                        </td>
+                    </tr>
+                    <tr height="40" style='height:30.0pt'>
+                        <td height="40" class="xl89" width="88" style='height:30.0pt;border-top:none; border-left:none;width:66pt'>
+                            Talk 3
+                        </td>
+                        <td class="xl89" width="487" style='border-top:none;border-left:none;width:365pt'>
+                            Exploiting User Model Diversity in Forecast Aggregation
+                        </td>
+                        <td class="xl89" width="275" style='border-top:none;border-left:none;width:206pt'>
+                            H. Van Dyke Parunak, Sven A. Brueckner and Elizabeth Downs
+                        </td>
+                        <td class="xl89" width="126" style='border-top:none;border-left:none;width:95pt'>
+                            Military
+                        </td>
+                        <td class="xl89" width="166" style='border-top:none;border-left:none;width:125pt'>
+                            Conference Room
+                        </td>
+                    </tr>
+                    <tr height="40" style='height:30.0pt'>
+                        <td height="40" class="xl89" width="88" style='height:30.0pt;border-top:none; border-left:none;width:66pt'>
+                            Talk 4
+                        </td>
+                        <td class="xl89" width="487" style='border-top:none;border-left:none;width:365pt'>
+                            Geographic Profiling of Criminal Groups for Military Cordon and Search
+                        </td>
+                        <td class="xl89" width="275" style='border-top:none;border-left:none;width:206pt'>
+                            Samuel Huddleston, Matthew Gerber and Donald Brown
+                        </td>
+                        <td class="xl89" width="126" style='border-top:none;border-left:none;width:95pt'>
+                            Military
+                        </td>
+                        <td class="xl89" width="166" style='border-top:none;border-left:none;width:125pt'>
+                            Conference Room
+                        </td>
+                    </tr>
+                    <tr height="20" style='height:15.0pt;background:#eeeeee;'>
+                        <td height="20" class="xl89" width="88" style='height:15.0pt;border-top:none; border-left:none;width:66pt'>
+                            Break
+                        </td>
+                        <td class="xl89" width="487" style='border-top:none;border-left:none;width:365pt'>
+                            Bio Break
+                        </td>
+                        <td class="xl92" width="275" style='border-top:none;border-left:none;width:206pt'>
+                            &nbsp;
+                        </td>
+                        <td class="xl92" width="126" style='border-top:none;border-left:none;width:95pt'>
+                            &nbsp;
+                        </td>
+                        <td class="xl89" width="166" style='border-top:none;border-left:none;width:125pt'>
+                            Foyer
+                        </td>
+                    </tr>
+                    <tr height="40" style='height:30.0pt'>
+                        <td height="40" class="xl89" width="88" style='height:30.0pt;border-top:none; border-left:none;width:66pt'>
+                            Talk 1
+                        </td>
+                        <td class="xl89" width="487" style='border-top:none;border-left:none;width:365pt'>
+                            Hashtag lifespan and social networks in social media during the London Riots
+                        </td>
+                        <td class="xl89" width="275" style='border-top:none;border-left:none;width:206pt'>
+                            Kimberly Glasgow and Clayton Fink
+                        </td>
+                        <td class="xl89" width="126" style='border-top:none;border-left:none;width:95pt'>
+                            Info
+                        </td>
+                        <td class="xl89" width="166" style='border-top:none;border-left:none;width:125pt'>
+                            Conference Room
+                        </td>
+                    </tr>
+                    <tr height="80" style='height:60.0pt'>
+                        <td height="80" class="xl89" width="88" style='height:60.0pt;border-top:none; border-left:none;width:66pt'>
+                            Talk 2
+                        </td>
+                        <td class="xl89" width="487" style='border-top:none;border-left:none;width:365pt'>
+                            A Comparative Study of Social Media and Traditional Polling in the Egyptian Uprising of 2011
+                        </td>
+                        <td class="xl89" width="275" style='border-top:none;border-left:none;width:206pt'>
+                            Lora Weiss, Erica Briscoe, Heather Hayes, Fuxin Li, Guy Lebanon, Sim Harbert, Olga Kemenova, Chris Stewart, Darby Miller-Steiger and Dan Foy
+                        </td>
+                        <td class="xl89" width="126" style='border-top:none;border-left:none;width:95pt'>
+                            Info
+                        </td>
+                        <td class="xl89" width="166" style='border-top:none;border-left:none;width:125pt'>
+                            Conference Room
+                        </td>
+                    </tr>
+                    <tr height="60" style='height:45.0pt'>
+                        <td height="60" class="xl89" width="88" style='height:45.0pt;border-top:none; border-left:none;width:66pt'>
+                            Talk 3
+                        </td>
+                        <td class="xl89" width="487" style='border-top:none;border-left:none;width:365pt'>
+                            A Text Cube Approach to Human, Social and Cultural Behavior in the Twitter Stream
+                        </td>
+                        <td class="xl89" width="275" style='border-top:none;border-left:none;width:206pt'>
+                            Xiong Liu, Kaizhi Tang, Jeffrey Hancock, Jiawei Han, Mitchell Song, Roger Xu and Bob Pokorny
+                        </td>
+                        <td class="xl89" width="126" style='border-top:none;border-left:none;width:95pt'>
+                            Info
+                        </td>
+                        <td class="xl89" width="166" style='border-top:none;border-left:none;width:125pt'>
+                            Conference Room
+                        </td>
+                    </tr>
+                    <tr height="40" style='height:30.0pt'>
+                        <td height="40" class="xl89" width="88" style='height:30.0pt;border-top:none; border-left:none;width:66pt'>
+                            Talk 4
+                        </td>
+                        <td class="xl89" width="487" style='border-top:none;border-left:none;width:365pt'>
+                            Mapping Cyber-Collective Action among Female Muslim Bloggers for the Women to Drive Movement
+                        </td>
+                        <td class="xl89" width="275" style='border-top:none;border-left:none;width:206pt'>
+                            Serpil Yuce, Nitin Agarwal and Rolf Wigand.
+                        </td>
+                        <td class="xl89" width="126" style='border-top:none;border-left:none;width:95pt'>
+                            Info
+                        </td>
+                        <td class="xl89" width="166" style='border-top:none;border-left:none;width:125pt'>
+                            Conference Room
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div><!--#include virtual="menu.html" -->
+        <script type="text/javascript">
 
-    <link rel="stylesheet" type="text/css" href="main.css" />
-    <link rel="stylesheet" type="text/css" href="program.css" />
-    <link href='http://fonts.googleapis.com/css?family=Droid+Sans' rel='stylesheet' type='text/css'>
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-36899667-1']);
+        _gaq.push(['_trackPageview']);
 
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" >
-    <meta name="description" content="Social Computing, Behavioral-Cultural Modeling and Prediction">
-    <meta name="keywords" content="social computing, behavioral-cultural modeling, prediction">
-    <meta name="author" content="Nathan Bos">
-    <meta name="author" content="Katherine Chuang">
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
 
-    <!--[if IE]> <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]--> <!--[if lte IE 7]> <script src="js/IE8.js" type="text/javascript"></script><![endif]--> <!--[if lt IE 7]>
-
-    <link rel="stylesheet" type="text/css" media="all" href="css/ie6.css"/><![endif]--> 
-
-</head>
-<body id="agenda" class="schedule">
-  <!--#include virtual="banner.html" -->
-<div id="content1">
-
-  <h2>Conference Program</h2>
-  <p class="subhead"><a href="http://sbp2013.org/SBP_2013_program_draft.pdf">PDF</a>
-    |
-    <a href="sessions.shtml">Session breakout schedule</a> 
-    | 
-    <a href="program.shtml">Program</a> 
-  <div id="featured1">
-
-
-    <h2>Session</h2>
-
-
-    <table>
-   <tr><td colspan=5><h2>April 3rd, 2013</h2></td></tr>
-   <tr style='height:15.0pt;background:#dccc8c;font-weight:300;'>
-    <td width="100">Session 1</td>
-    <td>Health &amp; Networks</td>
-    <td>Presenter</td>
-    <td>Topic</td>
-    <td>Conference Room</td>
-   </tr>
-   <tr height=40 style='height:30.0pt'>
-    <td>Talk 1</td>
-    <td>Feedback dynamic between emotional reinforcement and healthy eating : An application of the reciprocal Markov model</td>
-    <td>Edward Ip, Qiang Zhang, Ji Lu, Laurette Dube and Patricia Mabry.</td>
-    <td>Health</td>
-    <td>Conference Room</td>
-   </tr>
-   <tr height=40 style='height:30.0pt'>
-    <td>Talk 2</td>
-    <td>Social Network Analysis of Peer Effects on Binge Drinking among US Adolescents</td>
-    <td>Marlon Mundt</td>
-    <td>Health</td>
-    <td>Conference Room</td>
-   </tr>
-   <tr height=20 style='height:15.0pt;background:#eeeeee'>
-    <td>Break</td>
-    <td>Bio Break</td>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td>Foyer</td>
-   </tr>
-   <tr height=40 style='height:30.0pt'>
-    <td>Talk 3</td>
-    <td>Dynamic stochastic blockmodels: Statistical models for time-evolving networks</td>
-    <td>Kevin Xu and Alfred Hero</td>
-    <td>Info</td>
-    <td>Conference Room</td>
-   </tr>
-   <tr height=40 style='height:30.0pt'>
-    <td>Talk 4</td>
-    <td>Sparsification
-    and Sampling of Networks for Collective Classification</td>
-    <td>Tanwistha Saha,Huzefa Rangwala and Carlotta Domeniconi</td>
-    <td>Info</td>
-    <td>Conference Room</td>
-   </tr>
-   <tr height=20 style='height:15.0pt;background:#eeeeee;'>
-    <td>Session 2</td>
-    <td>Taster</td>
-    <td>Presenter</td>
-    <td>&nbsp;</td>
-    <td>Conference Room</td>
-   </tr>
-   <tr height=40 style='height:30.0pt'>
-    <td>Talk 1</td>
-    <td class=xl80 width=487 style='border-top:none;border-left:none;width:365pt'>Parent
-    Training Resource Allocation Optimization Using an Agent-based Model of Child
-    Maltreatment</td>
-    <td class=xl79 width=275 style='border-top:none;border-left:none;width:206pt'>Nicholas
-    Keller and Xiaolin Hu</td>
-    <td class=xl79 width=126 style='border-top:none;border-left:none;width:95pt'>Behavioral</td>
-    <td class=xl79 width=166 style='border-top:none;border-left:none;width:125pt'>Conference
-    Room</td>
-   </tr>
-   <tr height=20 style='height:15.0pt'>
-    <td>Talk 2</td>
-    <td class=xl80 width=487 style='border-top:none;border-left:none;width:365pt'>The
-    Evolution of Paternal Care</td>
-    <td class=xl79 width=275 style='border-top:none;border-left:none;width:206pt'>Mauricio
-    Salgado</td>
-    <td class=xl79 width=126 style='border-top:none;border-left:none;width:95pt'>Behavioral</td>
-    <td>Conference
-    Room</td>
-   </tr>
-   <tr height=40 style='height:30.0pt'>
-    <td>Talk 3</td>
-    <td class=xl80 width=487 style='border-top:none;border-left:none;width:365pt'>Testing
-    the Foundations of Quantal Response Equilibrium</td>
-    <td class=xl79 width=275 style='border-top:none;border-left:none;width:206pt'>Mathew
-    McCubbins, Mark Turner and Nicholas Weller.</td>
-    <td class=xl79 width=126 style='border-top:none;border-left:none;width:95pt'>Health</td>
-    <td class=xl79 width=166 style='border-top:none;border-left:none;width:125pt'>Conference
-    Room</td>
-   </tr>
-   <tr height=20 style='height:15.0pt'>
-    <td>Talk 4</td>
-    <td class=xl80 width=487 style='border-top:none;border-left:none;width:365pt'>Risk-based
-    Models of Attacker Behavior in Cybersecurity</td>
-    <td class=xl79 width=275 style='border-top:none;border-left:none;width:206pt'>Si
-    Li, Ryan Rickert and Amy Sliva</td>
-    <td class=xl79 width=126 style='border-top:none;border-left:none;width:95pt'>Military</td>
-    <td class=xl79 width=166 style='border-top:none;border-left:none;width:125pt'>Conference
-    Room</td>
-   </tr>
-   <tr height=20 style='height:15.0pt; background:#eeeeee;'>
-    <td>Break</td>
-    <td class=xl80 width=487 style='border-top:none;border-left:none;width:365pt'>Logi
-    Break, Catered</td>
-    <td class=xl78 width=275 style='border-top:none;border-left:none;width:206pt'>&nbsp;</td>
-    <td class=xl78 width=126 style='border-top:none;border-left:none;width:95pt'>&nbsp;</td>
-    <td class=xl79 width=166 style='border-top:none;border-left:none;width:125pt'>Foyer</td>
-   </tr>
-   <tr height=20 style='height:15.0pt;background:#dccc8c;'>
-    <td></td>
-    <td colspan=1>Cross-fertilization
-    Roundtables</td>
-    <td colspan=2>Fahmida Chowdhury, Tisha Wiley</td> 
-    <td>Conference Room</td>
-   </tr>
-   <tr height=20 style='height:15.0pt'> 
-    <td></td>
-    <td colspan=3 >Round Table Discussions - Session 1</td>
-    <td class=xl79 width=166 style='border-top:none;border-left:none;width:125pt'>Conference Room</td>
-   </tr>
-   <tr height=20 style='height:15.0pt'> 
-    <td></td>
-    <td colspan=3>Round Table Discussions - Session 2</td>
-    <td class=xl79 width=166 style='border-top:none;border-left:none;width:125pt'>Conference Room</td>
-   </tr>
-   <tr height=20 style='height:15.0pt'> 
-    <td></td>
-    <td colspan=3>Round Table Discussions - Session 3</td>
-    <td class=xl79 width=166 style='border-top:none;border-left:none;width:125pt'>Conference Room</td>
-   </tr>
-   <tr height=20 style='height:15.0pt'> 
-    <td></td>
-    <td colspan=3>Round Table Discussions - Session 4</td>  
-    <td class=xl79 width=166 style='border-top:none;border-left:none;width:125pt'>Conference Room</td>
-   </tr>
-</table>
-
-<table>
-   <tr>
-    <td height=20 colspan="5"><h2>April 4th, 2013</h2></td>
-   </tr>
-   <tr height=20 style='height:15.0pt;background:#dccc8c;'>
-    <td width="88">Session 3</td>
-    <td width="487">Epidemiology &amp; Communication</td>
-    <td width="275">Session Chair</td>
-    <td width="126">Topic</td>
-    <td width="166">Conference Room</td>
-   </tr>
-   <tr height=40 style='height:30.0pt'>
-    <td height=40 class=xl79 width=88 style='height:30.0pt;border-top:none;
-    border-left:none;width:66pt'>Talk 1</td>
-    <td class=xl80 width=487 style='border-top:none;border-left:none;width:365pt'>Modeling the Social Response to a Disease Outbreak</td>
-    <td class=xl79 width=275 style='border-top:none;border-left:none;width:206pt'>Jane Evans, Shannon Fast and Natasha Markuzon.</td>
-    <td class=xl79 width=126 style='border-top:none;border-left:none;width:95pt'>Health</td>
-    <td class=xl79 width=166 style='border-top:none;border-left:none;width:125pt'>Conference
-    Room</td>
-   </tr>
-   <tr height=60 style='height:45.0pt'>
-    <td height=60 class=xl79 width=88 style='height:45.0pt;border-top:none;
-    border-left:none;width:66pt'>Talk 2</td>
-    <td class=xl80 width=487 style='border-top:none;border-left:none;width:365pt'>Modeling
-    the Dynamics of Dengue Fever</td>
-    <td class=xl79 width=275 style='border-top:none;border-left:none;width:206pt'>Kun
-    Hu, Christian Thoens, Simone Bianco, Stefan Edlund, Matt Davis, James Kaufman
-    and Judith Dougla</td>
-    <td class=xl79 width=126 style='border-top:none;border-left:none;width:95pt'>Methodology</td>
-    <td class=xl79 width=166 style='border-top:none;border-left:none;width:125pt'>Conference Room</td>
-   </tr>
-   <tr height=20 style='height:15.0pt;background:#eeeeee;'>
-    <td height=20 class=xl79 width=88 style='height:15.0pt;border-top:none;
-    border-left:none;width:66pt'>Break</td>
-    <td class=xl80 width=487 style='border-top:none;border-left:none;width:365pt'>Bio
-    Break</td>
-    <td class=xl78 width=275 style='border-top:none;border-left:none;width:206pt'>&nbsp;</td>
-    <td class=xl78 width=126 style='border-top:none;border-left:none;width:95pt'>&nbsp;</td>
-    <td class=xl79 width=166 style='border-top:none;border-left:none;width:125pt'>Foyer</td>
-   </tr>
-   <tr height=60 style='height:45.0pt'>
-    <td height=60 class=xl79 width=88 style='height:45.0pt;border-top:none;
-    border-left:none;width:66pt'>Talk 3</td>
-    <td class=xl80 width=487 style='border-top:none;border-left:none;width:365pt'>Predicting
-    personality using novel mobile phone-based metrics</td>
-    <td class=xl79 width=275 style='border-top:none;border-left:none;width:206pt'>Yves-Alexandre
-    de Montjoye, Jordi Quoidbach, Florent Robic and Alex Sandy Pentland.</td>
-    <td class=xl79 width=126 style='border-top:none;border-left:none;width:95pt'>Behavioral</td>
-    <td class=xl79 width=166 style='border-top:none;border-left:none;width:125pt'>Conference
-    Room</td>
-   </tr>
-   <tr height=40 style='height:30.0pt'>
-    <td height=40 class=xl79 width=88 style='height:30.0pt;border-top:none;
-    border-left:none;width:66pt'>Talk 4</td>
-    <td class=xl80 width=487 style='border-top:none;border-left:none;width:365pt'>An
-    Agent-Based Model for Simultaneous Phone and SMS Traffic Over Time</td>
-    <td class=xl79 width=275 style='border-top:none;border-left:none;width:206pt'>Kenneth
-    Joseph, Wei Wei and Kathleen Carley</td>
-    <td class=xl79 width=126 style='border-top:none;border-left:none;width:95pt'>Behavioral</td>
-    <td class=xl79 width=166 style='border-top:none;border-left:none;width:125pt'>Conference
-    Room</td>
-   </tr>
-   <tr height=20 style='height:15.0pt'>
-    <td height=20 class=xl79 width=88 style='height:15.0pt;border-top:none;
-    border-left:none;width:66pt'>Talk 5</td>
-    <td class=xl80 width=487 style='border-top:none;border-left:none;width:365pt'>Predicting
-    Mobile Call Behavior via Subspace Methods</td>
-    <td class=xl79 width=275 style='border-top:none;border-left:none;width:206pt'>Peng
-    Dai, Shen-Shyang Ho, Wanqing Yang</td>
-    <td class=xl79 width=126 style='border-top:none;border-left:none;width:95pt'>Methodology</td>
-    <td class=xl79 width=166 style='border-top:none;border-left:none;width:125pt'>Conference
-    Room</td>
-   </tr>
-   <tr height=80 style='height:60.0pt'>
-    <td height=80 class=xl79 width=88 style='height:60.0pt;border-top:none;
-    border-left:none;width:66pt'>Talk 6</td>
-    <td class=xl80 width=487 style='border-top:none;border-left:none;width:365pt'>Modeling
-    the interactions between emergency communications and behavior in the
-    aftermath of a disaster</td>
-    <td class=xl79 width=275 style='border-top:none;border-left:none;width:206pt'>Shridhar
-    Chandan, Sudip Saha, Christopher Barrett, Stephen Eubank, Achla Marathe,
-    Madhav Marathe, Samarth Swarup and Anil Kumar Vullikanti</td>
-    <td class=xl79 width=126 style='border-top:none;border-left:none;width:95pt'>Methodology</td>
-    <td class=xl79 width=166 style='border-top:none;border-left:none;width:125pt'>Conference
-    Room</td>
-   </tr>
-   <tr height=20 style='height:15.0pt;background:#eeeeee;'>
-    <td height=20 class=xl79 width=88 style='height:15.0pt;border-top:none;
-    border-left:none;width:66pt'>Lunch</td>
-    <td class=xl80 width=487 style='border-top:none;border-left:none;width:365pt'>On
-    your own</td>
-    <td class=xl78 width=275 style='border-top:none;border-left:none;width:206pt'>&nbsp;</td>
-    <td class=xl78 width=126 style='border-top:none;border-left:none;width:95pt'>&nbsp;</td>
-    <td class=xl79 width=166 style='border-top:none;border-left:none;width:125pt'>Foyer</td>
-   </tr>
-   <tr height=20 style='height:15.0pt;background:#dccc8c;'>
-    <td height=20 class=xl76 width=88 style='height:15.0pt;border-top:none;
-    border-left:none;width:66pt'>Sesssion 4</td>
-    <td class=xl77 width=487 style='border-top:none;border-left:none;width:365pt'>Recommendations</td>
-    <td class=xl76 width=275 style='border-top:none;border-left:none;width:206pt'>Session
-    Chair</td>
-    <td class=xl78 width=126 style='border-top:none;border-left:none;width:95pt'>&nbsp;</td>
-    <td class=xl76 width=166 style='border-top:none;border-left:none;width:125pt'>Conference
-    Room</td>
-   </tr>
-   <tr height=20 style='height:15.0pt'>
-    <td height=20 class=xl79 width=88 style='height:15.0pt;border-top:none;
-    border-left:none;width:66pt'>Talk 1</td>
-    <td class=xl80 width=487 style='border-top:none;border-left:none;width:365pt'>Pareto
-    distance for multi-layer network analysis</td>
-    <td class=xl79 width=275 style='border-top:none;border-left:none;width:206pt'>Matteo
-    Magnani and Luca Rossi</td>
-    <td class=xl79 width=126 style='border-top:none;border-left:none;width:95pt'>Info</td>
-    <td class=xl79 width=166 style='border-top:none;border-left:none;width:125pt'>Conference
-    Room</td>
-   </tr>
-   <tr height=20 style='height:15.0pt'>
-    <td height=20 class=xl79 width=88 style='height:15.0pt;border-top:none;
-    border-left:none;width:66pt'>Talk 2</td>
-    <td class=xl80 width=487 style='border-top:none;border-left:none;width:365pt'>Formation
-    of multiple networks</td>
-    <td class=xl79 width=275 style='border-top:none;border-left:none;width:206pt'>Matteo
-    Magnani and Luca Rossi</td>
-    <td class=xl79 width=126 style='border-top:none;border-left:none;width:95pt'>Info</td>
-    <td class=xl79 width=166 style='border-top:none;border-left:none;width:125pt'>Conference
-    Room</td>
-   </tr>
-   <tr height=40 style='height:30.0pt'>
-    <td height=40 class=xl79 width=88 style='height:30.0pt;border-top:none;
-    border-left:none;width:66pt'>Talk 3</td>
-    <td class=xl80 width=487 style='border-top:none;border-left:none;width:365pt'>Recommendation
-    in reciprocal bi-partite social networks - a case study of online dating</td>
-    <td class=xl79 width=275 style='border-top:none;border-left:none;width:206pt'>Mo
-    Yu, Kang Zhao, John Yen and Derek Kreager</td>
-    <td class=xl79 width=126 style='border-top:none;border-left:none;width:95pt'>Info</td>
-    <td class=xl79 width=166 style='border-top:none;border-left:none;width:125pt'>Conference
-    Room</td>
-   </tr>
-   <tr height=40 style='height:30.0pt'>
-    <td height=40 class=xl79 width=88 style='height:30.0pt;border-top:none;
-    border-left:none;width:66pt'>Talk 4</td>
-    <td class=xl80 width=487 style='border-top:none;border-left:none;width:365pt'>LA-LDA:
-    A Limited Attention Topic Model for Social Recommendation</td>
-    <td class=xl79 width=275 style='border-top:none;border-left:none;width:206pt'>Jeon-Hyung
-    Kang, Kristina Lerman and Lise Getoor</td>
-    <td class=xl79 width=126 style='border-top:none;border-left:none;width:95pt'>Info</td>
-    <td class=xl79 width=166 style='border-top:none;border-left:none;width:125pt'>Conference
-    Room</td>
-   </tr>
-   <tr height=40 style='height:30.0pt'>
-    <td height=40 class=xl79 width=88 style='height:30.0pt;border-top:none;
-    border-left:none;width:66pt'>Talk 5</td>
-    <td class=xl80 width=487 style='border-top:none;border-left:none;width:365pt'>Coauthor
-    Prediction for Junior Researchers</td>
-    <td class=xl79 width=275 style='border-top:none;border-left:none;width:206pt'>Shuguang
-    Han,Daqing He,Peter BrusilovskyandZhen Yue</td>
-    <td class=xl79 width=126 style='border-top:none;border-left:none;width:95pt'>Info</td>
-    <td class=xl79 width=166 style='border-top:none;border-left:none;width:125pt'>Conference
-    Room</td>
-   </tr>
-   <tr height=20 style='height:15.0pt;background:#eeeeee;'>
-    <td height=20 class=xl79 width=88 style='height:15.0pt;border-top:none;
-    border-left:none;width:66pt'>Break</td>
-    <td class=xl80 width=487 style='border-top:none;border-left:none;width:365pt'>Bio Break</td>
-    <td class=xl78 width=275 style='border-top:none;border-left:none;width:206pt'>&nbsp;</td>
-    <td class=xl78 width=126 style='border-top:none;border-left:none;width:95pt'>&nbsp;</td>
-    <td class=xl79 width=166 style='border-top:none;border-left:none;width:125pt'>Foyer</td>
-   </tr>
-   <tr height=20 style='height:15.0pt'>
-    <td colspan=2 height=20 class=xl82 width=575 style='height:15.0pt;border-left:
-    none;width:431pt'>Poster Introductions</td>
-    <td class=xl81 width=275 style='border-top:none;border-left:none;width:206pt'>John
-    Lavery</td>
-    <td class=xl83 width=126 style='border-top:none;border-left:none;width:95pt'>&nbsp;</td>
-    <td class=xl81 width=166 style='border-top:none;border-left:none;width:125pt'>Conference
-    Room</td>
-   </tr>
-   <tr height=20 style='height:15.0pt'>
-    <td height=20 class=xl78 width=88 style='height:15.0pt;border-top:none;
-    border-left:none;width:66pt'>&nbsp;</td>
-    <td class=xl80 width=487 style='border-top:none;border-left:none;width:365pt'>Reconstructing
-    Online Behaviors by Effort Minimization</td>
-    <td class=xl79 width=275 style='border-top:none;border-left:none;width:206pt'>Armin
-    Ashouri Rad and Hazhir Rahmandad</td>
-    <td class=xl79 width=126 style='border-top:none;border-left:none;width:95pt'>Behavioral</td>
-    <td class=xl79 width=166 style='border-top:none;border-left:none;width:125pt'>Conference
-    Room</td>
-   </tr>
-   <tr height=40 style='height:30.0pt'>
-    <td height=40 class=xl78 width=88 style='height:30.0pt;border-top:none;
-    border-left:none;width:66pt'>&nbsp;</td>
-    <td class=xl80 width=487 style='border-top:none;border-left:none;width:365pt'>&quot;Copping&quot;
-    in Heroin Markets: The Hidden Information Costs of Indirect Sales and Why
-    They Matter</td>
-    <td class=xl79 width=275 style='border-top:none;border-left:none;width:206pt'>Lee
-    HofferandShah Jamal Alam</td>
-    <td class=xl79 width=126 style='border-top:none;border-left:none;width:95pt'>Behavioral</td>
-    <td class=xl79 width=166 style='border-top:none;border-left:none;width:125pt'>Conference
-    Room</td>
-   </tr>
-   <tr height=40 style='height:30.0pt'>
-    <td height=40 class=xl78 width=88 style='height:30.0pt;border-top:none;
-    border-left:none;width:66pt'>&nbsp;</td>
-    <td class=xl80 width=487 style='border-top:none;border-left:none;width:365pt'>Cultural
-    polarization and the role of extremist agents: a simple simulation model</td>
-    <td class=xl79 width=275 style='border-top:none;border-left:none;width:206pt'>Shade
-    Shutters</td>
-    <td class=xl79 width=126 style='border-top:none;border-left:none;width:95pt'>Behavioral</td>
-    <td class=xl79 width=166 style='border-top:none;border-left:none;width:125pt'>Conference
-    Room</td>
-   </tr>
-   <tr height=80 style='height:60.0pt'>
-    <td height=80 class=xl78 width=88 style='height:60.0pt;border-top:none;
-    border-left:none;width:66pt'>&nbsp;</td>
-    <td class=xl80 width=487 style='border-top:none;border-left:none;width:365pt'>Using
-    Imageability and Topic Chaining to Locate Metaphors in Linguistic Corpora</td>
-    <td class=xl79 width=275 style='border-top:none;border-left:none;width:206pt'>George
-    Aaron Broadwell, Umit Boz, Ignacio Cases, Tomek Strzalkowski, Laurie Feldman,
-    Sarah Taylor,Samira Shaikh, Ting Liu and Kit Cho</td>
-    <td class=xl79 width=126 style='border-top:none;border-left:none;width:95pt'>Behavioral</td>
-    <td class=xl79 width=166 style='border-top:none;border-left:none;width:125pt'>Conference
-    Room</td>
-   </tr>
-   <tr height=20 style='height:15.0pt'>
-    <td height=20 class=xl78 width=88 style='height:15.0pt;border-top:none;
-    border-left:none;width:66pt'>&nbsp;</td>
-    <td class=xl80 width=487 style='border-top:none;border-left:none;width:365pt'>Automated
-    Trading in Prediction Markets</td>
-    <td class=xl79 width=275 style='border-top:none;border-left:none;width:206pt'>Anamaria
-    Berea and Charles Twardy</td>
-    <td class=xl79 width=126 style='border-top:none;border-left:none;width:95pt'>Behavioral</td>
-    <td class=xl79 width=166 style='border-top:none;border-left:none;width:125pt'>Conference
-    Room</td>
-   </tr>
-   <tr height=40 style='height:30.0pt'>
-    <td height=40 class=xl78 width=88 style='height:30.0pt;border-top:none;
-    border-left:none;width:66pt'>&nbsp;</td>
-    <td class=xl80 width=487 style='border-top:none;border-left:none;width:365pt'>Discovering
-    Consumer Health Expressions from Consumer-Contributed Content</td>
-    <td class=xl79 width=275 style='border-top:none;border-left:none;width:206pt'>Ling
-    Jiang,Christopher YangandJiexun Li</td>
-    <td class=xl79 width=126 style='border-top:none;border-left:none;width:95pt'>Health</td>
-    <td class=xl79 width=166 style='border-top:none;border-left:none;width:125pt'>Conference
-    Room</td>
-   </tr>
-   <tr height=40 style='height:30.0pt'>
-    <td height=40 class=xl78 width=88 style='height:30.0pt;border-top:none;
-    border-left:none;width:66pt'>&nbsp;</td>
-    <td class=xl80 width=487 style='border-top:none;border-left:none;width:365pt'>Patient-Centered
-    Information Extraction for Effective Search on Healthcare Forum</td>
-    <td class=xl79 width=275 style='border-top:none;border-left:none;width:206pt'>Yunzhong
-    Liu and Yi Chen</td>
-    <td class=xl79 width=126 style='border-top:none;border-left:none;width:95pt'>Health</td>
-    <td class=xl79 width=166 style='border-top:none;border-left:none;width:125pt'>Conference
-    Room</td>
-   </tr>
-   <tr height=40 style='height:30.0pt'>
-    <td height=40 class=xl78 width=88 style='height:30.0pt;border-top:none;
-    border-left:none;width:66pt'>&nbsp;</td>
-    <td class=xl80 width=487 style='border-top:none;border-left:none;width:365pt'>Controlling
-    for population variances in health and risk behaviour using randomized matrix
-    based mathematical modeling</td>
-    <td class=xl79 width=275 style='border-top:none;border-left:none;width:206pt'>Brian
-    Gurbaxani, Troy Querec and Elizabeth Unger</td>
-    <td class=xl79 width=126 style='border-top:none;border-left:none;width:95pt'>Health</td>
-    <td class=xl79 width=166 style='border-top:none;border-left:none;width:125pt'>Conference Room</td>
-   </tr>
-   <tr height=20 style='height:15.0pt'>
-    <td height=20 class=xl78 width=88 style='height:15.0pt;border-top:none;
-    border-left:none;width:66pt'>&nbsp;</td>
-    <td class=xl80 width=487 style='border-top:none;border-left:none;width:365pt'>A comparative study of supportive interactions between e-patients across communication functions of a social network site.</td>
-    <td class=xl79 width=275 style='border-top:none;border-left:none;width:206pt'>Katherine
-    Chuang and Christopher Yang</td>
-    <td class=xl79 width=126 style='border-top:none;border-left:none;width:95pt'>Health</td>
-    <td class=xl79 width=166 style='border-top:none;border-left:none;width:125pt'>Conference
-    Room</td>
-   </tr>
-   <tr height=60 style='height:45.0pt'>
-    <td height=60 class=xl78 width=88 style='height:45.0pt;border-top:none;
-    border-left:none;width:66pt'>&nbsp;</td>
-    <td class=xl80 width=487 style='border-top:none;border-left:none;width:365pt'>Discovering
-    Patterns in Social Networks with Graph Matching Algorithms</td>
-    <td class=xl79 width=275 style='border-top:none;border-left:none;width:206pt'>Kirk
-    Ogaard, Heather Roy, Sue Kase, Rakesh Nagi, Kedar Sambhoos and Moises Sudit</td>
-    <td class=xl79 width=126 style='border-top:none;border-left:none;width:95pt'>Info</td>
-    <td class=xl79 width=166 style='border-top:none;border-left:none;width:125pt'>Conference
-    Room</td>
-   </tr>
-   <tr height=40 style='height:30.0pt'>
-    <td height=40 class=xl78 width=88 style='height:30.0pt;border-top:none;
-    border-left:none;width:66pt'>&nbsp;</td>
-    <td class=xl80 width=487 style='border-top:none;border-left:none;width:365pt'>Critiquing text analysis in social
-    modeling: best practices, limitations, and new frontiers</td>
-    <td class=xl79 width=275 style='border-top:none;border-left:none;width:206pt'>Peter
-    Chew</td>
-    <td class=xl79 width=126 style='border-top:none;border-left:none;width:95pt'>Info</td>
-    <td class=xl79 width=166 style='border-top:none;border-left:none;width:125pt'>Conference
-    Room</td>
-   </tr>
-   <tr height=40 style='height:30.0pt'>
-    <td height=40 class=xl78 width=88 style='height:30.0pt;border-top:none;
-    border-left:none;width:66pt'>&nbsp;</td>
-    <td class=xl80 width=487 style='border-top:none;border-left:none;width:365pt'>Which Targets to Contact First to
-    Maximize Influence over Social Network</td>
-    <td class=xl79 width=275 style='border-top:none;border-left:none;width:206pt'>Kazumi
-    Saito, Masahiro Kimura, Kouzou Ohara andHiroshi Motota</td>
-    <td class=xl79 width=126 style='border-top:none;border-left:none;width:95pt'>Info</td>
-    <td class=xl79 width=166 style='border-top:none;border-left:none;width:125pt'>Conference
-    Room</td>
-   </tr>
-   <tr height=40 style='height:30.0pt'>
-    <td height=40 class=xl78 width=88 style='height:30.0pt;border-top:none;
-    border-left:none;width:66pt'>&nbsp;</td>
-    <td class=xl80 width=487 style='border-top:none;border-left:none;width:365pt'>Intruder or Welcome Friend: Inferring
-    Group Membership in Online Social Networks</td>
-    <td class=xl79 width=275 style='border-top:none;border-left:none;width:206pt'>Ofrit
-    Lesser, Lena Tenenboim-Chekina, Lior Rokach and Yuval Elovici</td>
-    <td class=xl79 width=126 style='border-top:none;border-left:none;width:95pt'>Info</td>
-    <td class=xl79 width=166 style='border-top:none;border-left:none;width:125pt'>Conference
-    Room</td>
-   </tr>
-   <tr height=40 style='height:30.0pt'>
-    <td height=40 class=xl78 width=88 style='height:30.0pt;border-top:none;
-    border-left:none;width:66pt'>&nbsp;</td>
-    <td class=xl80 width=487 style='border-top:none;border-left:none;width:365pt'>Identifying Influential Twitter Users
-    in the 2011 Egyptian Revolution</td>
-    <td class=xl79 width=275 style='border-top:none;border-left:none;width:206pt'>Lucas
-    A. Overbey, Christopher Paribello and Terresa Jackson</td>
-    <td class=xl79 width=126 style='border-top:none;border-left:none;width:95pt'>Info</td>
-    <td class=xl79 width=166 style='border-top:none;border-left:none;width:125pt'>Conference
-    Room</td>
-   </tr>
-   <tr height=40 style='height:30.0pt'>
-    <td height=40 class=xl78 width=88 style='height:30.0pt;border-top:none;
-    border-left:none;width:66pt'>&nbsp;</td>
-    <td class=xl80 width=487 style='border-top:none;border-left:none;width:365pt'>Analytical Methods to Investigate the
-    Effects of External Influence on Socio-Cultural Opinion Evolution</td>
-    <td class=xl79 width=275 style='border-top:none;border-left:none;width:206pt'>Subhadeep
-    Chakraborty</td>
-    <td class=xl79 width=126 style='border-top:none;border-left:none;width:95pt'>Info</td>
-    <td class=xl79 width=166 style='border-top:none;border-left:none;width:125pt'>Conference
-    Room</td>
-   </tr>
-   <tr height=40 style='height:30.0pt'>
-    <td height=40 class=xl78 width=88 style='height:30.0pt;border-top:none;
-    border-left:none;width:66pt'>&nbsp;</td>
-    <td class=xl80 width=487 style='border-top:none;border-left:none;width:365pt'>Who Shall We Follow in Twitter for
-    Cyber Vulnerability?</td>
-    <td class=xl79 width=275 style='border-top:none;border-left:none;width:206pt'>Biru
-    Cui, Stephen Moskal, Haitao Du and Shanchieh Yang</td>
-    <td class=xl79 width=126 style='border-top:none;border-left:none;width:95pt'>Info</td>
-    <td class=xl79 width=166 style='border-top:none;border-left:none;width:125pt'>Conference
-    Room</td>
-   </tr>
-   <tr height=40 style='height:30.0pt'>
-    <td height=40 class=xl78 width=88 style='height:30.0pt;border-top:none;
-    border-left:none;width:66pt'>&nbsp;</td>
-    <td class=xl80 width=487 style='border-top:none;border-left:none;width:365pt'>Respondent-Driven Sampling in Online
-    Social Networks</td>
-    <td class=xl79 width=275 style='border-top:none;border-left:none;width:206pt'>Christopher
-    Homan, Vincent Silenzio and Randall Sell</td>
-    <td class=xl79 width=126 style='border-top:none;border-left:none;width:95pt'>Info</td>
-    <td class=xl79 width=166 style='border-top:none;border-left:none;width:125pt'>Conference
-    Room</td>
-   </tr>
-   <tr height=60 style='page-break-before:always;height:45.0pt'>
-    <td height=60 class=xl78 width=88 style='height:45.0pt;border-top:none;
-    border-left:none;width:66pt'>&nbsp;</td>
-    <td class=xl80 width=487 style='border-top:none;border-left:none;width:365pt'>Trade-offs in Social and Behavioral
-    Modeling in Mobile Networks</td>
-    <td class=xl79 width=275 style='border-top:none;border-left:none;width:206pt'>Yaniv
-    Altshuler, Michael Fire, Nadav Aharony, Zeev Volkovich, Yuval Elovici and
-    Alex Pentland</td>
-    <td class=xl79 width=126 style='border-top:none;border-left:none;width:95pt'>Info</td>
-    <td class=xl79 width=166 style='border-top:none;border-left:none;width:125pt'>Conference
-    Room</td>
-   </tr>
-   <tr height=40 style='height:30.0pt'>
-    <td height=40 class=xl78 width=88 style='height:30.0pt;border-top:none;
-    border-left:none;width:66pt'>&nbsp;</td>
-    <td class=xl80 width=487 style='border-top:none;border-left:none;width:365pt'>Privacy Protection in Personalized Web
-    Search: A Peer Group-Based Approach</td>
-    <td class=xl79 width=275 style='border-top:none;border-left:none;width:206pt'>Bin
-    Zhou</td>
-    <td class=xl79 width=126 style='border-top:none;border-left:none;width:95pt'>Info</td>
-    <td class=xl79 width=166 style='border-top:none;border-left:none;width:125pt'>Conference
-    Room</td>
-   </tr>
-   <tr height=60 style='height:45.0pt'>
-    <td height=60 class=xl78 width=88 style='height:45.0pt;border-top:none;
-    border-left:none;width:66pt'>&nbsp;</td>
-    <td class=xl80 width=487 style='border-top:none;border-left:none;width:365pt'>Detecting Anomalous Behaviors Using
-    Structural Properties of Social Networks</td>
-    <td class=xl79 width=275 style='border-top:none;border-left:none;width:206pt'>Yaniv
-    Altshuler, Michael Fire, Erez Shmueli, Yuval Elovici,Alfred Bruckstein, Alex
-    Pentland and David Lazer</td>
-    <td class=xl79 width=126 style='border-top:none;border-left:none;width:95pt'>Info</td>
-    <td class=xl79 width=166 style='border-top:none;border-left:none;width:125pt'>Conference
-    Room</td>
-   </tr>
-   <tr height=20 style='height:15.0pt'>
-    <td height=20 class=xl78 width=88 style='height:15.0pt;border-top:none;
-    border-left:none;width:66pt'>&nbsp;</td>
-    <td class=xl80 width=487 style='border-top:none;border-left:none;width:365pt'>Measuring User Credibility in Social
-    Media</td>
-    <td class=xl79 width=275 style='border-top:none;border-left:none;width:206pt'>Mohammad
-    Ali AbbasiandHuan Liu</td>
-    <td class=xl79 width=126 style='border-top:none;border-left:none;width:95pt'>Info</td>
-    <td class=xl79 width=166 style='border-top:none;border-left:none;width:125pt'>Conference
-    Room</td>
-   </tr>
-   <tr height=20 style='height:15.0pt'>
-    <td height=20 class=xl78 width=88 style='height:15.0pt;border-top:none;
-    border-left:none;width:66pt'>&nbsp;</td>
-    <td class=xl80 width=487 style='border-top:none;border-left:none;width:365pt'>Financial crisis, Omori's law, and
-    negative entropy flow</td>
-    <td class=xl79 width=275 style='border-top:none;border-left:none;width:206pt'>Jian
-    Gaoand Jing Hu</td>
-    <td class=xl79 width=126 style='border-top:none;border-left:none;width:95pt'>Info</td>
-    <td class=xl79 width=166 style='border-top:none;border-left:none;width:125pt'>Conference
-    Room</td>
-   </tr>
-   <tr height=40 style='height:30.0pt'>
-    <td height=40 class=xl78 width=88 style='height:30.0pt;border-top:none;
-    border-left:none;width:66pt'>&nbsp;</td>
-    <td class=xl80 width=487 style='border-top:none;border-left:none;width:365pt'>Trust Metrics and Results for Social
-    Media Analysis</td>
-    <td class=xl79 width=275 style='border-top:none;border-left:none;width:206pt'>Eli
-    Stickgold,Corey LofdahlandMichael Farry</td>
-    <td class=xl79 width=126 style='border-top:none;border-left:none;width:95pt'>Info</td>
-    <td class=xl79 width=166 style='border-top:none;border-left:none;width:125pt'>Conference
-    Room</td>
-   </tr>
-   <tr height=40 style='height:30.0pt'>
-    <td height=40 class=xl78 width=88 style='height:30.0pt;border-top:none;
-    border-left:none;width:66pt'>&nbsp;</td>
-    <td class=xl80 width=487 style='border-top:none;border-left:none;width:365pt'>Improving Markov Chain Monte Carlo
-    Estimation with Agent-Based Models</td>
-    <td class=xl79 width=275 style='border-top:none;border-left:none;width:206pt'>Rahmatollah
-    Beheshti and Gita Sukthankar</td>
-    <td class=xl79 width=126 style='border-top:none;border-left:none;width:95pt'>Methodology</td>
-    <td class=xl79 width=166 style='border-top:none;border-left:none;width:125pt'>Conference
-    Room</td>
-   </tr>
-   <tr height=20 style='height:15.0pt;background:#eeeeee;'>
-    <td height=20 class=xl79 width=88 style='height:15.0pt;border-top:none;
-    border-left:none;width:66pt'>Break</td>
-    <td class=xl80 width=487 style='border-top:none;border-left:none;width:365pt'>Logi Break, Catered drinks: room
-    conversion, poster posting</td>
-    <td class=xl78 width=275 style='border-top:none;border-left:none;width:206pt'>&nbsp;</td>
-    <td class=xl78 width=126 style='border-top:none;border-left:none;width:95pt'>&nbsp;</td>
-    <td class=xl79 width=166 style='border-top:none;border-left:none;width:125pt'>Foyer</td>
-   </tr>
-   <tr height=60 style='mso-height-source:userset;height:45.0pt'>
-    <td colspan=3 height=60 class=xl95 width=850 style='border-right:.5pt solid black;
-    height:45.0pt;border-left:none;width:637pt'>Poster Session &amp; Reception</td>
-    <td class=xl78 width=126 style='border-top:none;border-left:none;width:95pt'>&nbsp;</td>
-    <td class=xl79 width=166 style='border-top:none;border-left:none;width:125pt'>Conference
-    Room</td>
-   </tr>
- </table>
- <table>
-   <tr>
-    <td colspan=5><h2>April 5th</h2></td>
-   </tr>
-   <tr height=20 style='height:15.0pt;background:#dccc8c;'>
-    <td class=xl88 width=88 style='border-left:none;width:66pt'>Session 5</td>
-    <td class=xl88 width=487 style='border-left:none;width:365pt'>Influence &amp; Games</td>
-    <td class=xl88 width=275 style='border-left:none;width:206pt'>Session Chair</td>
-    <td class=xl91 width=126 style='border-left:none;width:95pt'>&nbsp;</td>
-    <td class=xl88 width=166 style='border-left:none;width:125pt'>Conference Room</td>
-   </tr>
-   <tr height=80 style='height:60.0pt'>
-    <td height=80 class=xl89 width=88 style='height:60.0pt;border-top:none;
-    border-left:none;width:66pt'>Talk 1</td>
-    <td class=xl89 width=487 style='border-top:none;border-left:none;width:365pt'>Influence
-    and Power in Group Interactions</td>
-    <td class=xl89 width=275 style='border-top:none;border-left:none;width:206pt'>Tomek
-    Strzalkowski,Samira Shaikh, Ting Liu, George Aaron Broadwell, Jennifer
-    Stromer-Galley, Sarah Taylor, Umit Boz and Xiaoai Ren</td>
-    <td class=xl89 width=126 style='border-top:none;border-left:none;width:95pt'>Behavioral</td>
-    <td class=xl89 width=166 style='border-top:none;border-left:none;width:125pt'>Conference
-    Room</td>
-   </tr>
-   <tr height=20 style='height:15.0pt'>
-    <td height=20 class=xl89 width=88 style='height:15.0pt;border-top:none;
-    border-left:none;width:66pt'>Talk 2</td>
-    <td class=xl89 width=487 style='border-top:none;border-left:none;width:365pt'>In
-    You We Follow: Determining the Group Leader in Dialogue</td>
-    <td class=xl89 width=275 style='border-top:none;border-left:none;width:206pt'>David
-    Bracewell and Marc Tomlinson</td>
-    <td class=xl89 width=126 style='border-top:none;border-left:none;width:95pt'>Info</td>
-    <td class=xl89 width=166 style='border-top:none;border-left:none;width:125pt'>Conference
-    Room</td>
-   </tr>
-   <tr height=40 style='height:30.0pt'>
-    <td height=40 class=xl89 width=88 style='height:30.0pt;border-top:none;
-    border-left:none;width:66pt'>Talk 3</td>
-    <td class=xl89 width=487 style='border-top:none;border-left:none;width:365pt'>A
-    Flexible Framework for Probabilistic Models of Social Trust</td>
-    <td class=xl89 width=275 style='border-top:none;border-left:none;width:206pt'>Bert
-    Huang, Angelika Kimmig, Lise Getoor and Jennifer Golbeck</td>
-    <td class=xl89 width=126 style='border-top:none;border-left:none;width:95pt'>Info</td>
-    <td class=xl89 width=166 style='border-top:none;border-left:none;width:125pt'>Conference
-    Room</td>
-   </tr>
-   <tr height=20 style='height:15.0pt; background:#eeeeee;'>
-    <td height=20 class=xl89 width=88 style='height:15.0pt;border-top:none;
-    border-left:none;width:66pt'>Break</td>
-    <td class=xl89 width=487 style='border-top:none;border-left:none;width:365pt'>Bio
-    Break</td>
-    <td class=xl92 width=275 style='border-top:none;border-left:none;width:206pt'>&nbsp;</td>
-    <td class=xl92 width=126 style='border-top:none;border-left:none;width:95pt'>&nbsp;</td>
-    <td class=xl89 width=166 style='border-top:none;border-left:none;width:125pt'>Foyer</td>
-   </tr>
-   <tr height=40 style='height:30.0pt'>
-    <td height=40 class=xl89 width=88 style='height:30.0pt;border-top:none;
-    border-left:none;width:66pt'>Talk 1</td>
-    <td class=xl89 width=487 style='border-top:none;border-left:none;width:365pt'>Peer
-    Nominations and its Relation to Interactions in a Computer Game</td>
-    <td class=xl89 width=275 style='border-top:none;border-left:none;width:206pt'>Juan
-    F. Mancilla-Caceres, Eyal Amir and Dorothy Espelage</td>
-    <td class=xl89 width=126 style='border-top:none;border-left:none;width:95pt'>Behavioral</td>
-    <td class=xl89 width=166 style='border-top:none;border-left:none;width:125pt'>Conference
-    Room</td>
-   </tr>
-   <tr height=40 style='height:30.0pt'>
-    <td height=40 class=xl89 width=88 style='height:30.0pt;border-top:none;
-    border-left:none;width:66pt'>Talk 2</td>
-    <td class=xl89 width=487 style='border-top:none;border-left:none;width:365pt'>Moral
-    Values from Simple Game Play</td>
-    <td class=xl89 width=275 style='border-top:none;border-left:none;width:206pt'>Eunkyung
-    Kim, Ravi Iyer, Jesse Graham, Yu-Han Chang and Rajiv Maheswaran</td>
-    <td class=xl89 width=126 style='border-top:none;border-left:none;width:95pt'>Behavarial</td>
-    <td class=xl89 width=166 style='border-top:none;border-left:none;width:125pt'>Conference
-    Room</td>
-   </tr>
-   <tr height=40 style='height:30.0pt'>
-    <td height=40 class=xl89 width=88 style='height:30.0pt;border-top:none;
-    border-left:none;width:66pt'>Talk 3</td>
-    <td class=xl89 width=487 style='border-top:none;border-left:none;width:365pt'>Graph
-    Formation E&#64256;ects on Social Welfare and Inequality in a Networked
-    Resource Game</td>
-    <td class=xl89 width=275 style='border-top:none;border-left:none;width:206pt'>Zhuoshu
-    Li, Yu-Han Chang and Rajiv Maheswaran</td>
-    <td class=xl89 width=126 style='border-top:none;border-left:none;width:95pt'>Info</td>
-    <td class=xl89 width=166 style='border-top:none;border-left:none;width:125pt'>Conference
-    Room</td>
-   </tr>
-   <tr height=20 style='height:15.0pt'>
-    <td colspan=2 height=20 class=xl88 width=575 style='height:15.0pt;border-left:
-    none;width:431pt'>Lunch &amp; Funding panel</td>
-    <td class=xl88 width=275 style='border-top:none;border-left:none;width:206pt'>Chairs</td>
-    <td class=xl91 width=126 style='border-top:none;border-left:none;width:95pt'>&nbsp;</td>
-    <td class=xl88 width=166 style='border-top:none;border-left:none;width:125pt'>Conference
-    Room,Foyer</td>
-   </tr>
-   <tr height=20 style='height:15.0pt'>
-    <td height=20 class=xl92 width=88 style='height:15.0pt;border-top:none;
-    border-left:none;width:66pt'>&nbsp;</td>
-    <td class=xl89 width=487 style='border-top:none;border-left:none;width:365pt'>Dylan Schmorrow;Contact: Jill Egeth
-    (jegeth@mitre.org)</td>
-    <td class=xl92 width=275 style='border-top:none;border-left:none;width:206pt'>&nbsp;</td>
-    <td class=xl92 width=126 style='border-top:none;border-left:none;width:95pt'>&nbsp;</td>
-    <td class=xl89 width=166 style='border-top:none;border-left:none;width:125pt'>Conference
-    Room</td>
-   </tr>
-   <tr height=20 style='height:15.0pt'>
-    <td height=20 class=xl92 width=88 style='height:15.0pt;border-top:none;
-    border-left:none;width:66pt'>&nbsp;</td>
-    <td class=xl89 width=487 style='border-top:none;border-left:none;width:365pt'>Rita Bush, IAPRA(rita.m.bush@ugov.gov)</td>
-    <td class=xl92 width=275 style='border-top:none;border-left:none;width:206pt'>&nbsp;</td>
-    <td class=xl92 width=126 style='border-top:none;border-left:none;width:95pt'>&nbsp;</td>
-    <td class=xl89 width=166 style='border-top:none;border-left:none;width:125pt'>Conference
-    Room</td>
-   </tr>
-   <tr height=20 style='height:15.0pt'>
-    <td height=20 class=xl92 width=88 style='height:15.0pt;border-top:none;
-    border-left:none;width:66pt'>&nbsp;</td>
-    <td class=xl89 width=487 style='border-top:none;border-left:none;width:365pt'>Rebecca Goolsby, ONR
-    (rebecca.goolsby@navy.mil)</td>
-    <td class=xl92 width=275 style='border-top:none;border-left:none;width:206pt'>&nbsp;</td>
-    <td class=xl92 width=126 style='border-top:none;border-left:none;width:95pt'>&nbsp;</td>
-    <td class=xl89 width=166 style='border-top:none;border-left:none;width:125pt'>Conference
-    Room</td>
-   </tr>
-   <tr height=20 style='height:15.0pt'>
-    <td height=20 class=xl92 width=88 style='height:15.0pt;border-top:none;
-    border-left:none;width:66pt'>&nbsp;</td>
-    <td class=xl89 width=487 style='border-top:none;border-left:none;width:365pt'>John Lavery, ARO
-    (john.e.lavery4.civ@mail.mil)</td>
-    <td class=xl92 width=275 style='border-top:none;border-left:none;width:206pt'>&nbsp;</td>
-    <td class=xl92 width=126 style='border-top:none;border-left:none;width:95pt'>&nbsp;</td>
-    <td class=xl89 width=166 style='border-top:none;border-left:none;width:125pt'>Conference
-    Room</td>
-   </tr>
-   <tr height=20 style='height:15.0pt'>
-    <td height=20 class=xl92 width=88 style='height:15.0pt;border-top:none;
-    border-left:none;width:66pt'>&nbsp;</td>
-    <td class=xl89 width=487 style='border-top:none;border-left:none;width:365pt'>Patricia Mabry, OBSSR
-    (mabryp@od.nih.gov)</td>
-    <td class=xl92 width=275 style='border-top:none;border-left:none;width:206pt'>&nbsp;</td>
-    <td class=xl92 width=126 style='border-top:none;border-left:none;width:95pt'>&nbsp;</td>
-    <td class=xl89 width=166 style='border-top:none;border-left:none;width:125pt'>Conference
-    Room</td>
-   </tr>
-   <tr height=20 style='height:15.0pt'>
-    <td height=20 class=xl92 width=88 style='height:15.0pt;border-top:none;
-    border-left:none;width:66pt'>&nbsp;</td>
-    <td class=xl89 width=487 style='border-top:none;border-left:none;width:365pt'>Bradford Hesse, NCI (hessb@nci.nih.gov)</td>
-    <td class=xl92 width=275 style='border-top:none;border-left:none;width:206pt'>&nbsp;</td>
-    <td class=xl92 width=126 style='border-top:none;border-left:none;width:95pt'>&nbsp;</td>
-    <td class=xl89 width=166 style='border-top:none;border-left:none;width:125pt'>Conference
-    Room</td>
-   </tr>
-   <tr height=20 style='height:15.0pt'>
-    <td height=20 class=xl92 width=88 style='height:15.0pt;border-top:none;
-    border-left:none;width:66pt'>&nbsp;</td>
-    <td class=xl89 width=487 style='border-top:none;border-left:none;width:365pt'>Fahmida Chowdhury, NSF
-    (fchowdhu@nsf.gov)</td>
-    <td class=xl92 width=275 style='border-top:none;border-left:none;width:206pt'>&nbsp;</td>
-    <td class=xl92 width=126 style='border-top:none;border-left:none;width:95pt'>&nbsp;</td>
-    <td class=xl89 width=166 style='border-top:none;border-left:none;width:125pt'>Conference
-    Room</td>
-   </tr>
-   <tr height=20 style='height:15.0pt'>
-    <td height=20 class=xl92 width=88 style='height:15.0pt;border-top:none;
-    border-left:none;width:66pt'>&nbsp;</td>
-    <td class=xl89 width=487 style='border-top:none;border-left:none;width:365pt'>Tisha Wiley, NIDA
-    (wileytr@nida.nih.gov)</td>
-    <td class=xl92 width=275 style='border-top:none;border-left:none;width:206pt'>&nbsp;</td>
-    <td class=xl92 width=126 style='border-top:none;border-left:none;width:95pt'>&nbsp;</td>
-    <td class=xl89 width=166 style='border-top:none;border-left:none;width:125pt'>Conference
-    Room</td>
-   </tr>
-   <tr height=20 style='height:15.0pt;background:#dccc8c;'>
-    <td height=20 class=xl90 width=88 style='height:15.0pt;border-top:none;
-    border-left:none;width:66pt'>Session 6</td>
-    <td class=xl90 width=487 style='border-top:none;border-left:none;width:365pt'>Prediction &amp; Social Media</td>
-    <td class=xl90 width=275 style='border-top:none;border-left:none;width:206pt'>Speakers</td>
-    <td class=xl92 width=126 style='border-top:none;border-left:none;width:95pt'>&nbsp;</td>
-    <td class=xl90 width=166 style='border-top:none;border-left:none;width:125pt'>Conference
-    Room</td>
-   </tr>
-   <tr height=40 style='height:30.0pt'>
-    <td height=40 class=xl89 width=88 style='height:30.0pt;border-top:none;
-    border-left:none;width:66pt'>Talk 1</td>
-    <td class=xl89 width=487 style='border-top:none;border-left:none;width:365pt'>Massive
-    media data analysis to assess world-wide political conflict and instability</td>
-    <td class=xl89 width=275 style='border-top:none;border-left:none;width:206pt'>Jian
-    Gao, Kalev Leetaru, Jing Hu, Claudio Cioffi-Revilla and Philip Schrodt.</td>
-    <td class=xl89 width=126 style='border-top:none;border-left:none;width:95pt'>Info</td>
-    <td class=xl89 width=166 style='border-top:none;border-left:none;width:125pt'>Conference
-    Room</td>
-   </tr>
-   <tr height=60 style='height:45.0pt'>
-    <td height=60 class=xl89 width=88 style='height:45.0pt;border-top:none;
-    border-left:none;width:66pt'>Talk 2</td>
-    <td class=xl89 width=487 style='border-top:none;border-left:none;width:365pt'>The
-    Marketcast Method for Aggregating Prediction Market Forecasts</td>
-    <td class=xl89 width=275 style='border-top:none;border-left:none;width:206pt'>Pavel
-    Atanasov, Phillip Rescober, Eric Stone, Emile Servan-Schreiber, Barbara
-    Mellers, Lyle Ungar and Philip Tetlock.</td>
-    <td class=xl89 width=126 style='border-top:none;border-left:none;width:95pt'>Behavioral</td>
-    <td class=xl89 width=166 style='border-top:none;border-left:none;width:125pt'>Conference
-    Room</td>
-   </tr>
-   <tr height=40 style='height:30.0pt'>
-    <td height=40 class=xl89 width=88 style='height:30.0pt;border-top:none;
-    border-left:none;width:66pt'>Talk 3</td>
-    <td class=xl89 width=487 style='border-top:none;border-left:none;width:365pt'>Exploiting
-    User Model Diversity in Forecast Aggregation</td>
-    <td class=xl89 width=275 style='border-top:none;border-left:none;width:206pt'>H.
-    Van Dyke Parunak, Sven A. Brueckner and Elizabeth Downs</td>
-    <td class=xl89 width=126 style='border-top:none;border-left:none;width:95pt'>Military</td>
-    <td class=xl89 width=166 style='border-top:none;border-left:none;width:125pt'>Conference
-    Room</td>
-   </tr>
-   <tr height=40 style='height:30.0pt'>
-    <td height=40 class=xl89 width=88 style='height:30.0pt;border-top:none;
-    border-left:none;width:66pt'>Talk 4</td>
-    <td class=xl89 width=487 style='border-top:none;border-left:none;width:365pt'>Geographic
-    Profiling of Criminal Groups for Military Cordon and Search</td>
-    <td class=xl89 width=275 style='border-top:none;border-left:none;width:206pt'>Samuel
-    Huddleston, Matthew Gerber and Donald Brown</td>
-    <td class=xl89 width=126 style='border-top:none;border-left:none;width:95pt'>Military</td>
-    <td class=xl89 width=166 style='border-top:none;border-left:none;width:125pt'>Conference
-    Room</td>
-   </tr>
-   <tr height=20 style='height:15.0pt;background:#eeeeee;'>
-    <td height=20 class=xl89 width=88 style='height:15.0pt;border-top:none;
-    border-left:none;width:66pt'>Break</td>
-    <td class=xl89 width=487 style='border-top:none;border-left:none;width:365pt'>Bio
-    Break</td>
-    <td class=xl92 width=275 style='border-top:none;border-left:none;width:206pt'>&nbsp;</td>
-    <td class=xl92 width=126 style='border-top:none;border-left:none;width:95pt'>&nbsp;</td>
-    <td class=xl89 width=166 style='border-top:none;border-left:none;width:125pt'>Foyer</td>
-   </tr>
-   <tr height=40 style='height:30.0pt'>
-    <td height=40 class=xl89 width=88 style='height:30.0pt;border-top:none;
-    border-left:none;width:66pt'>Talk 1</td>
-    <td class=xl89 width=487 style='border-top:none;border-left:none;width:365pt'>Hashtag
-    lifespan and social networks in social media during the London Riots</td>
-    <td class=xl89 width=275 style='border-top:none;border-left:none;width:206pt'>Kimberly
-    Glasgow and Clayton Fink</td>
-    <td class=xl89 width=126 style='border-top:none;border-left:none;width:95pt'>Info</td>
-    <td class=xl89 width=166 style='border-top:none;border-left:none;width:125pt'>Conference
-    Room</td>
-   </tr>
-   <tr height=80 style='height:60.0pt'>
-    <td height=80 class=xl89 width=88 style='height:60.0pt;border-top:none;
-    border-left:none;width:66pt'>Talk 2</td>
-    <td class=xl89 width=487 style='border-top:none;border-left:none;width:365pt'>A
-    Comparative Study of Social Media and Traditional Polling in the Egyptian
-    Uprising of 2011</td>
-    <td class=xl89 width=275 style='border-top:none;border-left:none;width:206pt'>Lora
-    Weiss, Erica Briscoe, Heather Hayes, Fuxin Li, Guy Lebanon, Sim Harbert, Olga
-    Kemenova, Chris Stewart, Darby Miller-Steiger and Dan Foy</td>
-    <td class=xl89 width=126 style='border-top:none;border-left:none;width:95pt'>Info</td>
-    <td class=xl89 width=166 style='border-top:none;border-left:none;width:125pt'>Conference
-    Room</td>
-   </tr>
-   <tr height=60 style='height:45.0pt'>
-    <td height=60 class=xl89 width=88 style='height:45.0pt;border-top:none;
-    border-left:none;width:66pt'>Talk 3</td>
-    <td class=xl89 width=487 style='border-top:none;border-left:none;width:365pt'>A
-    Text Cube Approach to Human, Social and Cultural Behavior in the Twitter
-    Stream</td>
-    <td class=xl89 width=275 style='border-top:none;border-left:none;width:206pt'>Xiong
-    Liu, Kaizhi Tang, Jeffrey Hancock, Jiawei Han, Mitchell Song, Roger Xu and
-    Bob Pokorny</td>
-    <td class=xl89 width=126 style='border-top:none;border-left:none;width:95pt'>Info</td>
-    <td class=xl89 width=166 style='border-top:none;border-left:none;width:125pt'>Conference
-    Room</td>
-   </tr>
-   <tr height=40 style='height:30.0pt'>
-    <td height=40 class=xl89 width=88 style='height:30.0pt;border-top:none;
-    border-left:none;width:66pt'>Talk 4</td>
-    <td class=xl89 width=487 style='border-top:none;border-left:none;width:365pt'>Mapping
-    Cyber-Collective Action among Female Muslim Bloggers for the Women to Drive
-    Movement</td>
-    <td class=xl89 width=275 style='border-top:none;border-left:none;width:206pt'>Serpil
-    Yuce, Nitin Agarwal and Rolf Wigand.</td>
-    <td class=xl89 width=126 style='border-top:none;border-left:none;width:95pt'>Info</td>
-    <td class=xl89 width=166 style='border-top:none;border-left:none;width:125pt'>Conference
-    Room</td>
-   </tr>
-    </table>
-
-  </div>
-</div>
-
-<!--#include virtual="menu.html" -->
-
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-36899667-1']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
-
-</body>
-
-
+        </script>
+    </body>
 </html>
