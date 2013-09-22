@@ -18,12 +18,14 @@ var agendaData = [
       {'start': '7:30',
        'end': '14:00',
        'title': 'Registration',
-       'location': 'Lobby'},
+       'location': 'Lobby',
+       'description': 'pick up your conference badge and swag bag'},
 
       {'start': '9:00',
        'end': '12:00',
        'title': 'Morning Tutorials',
-       'location': ''},
+       'location': '',
+       'description': 'Social Simulation Introduction to Agent-based Modeling;  A Review of Human Mobility Models based on Digital Traces of Human Activity'},
 
        {'start': '12:00',
        'end': '13:30',
@@ -33,9 +35,8 @@ var agendaData = [
        {'start': '13:30',
        'end': '16:30',
        'title': 'Afternoon Tutorials',
-       'location': ''}
-
-
+       'location': '',
+       'description': 'Building Agent-Based Models with the MASON toolkit; Categorial Analysis of Social Processes'}
     ]
   },
 
@@ -47,7 +48,8 @@ var agendaData = [
       {'start': '8:00',
        'end': '16:00',
        'title': 'Registration',
-       'location': 'Lobby'},
+       'location': 'Lobby',
+       'description': 'pick up your conference badge and swag bag'},
 
       {'start': '8:15',
        'end': '8:30',
@@ -67,7 +69,7 @@ var agendaData = [
       {'start': '11:00',
        'end': '12:00',
        'title': 'Challenge session',
-       'location': 'Conference Room'}, 
+       'location': 'Conference Room'},
 
       {'start': '12:00',
        'end': '13:00',
@@ -96,7 +98,8 @@ var agendaData = [
       {'start': '8:00',
        'end': '13:00',
        'title': 'Registration',
-       'location': 'Lobby'},
+       'location': 'Lobby',
+       'description': 'pick up your conference badge and swag bag'},
 
       {'start': '8:15',
        'end': '8:30',
@@ -116,7 +119,7 @@ var agendaData = [
       {'start': '11:00',
        'end': '12:00',
        'title': 'Session 4: Recommendations',
-       'location': ''}, 
+       'location': ''},
 
       {'start': '12:00',
        'end': '13:00',
@@ -163,7 +166,7 @@ var agendaData = [
       {'start': '11:45',
        'end': '13:15',
        'title': 'Lunch served *',
-       'location': ''}, 
+       'location': ''},
 
       {'start': '11:45',
        'end': '13:00',

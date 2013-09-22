@@ -103,7 +103,8 @@ var agenda = (function() {
       infoBalloon.innerHTML = '<h4>' + schedule.title + '</h4>';
       infoBalloon.innerHTML += '<p>' + convertToAmPm(schedule.start) +
           ' - ' + convertToAmPm(schedule.end) +
-          '</p><p>' + schedule.location + '</p>';
+          ', ' + schedule.location + '<br />' +
+          '' + schedule.description + '</p>';
       var height = parseInt(infoBalloon.offsetHeight);
       infoBalloon.style.left = posx - 32 + 'px';
       infoBalloon.style.top = (posy - height) + 20 + 'px';
